@@ -19,7 +19,7 @@ KEEP = ["category", "school", "schoolShort", "institute", "title", "degree", "ur
         "publishedAt", "deadline", "startDate", "location", "highlights", "tags",
         "snippet", "source", "dateEstimated", "requirements",
         "region", "country", "subfield", "funding", "partner", "desc",
-        "schoolDesc", "tier", "ielts", "gpa"]
+        "schoolDesc", "tier", "ielts", "gpa", "qs"]
 CAMP_DEGREES = {"夏令营", "冬令营", "暑校", "学习班"}
 
 # 板块路由：显式映射 > 内容推断（有 partner 视为国际联培；仅 region 视为海外项目）
@@ -415,6 +415,84 @@ def board_of(x):
     return "domestic"
 
 
+# QS 2026 世界大学排名（data/external/qs-rankings.json，top 200）注入每条目 qs 字段
+def _norm_en(s):
+    return re.sub(r"[^a-z0-9]", "", (s or "").lower())
+
+
+def _load_qs():
+    path = ROOT / "data" / "external" / "qs-rankings.json"
+    if not path.exists():
+        return {}, {}
+    try:
+        entries = json.loads(path.read_text(encoding="utf-8")).get("entries", [])
+    except Exception as e:
+        print(f"qs-rankings 解析失败: {e}")
+        return {}, {}
+    en_map, zh_map = {}, {}
+    for e in entries:
+        try:
+            rank = int(e.get("rank"))
+        except (TypeError, ValueError):
+            continue
+        if e.get("en"):
+            en_map.setdefault(_norm_en(e["en"]), rank)
+        if e.get("zh"):
+            zh_map.setdefault(e["zh"], rank)
+    return en_map, zh_map
+
+
+EN_QS, ZH_QS = _load_qs()
+# 库内校名 → QS 榜键（研究所类不入榜，留 None）
+QS_ALIAS = {
+    "Ludwig-Maximilians-Universität München": ("zh", "慕尼黑大学"),
+    "Marburg University": ("zh", "马尔堡大学"),
+    "ETH Zürich / University of Zurich": ("zh", "苏黎世联邦理工学院"),
+    "EPFL（洛桑联邦理工学院）": ("zh", "洛桑联邦理工学院"),
+    "香港科技大学（广州）": ("zh", "香港科技大学"),
+    "香港中文大学（深圳）": ("zh", "香港中文大学"),
+    "University of Manchester": ("en", "The University of Manchester"),
+    "University of Edinburgh（牵头）": ("en", "The University of Edinburgh"),
+    "University of Sydney": ("en", "The University of Sydney"),
+    "University of New South Wales": ("en", "The University of New South Wales"),
+    "The University of Queensland": ("en", "The University of Queensland"),
+    "University of Auckland": ("en", "The University of Auckland"),
+    "University of Michigan": ("zh", "密歇根大学-安娜堡"),
+    "Australian National University": ("zh", "澳大利亚国立大学"),
+    "University of British Columbia": ("en", "University of British Columbia"),
+    "Freie Universität Berlin": ("en", "Free University of Berlin"),
+    "Humboldt-Universität zu Berlin": ("en", "Humboldt University of Berlin"),
+    "Technische Universität Berlin": ("en", "Technical University of Berlin"),
+    "VIB-KU Leuven Center for Neuroscience": ("zh", "天主教鲁汶大学(荷兰语区)"),
+    "Biozentrum, University of Basel": ("en", "University of Basel"),
+    "University of Copenhagen": ("en", "University of Copenhagen"),
+    "Aarhus University": ("en", "Aarhus University"),
+    "Duke-NUS医学院": ("en", "National University of Singapore"),
+    "Vienna Biocenter（IMP/IMBA/GMI/MFPL等）": ("en", "University of Vienna"),
+    "NCMBM - Centre for Molecular Biosciences and Medicine, University of Oslo": ("en", "University of Oslo"),
+    "Novo Nordisk Foundation研究中心（DTU/UCPH注册）": ("en", "Technical University of Denmark"),
+    "University of Sheffield（与Leeds、York联合）": ("en", "The University of Sheffield"),
+    "University College London（Sainsbury Wellcome Centre）": ("zh", "伦敦大学学院"),
+    "University of Hamburg": ("en", "Universität Hamburg"),
+    "University of Freiburg": ("en", "Albert-Ludwigs-Universitaet Freiburg"),
+    "National University of Singapore": ("en", "National University of Singapore"),
+    "南洋理工大学": ("zh", "南洋理工大学"),
+    "Seoul National University": ("zh", "首尔国立大学"),
+    "首尔国立大学": ("zh", "首尔国立大学"),
+}
+
+
+def qs_of(school):
+    if not school:
+        return None
+    a = QS_ALIAS.get(school)
+    if a:
+        return (ZH_QS if a[0] == "zh" else EN_QS).get(a[1])
+    if school in ZH_QS:
+        return ZH_QS[school]
+    return EN_QS.get(_norm_en(school))
+
+
 def clean(x):
     board = board_of(x)
     o = {k: x.get(k) for k in KEEP}
@@ -450,6 +528,7 @@ def clean(x):
     zh = SCHOOL_ZH.get(o["school"])
     if zh:
         o["schoolZh"], o["schoolAbbr"] = zh
+    o["qs"] = qs_of(o["school"])
     if o.get("funding") in FUNDING_NORM:
         o["funding"] = FUNDING_NORM[o["funding"]]
     o["ielts"] = norm_num(x.get("ielts"))

@@ -6,7 +6,7 @@
 <title>升学雷达 — 2026–27 招生信息聚合</title>
 <meta name="description" content="聚合国内外 2026–27 招生周期信息：国内 300+ 硕博简章与联培专项、教育部中外合作办学名录、欧美日韩东南亚生物医药类全奖硕博项目，附背景匹配筛选，每周一更新。">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ccircle cx='16' cy='16' r='14' fill='none' stroke='%230071e3' stroke-width='2' opacity='.35'/%3E%3Ccircle cx='16' cy='16' r='8' fill='none' stroke='%230071e3' stroke-width='2' opacity='.6'/%3E%3Ccircle cx='16' cy='16' r='2.6' fill='%230071e3'/%3E%3Cpath d='M16 16 L28 7 A15 15 0 0 0 16 1 Z' fill='%230071e3' opacity='.28'/%3E%3C/svg%3E">
-<link rel="stylesheet" href="assets/style.css?v=9">
+<link rel="stylesheet" href="assets/style.css?v=10">
 </head><body id="top">
 
 <nav id="nav">
@@ -126,7 +126,14 @@
         <option value="硕士">硕士</option>
         <option value="双学位">双学位</option>
       </select>
+      <select id="intl-qs" aria-label="按QS筛选">
+        <option value="">QS 不限</option>
+        <option value="50">QS Top 50</option>
+        <option value="100">QS Top 100</option>
+        <option value="200">QS Top 200</option>
+      </select>
       <select id="intl-sort" aria-label="排序">
+        <option value="qs">QS 排名</option>
         <option value="tier">名校优先</option>
         <option value="urgency">截止临近优先</option>
       </select>
@@ -220,7 +227,14 @@
         <option value="博士">博士</option>
         <option value="硕士">硕士</option>
       </select>
+      <select id="overseas-qs" aria-label="按QS筛选">
+        <option value="">QS 不限</option>
+        <option value="50">QS Top 50</option>
+        <option value="100">QS Top 100</option>
+        <option value="200">QS Top 200</option>
+      </select>
       <select id="overseas-sort" aria-label="排序">
+        <option value="qs">QS 排名</option>
         <option value="tier">名校优先</option>
         <option value="urgency">截止临近优先</option>
       </select>
@@ -321,6 +335,6 @@
   <p>所有招生信息以各校官网原文为准；本站不收集任何数据，API Key 仅存于你的浏览器本地。</p>
 </footer>
 
-<script src="assets/app.js?v=14"></script>
+<script src="assets/app.js?v=15"></script>
 </body>
 </html>

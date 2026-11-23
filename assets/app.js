@@ -49,8 +49,8 @@ const state = {
   camp: '全部', campField: '全部', campSub: '全部',
 };
 const boardState = {
-  intl: { region: '全部', country: '全部', subfield: '全部', degree: '全部', q: '', sort: 'tier', hideExpired: true, view: 'school' },
-  overseas: { region: '全部', country: '全部', subfield: '全部', degree: '全部', q: '', sort: 'tier', hideExpired: true, view: 'school' },
+  intl: { region: '全部', country: '全部', subfield: '全部', degree: '全部', q: '', sort: 'tier', hideExpired: true, view: 'school', qs: '' },
+  overseas: { region: '全部', country: '全部', subfield: '全部', degree: '全部', q: '', sort: 'qs', hideExpired: true, view: 'school', qs: '' },
 };
 const curSchool = { intl: null, overseas: null };
 
@@ -183,6 +183,7 @@ function cardHTML(e, i) {
   const schoolNameFull = foreign && e.schoolZh && e.schoolZh !== e.school ? ` title="${esc(e.school)}"` : '';
   const tierBadge = e.tier === 0 ? '<span class="chip-tier t0">★ 顶尖</span>'
     : (e.tier === 1 ? '<span class="chip-tier t1">知名</span>' : '');
+  const qsBadge = typeof e.qs === 'number' && e.qs > 0 ? `<span class="chip-qs">QS #${e.qs}</span>` : '';
   const reach = e._reach ? '<span class="chip-tier t0">冲刺位</span>' : '';
   const partner = foreign && e.partner ? `<span class="chip-partner">× ${esc(e.partner)}</span>` : '';
   const place = foreign && e.country ? `<span class="chip-place">${FLAG[e.country] || ''} ${esc(e.country)}</span>` : '';
@@ -199,7 +200,7 @@ function cardHTML(e, i) {
     ${(e.fields || [e.field]).filter(Boolean).slice(0, foreign ? 1 : 2).map(f => `<span class="chip-field f-${esc(f)}">${esc(f)}</span>`).join('')}
     ${(e.fields || []).length > (foreign ? 1 : 2) ? `<span class="chip-field f-其他交叉">+${(e.fields || []).length - (foreign ? 1 : 2)}</span>` : ''}
     ${degree ? `<span class="chip-degree d-${esc(degree)}">${esc(degree)}</span>` : ''}
-    ${tierBadge}${reach}
+    ${qsBadge}${tierBadge}${reach}
     ${isNew ? '<span class="badge-new">新</span>' : ''}
     ${pastBadge}
   </div>
@@ -410,6 +411,8 @@ const tierCmp = (a, b) => {
   if (va !== vb) return va - vb;
   return (b.publishedAt || '').localeCompare(a.publishedAt || '');
 };
+const qsRank = e => (typeof e.qs === 'number' && e.qs > 0) ? e.qs : 9999;
+const qsCmp = (a, b) => (qsRank(a) - qsRank(b)) || tierCmp(a, b);
 const urgencyCmp = (a, b) => {
   const da = daysUntil(a.deadline), db = daysUntil(b.deadline);
   const va = da === null ? 1e9 : (da < 0 ? 1e9 + da : da);
@@ -432,6 +435,7 @@ function renderBoard(board) {
   if (st.country !== '全部') list = list.filter(e => (e.country || '') === st.country);
   if (st.degree !== '全部') list = list.filter(e => (e.degree || '').includes(st.degree) || (e.tags || []).includes(st.degree));
   if (st.subfield !== '全部') list = list.filter(e => (e.subfield || '') === st.subfield);
+  if (st.qs) list = list.filter(e => typeof e.qs === 'number' && e.qs > 0 && e.qs <= +st.qs);
   if (st.q) list = list.filter(e => searchable(e).includes(st.q.toLowerCase()));
   if (st.hideExpired) list = list.filter(e => { const d = daysUntil(e.deadline); return d === null || d >= 0; });
 
@@ -456,6 +460,7 @@ function renderBoard(board) {
   const isMscOnly = e => e.degree === '硕士';
   const degRank = e => isPhdLike(e) ? 0 : (isMscOnly(e) ? 1 : 2);
   if (st.sort === 'urgency') list.sort(urgencyCmp);
+  else if (st.sort === 'qs') list.sort((a, b) => (degRank(a) - degRank(b)) || qsCmp(a, b));
   else list.sort((a, b) => (degRank(a) - degRank(b)) || tierCmp(a, b));
 
   let groups;
@@ -499,6 +504,7 @@ function schTitleOf(g) {
 }
 
 function renderSchoolWall(board, list) {
+  const st = boardState[board];
   const grid = $(`#${board}-school-grid`);
   const groups = new Map();
   list.forEach(e => {
@@ -508,13 +514,17 @@ function renderSchoolWall(board, list) {
   const gs = [...groups.entries()].map(([school, items]) => ({
     school, items,
     tier: Math.min(...items.map(e => e.tier ?? 9)),
+    qs: Math.min(...items.map(qsRank)),
     zh: (items.find(e => e.schoolZh) || {}).schoolZh,
     abbr: (items.find(e => e.schoolAbbr) || {}).schoolAbbr,
     country: (items.find(e => e.country) || {}).country,
     region: (items.find(e => e.region) || {}).region,
     desc: (items.find(e => e.schoolDesc) || {}).schoolDesc || '',
   }));
-  gs.sort((a, b) => a.tier - b.tier || b.items.length - a.items.length || a.school.localeCompare(b.school));
+  gs.sort((a, b) => {
+    if (st.sort === 'urgency') return (a.tier - b.tier) || (b.items.length - a.items.length) || a.school.localeCompare(b.school);
+    return (a.qs - b.qs) || (a.tier - b.tier) || (b.items.length - a.items.length) || a.school.localeCompare(b.school);
+  });
   const cards = gs.map(g => {
     const subs = [...new Set(g.items.map(e => e.subfield).filter(s => s && s !== '综合' && s !== '生物综合'))].slice(0, 3);
     const logo = logoFor(g.items[0]);
@@ -530,6 +540,7 @@ function renderSchoolWall(board, list) {
   <div class="sch-top">
     ${logo ? `<img class="sch-logo big" src="${esc(logo)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()">` : ''}
     <span class="sch-name">${esc(schTitleOf(g))}</span>
+    ${g.qs < 9999 ? `<span class="chip-qs">QS #${g.qs}</span>` : ''}
     ${g.tier === 0 ? '<span class="chip-tier t0">★ 顶尖</span>' : (g.tier === 1 ? '<span class="chip-tier t1">知名</span>' : '')}
   </div>
   <span class="sch-meta">${esc(meta)}</span>
@@ -608,6 +619,7 @@ function wireBoard(board) {
   $(`#${board}-search`).addEventListener('input', e => { st.q = e.target.value.trim(); renderBoard(board); });
   $(`#${board}-degree`).onchange = e => { st.degree = e.target.value; renderBoard(board); };
   $(`#${board}-sort`).onchange = e => { st.sort = e.target.value; renderBoard(board); };
+  $(`#${board}-qs`).onchange = e => { st.qs = e.target.value; renderBoard(board); };
   $(`#${board}-hide-expired`).addEventListener('change', e => {
     st.hideExpired = e.target.checked;
     updateCountryChips(board);
