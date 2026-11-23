@@ -1,6 +1,6 @@
 {
  "fetchedAt": "2026-11-23",
- "generatedAt": "2026-11-23T11:16:21",
+ "generatedAt": "2026-11-23T11:20:23",
  "counts": {
   "programs": 986,
   "camps": 56,
@@ -516,7 +516,7 @@
    "tier": 1,
    "ielts": 7.0,
    "gpa": null,
-   "qs": null,
+   "qs": 112,
    "board": "overseas",
    "fields": [
     "生物医学"
@@ -557,7 +557,7 @@
    "tier": 1,
    "ielts": null,
    "gpa": null,
-   "qs": null,
+   "qs": 138,
    "board": "overseas",
    "fields": [
     "生物医学"
@@ -596,7 +596,7 @@
    "tier": 1,
    "ielts": 7.0,
    "gpa": null,
-   "qs": null,
+   "qs": 121,
    "board": "overseas",
    "fields": [
     "生物医学"
@@ -674,7 +674,7 @@
    "tier": 2,
    "ielts": 7.0,
    "gpa": null,
-   "qs": null,
+   "qs": 187,
    "board": "overseas",
    "fields": [
     "生物医学"
@@ -752,7 +752,7 @@
    "tier": 1,
    "ielts": null,
    "gpa": null,
-   "qs": null,
+   "qs": 64,
    "board": "overseas",
    "fields": [
     "生物医学"
@@ -947,7 +947,7 @@
    "tier": 1,
    "ielts": 6.5,
    "gpa": null,
-   "qs": null,
+   "qs": 123,
    "board": "overseas",
    "fields": [
     "生物医学"
@@ -1415,7 +1415,7 @@
    "tier": 1,
    "ielts": null,
    "gpa": null,
-   "qs": null,
+   "qs": 102,
    "board": "overseas",
    "fields": [
     "生物医学"
@@ -1688,7 +1688,7 @@
    "tier": 1,
    "ielts": 6.5,
    "gpa": null,
-   "qs": null,
+   "qs": 151,
    "board": "overseas",
    "fields": [
     "生物医学"
@@ -1727,7 +1727,7 @@
    "tier": 1,
    "ielts": 6.5,
    "gpa": null,
-   "qs": null,
+   "qs": 139,
    "board": "overseas",
    "fields": [
     "生物医学"
@@ -1805,7 +1805,7 @@
    "tier": 1,
    "ielts": 6.5,
    "gpa": null,
-   "qs": null,
+   "qs": 140,
    "board": "overseas",
    "fields": [
     "生物医学"
@@ -2903,7 +2903,7 @@
    "tier": 1,
    "ielts": null,
    "gpa": null,
-   "qs": null,
+   "qs": 46,
    "board": "overseas",
    "fields": [
     "生物医学"
@@ -2981,7 +2981,7 @@
    "tier": 1,
    "ielts": 7.0,
    "gpa": null,
-   "qs": null,
+   "qs": 66,
    "board": "overseas",
    "fields": [
     "生物医学"
@@ -3020,7 +3020,7 @@
    "tier": 1,
    "ielts": null,
    "gpa": null,
-   "qs": null,
+   "qs": 68,
    "board": "overseas",
    "fields": [
     "生物医学"
@@ -6445,7 +6445,7 @@
    "tier": 1,
    "ielts": 6.5,
    "gpa": null,
-   "qs": null,
+   "qs": 26,
    "board": "overseas",
    "fields": [
     "生物医学"
@@ -6529,7 +6529,7 @@
    "tier": 1,
    "ielts": null,
    "gpa": null,
-   "qs": null,
+   "qs": 43,
    "board": "overseas",
    "fields": [
     "生物医学"
@@ -6570,7 +6570,7 @@
    "tier": 1,
    "ielts": null,
    "gpa": null,
-   "qs": null,
+   "qs": 20,
    "board": "overseas",
    "fields": [
     "生物医学"
@@ -6652,7 +6652,7 @@
    "tier": 1,
    "ielts": 6.5,
    "gpa": null,
-   "qs": null,
+   "qs": 65,
    "board": "overseas",
    "fields": [
     "生物医学"
@@ -6822,7 +6822,7 @@
    "tier": 1,
    "ielts": null,
    "gpa": null,
-   "qs": null,
+   "qs": 40,
    "board": "overseas",
    "fields": [
     "生物医学"
@@ -6863,7 +6863,7 @@
    "tier": 1,
    "ielts": 7.0,
    "gpa": null,
-   "qs": null,
+   "qs": 40,
    "board": "overseas",
    "fields": [
     "生物医学"
@@ -9485,7 +9485,7 @@
    "tier": 1,
    "ielts": null,
    "gpa": null,
-   "qs": null,
+   "qs": 87,
    "board": "overseas",
    "fields": [
     "生物医学"
@@ -9528,7 +9528,7 @@
    "tier": 1,
    "ielts": null,
    "gpa": null,
-   "qs": null,
+   "qs": 87,
    "board": "overseas",
    "fields": [
     "生物医学"
@@ -9571,7 +9571,7 @@
    "tier": 1,
    "ielts": null,
    "gpa": null,
-   "qs": null,
+   "qs": 87,
    "board": "overseas",
    "fields": [
     "生物医学"
@@ -9612,7 +9612,7 @@
    "tier": 1,
    "ielts": null,
    "gpa": null,
-   "qs": null,
+   "qs": 87,
    "board": "overseas",
    "fields": [
     "生物医学"
@@ -9653,7 +9653,7 @@
    "tier": 1,
    "ielts": null,
    "gpa": null,
-   "qs": null,
+   "qs": 87,
    "board": "overseas",
    "fields": [
     "生物医学"
@@ -9694,7 +9694,7 @@
    "tier": 1,
    "ielts": null,
    "gpa": null,
-   "qs": null,
+   "qs": 87,
    "board": "overseas",
    "fields": [
     "生物医学"
@@ -9735,7 +9735,7 @@
    "tier": 1,
    "ielts": null,
    "gpa": null,
-   "qs": null,
+   "qs": 87,
    "board": "overseas",
    "fields": [
     "生物医学"
@@ -11115,7 +11115,7 @@
    "tier": 1,
    "ielts": null,
    "gpa": null,
-   "qs": null,
+   "qs": 128,
    "board": "overseas",
    "fields": [
     "生物医学"
@@ -11156,7 +11156,7 @@
    "tier": 1,
    "ielts": null,
    "gpa": null,
-   "qs": null,
+   "qs": 128,
    "board": "overseas",
    "fields": [
     "生物医学"
@@ -15107,7 +15107,7 @@
    "tier": 1,
    "ielts": null,
    "gpa": null,
-   "qs": null,
+   "qs": 143,
    "board": "overseas",
    "fields": [
     "生物医学"
@@ -15148,7 +15148,7 @@
    "tier": 1,
    "ielts": null,
    "gpa": null,
-   "qs": null,
+   "qs": 143,
    "board": "overseas",
    "fields": [
     "生物医学"
@@ -15189,7 +15189,7 @@
    "tier": 1,
    "ielts": null,
    "gpa": null,
-   "qs": null,
+   "qs": 143,
    "board": "overseas",
    "fields": [
     "生物医学"
@@ -16745,7 +16745,7 @@
    "tier": 1,
    "ielts": null,
    "gpa": null,
-   "qs": null,
+   "qs": 198,
    "board": "overseas",
    "fields": [
     "生物医学"
@@ -16788,7 +16788,7 @@
    "tier": 1,
    "ielts": null,
    "gpa": null,
-   "qs": null,
+   "qs": 198,
    "board": "overseas",
    "fields": [
     "生物医学"
@@ -16829,7 +16829,7 @@
    "tier": 1,
    "ielts": null,
    "gpa": null,
-   "qs": null,
+   "qs": 198,
    "board": "overseas",
    "fields": [
     "生物医学"
@@ -16870,7 +16870,7 @@
    "tier": 1,
    "ielts": null,
    "gpa": null,
-   "qs": null,
+   "qs": 198,
    "board": "overseas",
    "fields": [
     "生物医学"
@@ -16911,7 +16911,7 @@
    "tier": 1,
    "ielts": null,
    "gpa": null,
-   "qs": null,
+   "qs": 198,
    "board": "overseas",
    "fields": [
     "生物医学"
@@ -16952,7 +16952,7 @@
    "tier": 1,
    "ielts": null,
    "gpa": null,
-   "qs": null,
+   "qs": 198,
    "board": "overseas",
    "fields": [
     "生物医学"
@@ -17651,7 +17651,7 @@
    "tier": 1,
    "ielts": null,
    "gpa": null,
-   "qs": null,
+   "qs": 190,
    "board": "overseas",
    "fields": [
     "生物医学"
@@ -17692,7 +17692,7 @@
    "tier": 1,
    "ielts": null,
    "gpa": null,
-   "qs": null,
+   "qs": 190,
    "board": "overseas",
    "fields": [
     "生物医学"
@@ -17733,7 +17733,7 @@
    "tier": 1,
    "ielts": null,
    "gpa": null,
-   "qs": null,
+   "qs": 190,
    "board": "overseas",
    "fields": [
     "计科软工"
@@ -17774,7 +17774,7 @@
    "tier": 1,
    "ielts": null,
    "gpa": null,
-   "qs": null,
+   "qs": 190,
    "board": "overseas",
    "fields": [
     "生物医学"
@@ -17815,7 +17815,7 @@
    "tier": 1,
    "ielts": null,
    "gpa": null,
-   "qs": null,
+   "qs": 190,
    "board": "overseas",
    "fields": [
     "生物医学"
@@ -17856,7 +17856,7 @@
    "tier": 1,
    "ielts": null,
    "gpa": null,
-   "qs": null,
+   "qs": 190,
    "board": "overseas",
    "fields": [
     "生物医学"
@@ -22551,7 +22551,7 @@
    "tier": 0,
    "ielts": null,
    "gpa": null,
-   "qs": null,
+   "qs": 23,
    "board": "overseas",
    "fields": [
     "生物医学"
@@ -22635,7 +22635,7 @@
    "tier": 1,
    "ielts": null,
    "gpa": null,
-   "qs": null,
+   "qs": 156,
    "board": "overseas",
    "fields": [
     "生物医学"
@@ -22760,7 +22760,7 @@
    "tier": 0,
    "ielts": null,
    "gpa": null,
-   "qs": null,
+   "qs": 150,
    "board": "overseas",
    "fields": [
     "生物医学"
@@ -23053,7 +23053,7 @@
    "tier": 1,
    "ielts": null,
    "gpa": null,
-   "qs": null,
+   "qs": 105,
    "board": "overseas",
    "fields": [
     "生物医学"
@@ -23135,7 +23135,7 @@
    "tier": 1,
    "ielts": null,
    "gpa": null,
-   "qs": null,
+   "qs": 118,
    "board": "overseas",
    "fields": [
     "生物医学"
@@ -23902,7 +23902,7 @@
    "tier": 1,
    "ielts": null,
    "gpa": null,
-   "qs": null,
+   "qs": 101,
    "board": "overseas",
    "fields": [
     "生物医学"
@@ -24068,7 +24068,7 @@
    "tier": 0,
    "ielts": 7.0,
    "gpa": null,
-   "qs": null,
+   "qs": 8,
    "board": "overseas",
    "fields": [
     "生物医学"
@@ -24556,7 +24556,7 @@
    "tier": 1,
    "ielts": null,
    "gpa": null,
-   "qs": null,
+   "qs": 34,
    "board": "overseas",
    "fields": [
     "生物医学"
@@ -24722,7 +24722,7 @@
    "tier": 1,
    "ielts": null,
    "gpa": null,
-   "qs": null,
+   "qs": 35,
    "board": "overseas",
    "fields": [
     "生物医学"
@@ -24763,7 +24763,7 @@
    "tier": 1,
    "ielts": null,
    "gpa": null,
-   "qs": null,
+   "qs": 91,
    "board": "overseas",
    "fields": [
     "生物医学"
@@ -25382,7 +25382,7 @@
    "tier": 1,
    "ielts": null,
    "gpa": null,
-   "qs": null,
+   "qs": 45,
    "board": "overseas",
    "fields": [
     "生物医学"

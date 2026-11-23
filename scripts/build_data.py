@@ -481,6 +481,26 @@ QS_ALIAS = {
     "南洋理工大学": ("zh", "南洋理工大学"),
     "Seoul National University": ("zh", "首尔国立大学"),
     "首尔国立大学": ("zh", "首尔国立大学"),
+    "University of New South Wales": ("en", "The University of New South Wales"),
+    "University of Sydney": ("en", "The University of Sydney"),
+    "University of Manchester": ("en", "The University of Manchester"),
+    "University of Queensland": ("en", "The University of Queensland"),
+    "University of Auckland": ("en", "The University of Auckland"),
+    "University of Michigan": ("zh", "密歇根大学-安娜堡"),
+    "加利福尼亚大学洛杉矶分校": ("zh", "加州大学洛杉矶分校"),
+    "加利福尼亚大学圣迭戈分校": ("zh", "加州大学圣地亚哥分校"),
+    "得克萨斯大学奥斯汀分校": ("zh", "德克萨斯州大学奥斯汀分校"),
+    "台湾大学": ("zh", "国立台湾大学"),
+    "乌得勒支大学": ("zh", "乌特勒支大学"),
+    "伊拉斯姆斯大学鹿特丹": ("zh", "鹿特丹伊拉斯姆斯大学"),
+    "埃因霍温理工大学": ("zh", "埃因霍温科技大学"),
+    "皇家墨尔本理工": ("zh", "墨尔本皇家理工大学"),
+    "POSTECH": ("zh", "浦项科技大学"),
+    "UC Davis": ("en", "University of California, Davis"),
+    "UNC Chapel Hill": ("en", "University of North Carolina at Chapel Hill"),
+    "Georgia Tech": ("en", "Georgia Institute of Technology"),
+    "瓦赫宁根大学": ("zh", "瓦赫宁根大学与研究院"),
+    "Ohio State University": ("en", "The Ohio State University"),
 }
 
 
@@ -489,7 +509,8 @@ def qs_of(school):
         return None
     a = QS_ALIAS.get(school)
     if a:
-        return (ZH_QS if a[0] == "zh" else EN_QS).get(a[1])
+        key = a[1] if a[0] == "zh" else _norm_en(a[1])
+        return (ZH_QS if a[0] == "zh" else EN_QS).get(key)
     if school in ZH_QS:
         return ZH_QS[school]
     return EN_QS.get(_norm_en(school))

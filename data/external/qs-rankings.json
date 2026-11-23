@@ -137,8 +137,8 @@
   },
   {
    "rank": 23,
-   "zh": "洛桑联邦理工学院École Polytechnique Fédérale de Lausanne",
-   "en": "",
+   "zh": "洛桑联邦理工学院",
+   "en": "École Polytechnique Fédérale de Lausanne",
    "country": "瑞士"
   },
   {
@@ -269,8 +269,8 @@
   },
   {
    "rank": 45,
-   "zh": "密歇根大学-安娜堡University of Michigan - Ann Arbor",
-   "en": "",
+   "zh": "密歇根大学-安娜堡",
+   "en": "University of Michigan - Ann Arbor",
    "country": "美国"
   },
   {
@@ -623,8 +623,8 @@
   },
   {
    "rank": 104,
-   "zh": "罗蒙诺索夫莫斯科国立大学",
-   "en": "Lomonosov Moscow State University俄国",
+   "zh": "莫斯科国立大学",
+   "en": "Lomonosov Moscow State University",
    "country": ""
   },
   {
@@ -654,8 +654,8 @@
   },
   {
    "rank": 108,
-   "zh": "威斯康星大学-麦迪逊University of Wisconsin - Madison",
-   "en": "",
+   "zh": "威斯康星大学-麦迪逊",
+   "en": "University of Wisconsin - Madison",
    "country": "美国"
   },
   {
@@ -1057,7 +1057,7 @@
   {
    "rank": 175,
    "zh": "哈利法大学",
-   "en": "Khalifa University阿拉伯联合酋长国",
+   "en": "Khalifa University",
    "country": ""
   },
   {
