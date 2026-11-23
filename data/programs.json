@@ -1,12 +1,12 @@
 {
  "fetchedAt": "2026-11-23",
- "generatedAt": "2026-11-23T12:07:47",
+ "generatedAt": "2026-11-23T12:10:25",
  "counts": {
-  "programs": 1020,
+  "programs": 1021,
   "camps": 56,
-  "schools": 436,
+  "schools": 437,
   "intl": 56,
-  "overseas": 586
+  "overseas": 587
  },
  "programs": [
   {
@@ -2801,6 +2801,45 @@
   },
   {
    "category": "program",
+   "school": "瑞典皇家理工学院",
+   "schoolShort": "瑞典皇家理工",
+   "institute": null,
+   "title": "MSc Biotechnology（生物技术硕士）",
+   "degree": "硕士",
+   "url": "https://www.kth.se/en/studies/master/biotechnology",
+   "publishedAt": "2026-11-23",
+   "deadline": "2027-01-15",
+   "startDate": null,
+   "location": null,
+   "highlights": null,
+   "tags": [],
+   "snippet": null,
+   "source": null,
+   "dateEstimated": null,
+   "requirements": [],
+   "region": "欧陆",
+   "country": "瑞典",
+   "subfield": "生物综合",
+   "funding": "未知",
+   "partner": null,
+   "desc": "瑞典最大工科校的生物技术硕士，英文授课。",
+   "schoolDesc": "瑞典皇家理工学院（KTH），北欧第一理工。",
+   "tier": 1,
+   "ielts": 6.5,
+   "gpa": null,
+   "qs": 78,
+   "board": "overseas",
+   "fields": [
+    "生物医学"
+   ],
+   "field": "生物医学",
+   "hub": null,
+   "lastCycle": false,
+   "id": "p072",
+   "firstSeen": "2026-11-23"
+  },
+  {
+   "category": "program",
    "school": "伦敦国王学院",
    "schoolShort": "伦敦国王学院",
    "institute": null,
@@ -2835,7 +2874,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p072",
+   "id": "p073",
    "firstSeen": "2026-11-23"
   },
   {
@@ -2874,7 +2913,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p073",
+   "id": "p074",
    "firstSeen": "2026-11-23"
   },
   {
@@ -2913,7 +2952,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p074",
+   "id": "p075",
    "firstSeen": "2026-11-23"
   },
   {
@@ -2952,7 +2991,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p075",
+   "id": "p076",
    "firstSeen": "2026-11-23"
   },
   {
@@ -2991,7 +3030,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p076",
+   "id": "p077",
    "firstSeen": "2026-11-23"
   },
   {
@@ -3030,7 +3069,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p077",
+   "id": "p078",
    "firstSeen": "2026-11-23"
   },
   {
@@ -3069,7 +3108,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p078",
+   "id": "p079",
    "firstSeen": "2026-11-23"
   },
   {
@@ -3108,7 +3147,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p079",
+   "id": "p080",
    "firstSeen": "2026-11-23"
   },
   {
@@ -3147,7 +3186,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p080",
+   "id": "p081",
    "firstSeen": "2026-11-23"
   },
   {
@@ -3186,7 +3225,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p081",
+   "id": "p082",
    "firstSeen": "2026-11-23"
   },
   {
@@ -3225,7 +3264,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p082",
+   "id": "p083",
    "firstSeen": "2026-11-23"
   },
   {
@@ -3264,7 +3303,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p083",
+   "id": "p084",
    "firstSeen": "2026-11-23"
   },
   {
@@ -3303,7 +3342,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p084",
+   "id": "p085",
    "firstSeen": "2026-11-23"
   },
   {
@@ -3342,7 +3381,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p085",
+   "id": "p086",
    "firstSeen": "2026-11-23"
   },
   {
@@ -3381,7 +3420,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p086",
+   "id": "p087",
    "firstSeen": "2026-11-23"
   },
   {
@@ -3420,7 +3459,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p087",
+   "id": "p088",
    "firstSeen": "2026-11-23"
   },
   {
@@ -3459,7 +3498,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p088",
+   "id": "p089",
    "firstSeen": "2026-11-23"
   },
   {
@@ -3498,7 +3537,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p089",
+   "id": "p090",
    "firstSeen": "2026-11-23"
   },
   {
@@ -3537,7 +3576,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p090",
+   "id": "p091",
    "firstSeen": "2026-11-23"
   },
   {
@@ -3576,7 +3615,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p091",
+   "id": "p092",
    "firstSeen": "2026-11-23"
   },
   {
@@ -3615,7 +3654,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p092",
+   "id": "p093",
    "firstSeen": "2026-11-23"
   },
   {
@@ -3654,7 +3693,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p093",
+   "id": "p094",
    "firstSeen": "2026-11-23"
   },
   {
@@ -3693,7 +3732,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p094",
+   "id": "p095",
    "firstSeen": "2026-11-23"
   },
   {
@@ -3732,7 +3771,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p095",
+   "id": "p096",
    "firstSeen": "2026-11-23"
   },
   {
@@ -3771,7 +3810,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p096",
+   "id": "p097",
    "firstSeen": "2026-11-23"
   },
   {
@@ -3810,7 +3849,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p097",
+   "id": "p098",
    "firstSeen": "2026-11-23"
   },
   {
@@ -3849,7 +3888,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p098",
+   "id": "p099",
    "firstSeen": "2026-11-23"
   },
   {
@@ -3888,7 +3927,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p099",
+   "id": "p100",
    "firstSeen": "2026-11-23"
   },
   {
@@ -3927,7 +3966,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p100",
+   "id": "p101",
    "firstSeen": "2026-11-23"
   },
   {
@@ -3966,7 +4005,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p101",
+   "id": "p102",
    "firstSeen": "2026-11-23"
   },
   {
@@ -4005,7 +4044,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p102",
+   "id": "p103",
    "firstSeen": "2026-11-23"
   },
   {
@@ -4044,7 +4083,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p103",
+   "id": "p104",
    "firstSeen": "2026-11-23"
   },
   {
@@ -4083,7 +4122,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p104",
+   "id": "p105",
    "firstSeen": "2026-11-23"
   },
   {
@@ -4124,7 +4163,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p105",
+   "id": "p106",
    "firstSeen": "2026-11-23"
   },
   {
@@ -4163,7 +4202,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p106",
+   "id": "p107",
    "firstSeen": "2026-11-23"
   },
   {
@@ -4202,7 +4241,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p107",
+   "id": "p108",
    "firstSeen": "2026-11-23"
   },
   {
@@ -4241,7 +4280,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p108",
+   "id": "p109",
    "firstSeen": "2026-11-23"
   },
   {
@@ -4280,7 +4319,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p109",
+   "id": "p110",
    "firstSeen": "2026-11-23"
   },
   {
@@ -4319,7 +4358,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p110",
+   "id": "p111",
    "firstSeen": "2026-11-23"
   },
   {
@@ -4358,7 +4397,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p111",
+   "id": "p112",
    "firstSeen": "2026-11-23"
   },
   {
@@ -4397,7 +4436,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p112",
+   "id": "p113",
    "firstSeen": "2026-11-23"
   },
   {
@@ -4436,7 +4475,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p113",
+   "id": "p114",
    "firstSeen": "2026-11-23"
   },
   {
@@ -4475,7 +4514,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p114",
+   "id": "p115",
    "firstSeen": "2026-11-23"
   },
   {
@@ -4514,7 +4553,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p115",
+   "id": "p116",
    "firstSeen": "2026-11-23"
   },
   {
@@ -4553,7 +4592,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p116",
+   "id": "p117",
    "firstSeen": "2026-11-23"
   },
   {
@@ -4592,7 +4631,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p117",
+   "id": "p118",
    "firstSeen": "2026-11-23"
   },
   {
@@ -4631,7 +4670,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p118",
+   "id": "p119",
    "firstSeen": "2026-11-23"
   },
   {
@@ -4677,7 +4716,7 @@
    "field": "化学材料",
    "hub": "大湾区大学",
    "lastCycle": false,
-   "id": "p119",
+   "id": "p120",
    "firstSeen": "2026-11-23"
   },
   {
@@ -4722,7 +4761,7 @@
    "field": "化学材料",
    "hub": "苏州实验室",
    "lastCycle": false,
-   "id": "p120",
+   "id": "p121",
    "firstSeen": "2026-11-23"
   },
   {
@@ -4765,7 +4804,7 @@
    "field": "其他交叉",
    "hub": "东南",
    "lastCycle": false,
-   "id": "p121",
+   "id": "p122",
    "firstSeen": "2026-11-23"
   },
   {
@@ -4807,7 +4846,7 @@
    "field": "其他交叉",
    "hub": null,
    "lastCycle": false,
-   "id": "p122",
+   "id": "p123",
    "firstSeen": "2026-11-23"
   },
   {
@@ -4849,7 +4888,7 @@
    "field": "其他交叉",
    "hub": null,
    "lastCycle": false,
-   "id": "p123",
+   "id": "p124",
    "firstSeen": "2026-11-23"
   },
   {
@@ -4893,7 +4932,7 @@
    "field": "化学材料",
    "hub": "苏州实验室",
    "lastCycle": false,
-   "id": "p124",
+   "id": "p125",
    "firstSeen": "2026-11-23"
   },
   {
@@ -4936,7 +4975,7 @@
    "field": "其他交叉",
    "hub": null,
    "lastCycle": false,
-   "id": "p125",
+   "id": "p126",
    "firstSeen": "2026-11-23"
   },
   {
@@ -4986,7 +5025,7 @@
    "field": "生物医学",
    "hub": "厦大",
    "lastCycle": false,
-   "id": "p126",
+   "id": "p127",
    "firstSeen": "2026-11-23"
   },
   {
@@ -5033,7 +5072,7 @@
    "field": "化学材料",
    "hub": "苏州实验室",
    "lastCycle": false,
-   "id": "p127",
+   "id": "p128",
    "firstSeen": "2026-11-23"
   },
   {
@@ -5078,7 +5117,7 @@
    "field": "电子信息",
    "hub": "鹏城实验室",
    "lastCycle": false,
-   "id": "p128",
+   "id": "p129",
    "firstSeen": "2026-11-23"
   },
   {
@@ -5127,7 +5166,7 @@
    "field": "其他交叉",
    "hub": "苏州实验室",
    "lastCycle": false,
-   "id": "p131",
+   "id": "p132",
    "firstSeen": "2026-11-23"
   },
   {
@@ -5174,7 +5213,7 @@
    "field": "其他交叉",
    "hub": null,
    "lastCycle": false,
-   "id": "p132",
+   "id": "p133",
    "firstSeen": "2026-11-23"
   },
   {
@@ -5217,7 +5256,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p133",
+   "id": "p134",
    "firstSeen": "2026-11-23"
   },
   {
@@ -5265,7 +5304,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p134",
+   "id": "p135",
    "firstSeen": "2026-11-23"
   },
   {
@@ -5315,7 +5354,7 @@
    "field": "生物医学",
    "hub": "苏州实验室",
    "lastCycle": false,
-   "id": "p135",
+   "id": "p136",
    "firstSeen": "2026-11-23"
   },
   {
@@ -5363,7 +5402,7 @@
    "field": "化学材料",
    "hub": "苏州实验室",
    "lastCycle": false,
-   "id": "p136",
+   "id": "p137",
    "firstSeen": "2026-11-23"
   },
   {
@@ -5410,7 +5449,7 @@
    "field": "化学材料",
    "hub": "苏州实验室",
    "lastCycle": false,
-   "id": "p137",
+   "id": "p138",
    "firstSeen": "2026-11-23"
   },
   {
@@ -5458,7 +5497,7 @@
    "field": "其他交叉",
    "hub": "苏州实验室",
    "lastCycle": false,
-   "id": "p138",
+   "id": "p139",
    "firstSeen": "2026-11-23"
   },
   {
@@ -5500,7 +5539,7 @@
    "field": "其他交叉",
    "hub": null,
    "lastCycle": false,
-   "id": "p139",
+   "id": "p140",
    "firstSeen": "2026-11-23"
   },
   {
@@ -5543,7 +5582,7 @@
    "field": "数学物理",
    "hub": null,
    "lastCycle": false,
-   "id": "p140",
+   "id": "p141",
    "firstSeen": "2026-11-23"
   },
   {
@@ -5591,7 +5630,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p141",
+   "id": "p142",
    "firstSeen": "2026-11-23"
   },
   {
@@ -5638,7 +5677,7 @@
    "field": "化学材料",
    "hub": "苏州实验室",
    "lastCycle": false,
-   "id": "p142",
+   "id": "p143",
    "firstSeen": "2026-11-23"
   },
   {
@@ -5690,7 +5729,7 @@
    "field": "生物医学",
    "hub": "广州实验室",
    "lastCycle": false,
-   "id": "p143",
+   "id": "p144",
    "firstSeen": "2026-11-23"
   },
   {
@@ -5742,7 +5781,7 @@
    "field": "生物医学",
    "hub": "东方理工",
    "lastCycle": false,
-   "id": "p144",
+   "id": "p145",
    "firstSeen": "2026-11-23"
   },
   {
@@ -5786,7 +5825,7 @@
    "field": "生物医学",
    "hub": "CLS/PTN项目",
    "lastCycle": false,
-   "id": "p145",
+   "id": "p146",
    "firstSeen": "2026-11-23"
   },
   {
@@ -5830,7 +5869,7 @@
    "field": "电子信息",
    "hub": "鹏城实验室",
    "lastCycle": false,
-   "id": "p146",
+   "id": "p147",
    "firstSeen": "2026-11-23"
   },
   {
@@ -5872,7 +5911,7 @@
    "field": "生物医学",
    "hub": "深圳医学科学院",
    "lastCycle": false,
-   "id": "p148",
+   "id": "p149",
    "firstSeen": "2026-11-23"
   },
   {
@@ -5917,7 +5956,7 @@
    "field": "数学物理",
    "hub": null,
    "lastCycle": false,
-   "id": "p149",
+   "id": "p150",
    "firstSeen": "2026-11-23"
   },
   {
@@ -5961,7 +6000,7 @@
    "field": "计科软工",
    "hub": null,
    "lastCycle": false,
-   "id": "p150",
+   "id": "p151",
    "firstSeen": "2026-11-23"
   },
   {
@@ -6004,7 +6043,7 @@
    "field": "其他交叉",
    "hub": "中科大",
    "lastCycle": false,
-   "id": "p151",
+   "id": "p152",
    "firstSeen": "2026-11-23"
   },
   {
@@ -6051,7 +6090,7 @@
    "field": "其他交叉",
    "hub": "中科大",
    "lastCycle": false,
-   "id": "p152",
+   "id": "p153",
    "firstSeen": "2026-11-23"
   },
   {
@@ -6093,7 +6132,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p154",
+   "id": "p155",
    "firstSeen": "2026-11-23"
   },
   {
@@ -6139,7 +6178,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p155",
+   "id": "p156",
    "firstSeen": "2026-11-23"
   },
   {
@@ -6185,7 +6224,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p156",
+   "id": "p157",
    "firstSeen": "2026-11-23"
   },
   {
@@ -6228,7 +6267,7 @@
    "field": "其他交叉",
    "hub": "清华",
    "lastCycle": false,
-   "id": "p157",
+   "id": "p158",
    "firstSeen": "2026-11-23"
   },
   {
@@ -6270,7 +6309,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p158",
+   "id": "p159",
    "firstSeen": "2026-11-23"
   },
   {
@@ -6318,7 +6357,7 @@
    "field": "其他交叉",
    "hub": null,
    "lastCycle": false,
-   "id": "p159",
+   "id": "p160",
    "firstSeen": "2026-11-23"
   },
   {
@@ -6360,7 +6399,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p160",
+   "id": "p161",
    "firstSeen": "2026-11-23"
   },
   {
@@ -6403,7 +6442,7 @@
    "field": "计科软工",
    "hub": null,
    "lastCycle": false,
-   "id": "p161",
+   "id": "p162",
    "firstSeen": "2026-11-23"
   },
   {
@@ -6445,7 +6484,7 @@
    "field": "其他交叉",
    "hub": null,
    "lastCycle": false,
-   "id": "p162",
+   "id": "p163",
    "firstSeen": "2026-11-23"
   },
   {
@@ -6484,7 +6523,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p163",
+   "id": "p164",
    "firstSeen": "2026-10-23"
   },
   {
@@ -6523,7 +6562,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p164",
+   "id": "p165",
    "firstSeen": "2026-10-23"
   },
   {
@@ -6562,7 +6601,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p165",
+   "id": "p166",
    "firstSeen": "2026-10-23"
   },
   {
@@ -6601,7 +6640,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p166",
+   "id": "p167",
    "firstSeen": "2026-10-23"
   },
   {
@@ -6640,7 +6679,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p167",
+   "id": "p168",
    "firstSeen": "2026-10-23"
   },
   {
@@ -6679,7 +6718,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p168",
+   "id": "p169",
    "firstSeen": "2026-10-23"
   },
   {
@@ -6718,7 +6757,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p169",
+   "id": "p170",
    "firstSeen": "2026-10-23"
   },
   {
@@ -6757,7 +6796,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p170",
+   "id": "p171",
    "firstSeen": "2026-10-23"
   },
   {
@@ -6796,7 +6835,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p171",
+   "id": "p172",
    "firstSeen": "2026-10-23"
   },
   {
@@ -6835,7 +6874,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p172",
+   "id": "p173",
    "firstSeen": "2026-10-23"
   },
   {
@@ -6874,7 +6913,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p173",
+   "id": "p174",
    "firstSeen": "2026-10-23"
   },
   {
@@ -6913,7 +6952,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p174",
+   "id": "p175",
    "firstSeen": "2026-10-23"
   },
   {
@@ -6952,7 +6991,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p175",
+   "id": "p176",
    "firstSeen": "2026-10-23"
   },
   {
@@ -6991,7 +7030,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p176",
+   "id": "p177",
    "firstSeen": "2026-10-23"
   },
   {
@@ -7030,7 +7069,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p177",
+   "id": "p178",
    "firstSeen": "2026-10-23"
   },
   {
@@ -7069,7 +7108,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p178",
+   "id": "p179",
    "firstSeen": "2026-10-23"
   },
   {
@@ -7108,7 +7147,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p179",
+   "id": "p180",
    "firstSeen": "2026-10-23"
   },
   {
@@ -7147,7 +7186,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p180",
+   "id": "p181",
    "firstSeen": "2026-10-23"
   },
   {
@@ -7186,7 +7225,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p181",
+   "id": "p182",
    "firstSeen": "2026-10-23"
   },
   {
@@ -7225,7 +7264,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p182",
+   "id": "p183",
    "firstSeen": "2026-10-23"
   },
   {
@@ -7264,7 +7303,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p183",
+   "id": "p184",
    "firstSeen": "2026-10-23"
   },
   {
@@ -7303,7 +7342,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p184",
+   "id": "p185",
    "firstSeen": "2026-10-23"
   },
   {
@@ -7342,7 +7381,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p185",
+   "id": "p186",
    "firstSeen": "2026-10-23"
   },
   {
@@ -7381,7 +7420,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p186",
+   "id": "p187",
    "firstSeen": "2026-10-23"
   },
   {
@@ -7420,7 +7459,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p187",
+   "id": "p188",
    "firstSeen": "2026-10-23"
   },
   {
@@ -7459,7 +7498,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p188",
+   "id": "p189",
    "firstSeen": "2026-10-23"
   },
   {
@@ -7498,7 +7537,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p189",
+   "id": "p190",
    "firstSeen": "2026-10-23"
   },
   {
@@ -7537,7 +7576,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p190",
+   "id": "p191",
    "firstSeen": "2026-10-23"
   },
   {
@@ -7578,7 +7617,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p191",
+   "id": "p192",
    "firstSeen": "2026-10-23"
   },
   {
@@ -7617,7 +7656,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p192",
+   "id": "p193",
    "firstSeen": "2026-10-23"
   },
   {
@@ -7656,7 +7695,7 @@
    "field": "其他交叉",
    "hub": null,
    "lastCycle": false,
-   "id": "p193",
+   "id": "p194",
    "firstSeen": "2026-10-23"
   },
   {
@@ -7699,7 +7738,7 @@
    "schoolZh": "墨尔本大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p194",
+   "id": "p195",
    "firstSeen": "2026-10-23"
   },
   {
@@ -7742,7 +7781,7 @@
    "schoolZh": "莫纳什大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p195",
+   "id": "p196",
    "firstSeen": "2026-10-23"
   },
   {
@@ -7783,7 +7822,7 @@
    "schoolZh": "悉尼大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p196",
+   "id": "p197",
    "firstSeen": "2026-10-23"
   },
   {
@@ -7824,7 +7863,7 @@
    "schoolZh": "澳大利亚国立大学",
    "schoolAbbr": "ANU",
    "lastCycle": false,
-   "id": "p197",
+   "id": "p198",
    "firstSeen": "2026-10-23"
   },
   {
@@ -7867,7 +7906,7 @@
    "schoolZh": "昆士兰大学",
    "schoolAbbr": "UQ",
    "lastCycle": false,
-   "id": "p198",
+   "id": "p199",
    "firstSeen": "2026-10-23"
   },
   {
@@ -7908,7 +7947,7 @@
    "schoolZh": "新南威尔士大学",
    "schoolAbbr": "UNSW",
    "lastCycle": false,
-   "id": "p199",
+   "id": "p200",
    "firstSeen": "2026-10-23"
   },
   {
@@ -7949,7 +7988,7 @@
    "schoolZh": "奥塔哥大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p200",
+   "id": "p201",
    "firstSeen": "2026-10-23"
   },
   {
@@ -7990,7 +8029,7 @@
    "schoolZh": "奥克兰大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p201",
+   "id": "p202",
    "firstSeen": "2026-10-23"
   },
   {
@@ -8031,7 +8070,7 @@
    "schoolZh": "多伦多大学",
    "schoolAbbr": "UofT",
    "lastCycle": false,
-   "id": "p202",
+   "id": "p203",
    "firstSeen": "2026-10-23"
   },
   {
@@ -8074,7 +8113,7 @@
    "schoolZh": "多伦多大学",
    "schoolAbbr": "UofT",
    "lastCycle": false,
-   "id": "p203",
+   "id": "p204",
    "firstSeen": "2026-10-23"
   },
   {
@@ -8117,7 +8156,7 @@
    "schoolZh": "麦吉尔大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p204",
+   "id": "p205",
    "firstSeen": "2026-10-23"
   },
   {
@@ -8160,7 +8199,7 @@
    "schoolZh": "英属哥伦比亚大学",
    "schoolAbbr": "UBC",
    "lastCycle": false,
-   "id": "p205",
+   "id": "p206",
    "firstSeen": "2026-10-23"
   },
   {
@@ -8201,7 +8240,7 @@
    "schoolZh": "英属哥伦比亚大学",
    "schoolAbbr": "UBC",
    "lastCycle": false,
-   "id": "p206",
+   "id": "p207",
    "firstSeen": "2026-10-23"
   },
   {
@@ -8242,7 +8281,7 @@
    "schoolZh": "麦克马斯特大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p207",
+   "id": "p208",
    "firstSeen": "2026-10-23"
   },
   {
@@ -8283,7 +8322,7 @@
    "schoolZh": "海德堡大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p208",
+   "id": "p209",
    "firstSeen": "2026-10-23"
   },
   {
@@ -8324,7 +8363,7 @@
    "schoolZh": "海德堡大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p209",
+   "id": "p210",
    "firstSeen": "2026-10-23"
   },
   {
@@ -8365,7 +8404,7 @@
    "schoolZh": "海德堡大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p210",
+   "id": "p211",
    "firstSeen": "2026-10-23"
   },
   {
@@ -8406,7 +8445,7 @@
    "schoolZh": "海德堡大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p211",
+   "id": "p212",
    "firstSeen": "2026-10-23"
   },
   {
@@ -8447,7 +8486,7 @@
    "schoolZh": "慕尼黑大学",
    "schoolAbbr": "LMU",
    "lastCycle": false,
-   "id": "p212",
+   "id": "p213",
    "firstSeen": "2026-10-23"
   },
   {
@@ -8488,7 +8527,7 @@
    "schoolZh": "慕尼黑大学",
    "schoolAbbr": "LMU",
    "lastCycle": false,
-   "id": "p213",
+   "id": "p214",
    "firstSeen": "2026-10-23"
   },
   {
@@ -8529,7 +8568,7 @@
    "schoolZh": "慕尼黑大学",
    "schoolAbbr": "LMU",
    "lastCycle": false,
-   "id": "p214",
+   "id": "p215",
    "firstSeen": "2026-10-23"
   },
   {
@@ -8570,7 +8609,7 @@
    "schoolZh": "慕尼黑大学",
    "schoolAbbr": "LMU",
    "lastCycle": false,
-   "id": "p215",
+   "id": "p216",
    "firstSeen": "2026-10-23"
   },
   {
@@ -8613,7 +8652,7 @@
    "schoolZh": "慕尼黑大学",
    "schoolAbbr": "LMU",
    "lastCycle": false,
-   "id": "p216",
+   "id": "p217",
    "firstSeen": "2026-10-23"
   },
   {
@@ -8654,7 +8693,7 @@
    "schoolZh": "慕尼黑大学",
    "schoolAbbr": "LMU",
    "lastCycle": false,
-   "id": "p217",
+   "id": "p218",
    "firstSeen": "2026-10-23"
   },
   {
@@ -8695,7 +8734,7 @@
    "schoolZh": "慕尼黑大学",
    "schoolAbbr": "LMU",
    "lastCycle": false,
-   "id": "p218",
+   "id": "p219",
    "firstSeen": "2026-10-23"
   },
   {
@@ -8736,7 +8775,7 @@
    "schoolZh": "慕尼黑大学",
    "schoolAbbr": "LMU",
    "lastCycle": false,
-   "id": "p219",
+   "id": "p220",
    "firstSeen": "2026-10-23"
   },
   {
@@ -8777,7 +8816,7 @@
    "schoolZh": "慕尼黑大学",
    "schoolAbbr": "LMU",
    "lastCycle": false,
-   "id": "p220",
+   "id": "p221",
    "firstSeen": "2026-10-23"
   },
   {
@@ -8818,7 +8857,7 @@
    "schoolZh": "慕尼黑大学",
    "schoolAbbr": "LMU",
    "lastCycle": false,
-   "id": "p221",
+   "id": "p222",
    "firstSeen": "2026-10-23"
   },
   {
@@ -8859,7 +8898,7 @@
    "schoolZh": "慕尼黑大学",
    "schoolAbbr": "LMU",
    "lastCycle": false,
-   "id": "p222",
+   "id": "p223",
    "firstSeen": "2026-10-23"
   },
   {
@@ -8900,7 +8939,7 @@
    "schoolZh": "慕尼黑大学",
    "schoolAbbr": "LMU",
    "lastCycle": false,
-   "id": "p223",
+   "id": "p224",
    "firstSeen": "2026-10-23"
   },
   {
@@ -8941,7 +8980,7 @@
    "schoolZh": "慕尼黑大学",
    "schoolAbbr": "LMU",
    "lastCycle": false,
-   "id": "p224",
+   "id": "p225",
    "firstSeen": "2026-10-23"
   },
   {
@@ -8982,7 +9021,7 @@
    "schoolZh": "慕尼黑大学",
    "schoolAbbr": "LMU",
    "lastCycle": false,
-   "id": "p225",
+   "id": "p226",
    "firstSeen": "2026-10-23"
   },
   {
@@ -9023,7 +9062,7 @@
    "schoolZh": "慕尼黑大学",
    "schoolAbbr": "LMU",
    "lastCycle": false,
-   "id": "p226",
+   "id": "p227",
    "firstSeen": "2026-10-23"
   },
   {
@@ -9064,7 +9103,7 @@
    "schoolZh": "慕尼黑大学",
    "schoolAbbr": "LMU",
    "lastCycle": false,
-   "id": "p227",
+   "id": "p228",
    "firstSeen": "2026-10-23"
   },
   {
@@ -9105,7 +9144,7 @@
    "schoolZh": "慕尼黑大学",
    "schoolAbbr": "LMU",
    "lastCycle": false,
-   "id": "p228",
+   "id": "p229",
    "firstSeen": "2026-10-23"
   },
   {
@@ -9148,7 +9187,7 @@
    "schoolZh": "慕尼黑工业大学",
    "schoolAbbr": "TUM",
    "lastCycle": false,
-   "id": "p229",
+   "id": "p230",
    "firstSeen": "2026-10-23"
   },
   {
@@ -9189,7 +9228,7 @@
    "schoolZh": "慕尼黑工业大学",
    "schoolAbbr": "TUM",
    "lastCycle": false,
-   "id": "p230",
+   "id": "p231",
    "firstSeen": "2026-10-23"
   },
   {
@@ -9230,7 +9269,7 @@
    "schoolZh": "慕尼黑工业大学",
    "schoolAbbr": "TUM",
    "lastCycle": false,
-   "id": "p231",
+   "id": "p232",
    "firstSeen": "2026-10-23"
   },
   {
@@ -9271,7 +9310,7 @@
    "schoolZh": "慕尼黑工业大学",
    "schoolAbbr": "TUM",
    "lastCycle": false,
-   "id": "p232",
+   "id": "p233",
    "firstSeen": "2026-10-23"
   },
   {
@@ -9312,7 +9351,7 @@
    "schoolZh": "慕尼黑工业大学",
    "schoolAbbr": "TUM",
    "lastCycle": false,
-   "id": "p233",
+   "id": "p234",
    "firstSeen": "2026-10-23"
   },
   {
@@ -9353,7 +9392,7 @@
    "schoolZh": "慕尼黑工业大学",
    "schoolAbbr": "TUM",
    "lastCycle": false,
-   "id": "p234",
+   "id": "p235",
    "firstSeen": "2026-10-23"
   },
   {
@@ -9394,7 +9433,7 @@
    "schoolZh": "慕尼黑工业大学",
    "schoolAbbr": "TUM",
    "lastCycle": false,
-   "id": "p235",
+   "id": "p236",
    "firstSeen": "2026-10-23"
   },
   {
@@ -9435,7 +9474,7 @@
    "schoolZh": "慕尼黑工业大学",
    "schoolAbbr": "TUM",
    "lastCycle": false,
-   "id": "p236",
+   "id": "p237",
    "firstSeen": "2026-10-23"
   },
   {
@@ -9476,7 +9515,7 @@
    "schoolZh": "慕尼黑工业大学",
    "schoolAbbr": "TUM",
    "lastCycle": false,
-   "id": "p237",
+   "id": "p238",
    "firstSeen": "2026-10-23"
   },
   {
@@ -9517,7 +9556,7 @@
    "schoolZh": "慕尼黑工业大学",
    "schoolAbbr": "TUM",
    "lastCycle": false,
-   "id": "p238",
+   "id": "p239",
    "firstSeen": "2026-10-23"
   },
   {
@@ -9558,7 +9597,7 @@
    "schoolZh": "慕尼黑工业大学",
    "schoolAbbr": "TUM",
    "lastCycle": false,
-   "id": "p239",
+   "id": "p240",
    "firstSeen": "2026-10-23"
   },
   {
@@ -9599,7 +9638,7 @@
    "schoolZh": "慕尼黑工业大学",
    "schoolAbbr": "TUM",
    "lastCycle": false,
-   "id": "p240",
+   "id": "p241",
    "firstSeen": "2026-10-23"
   },
   {
@@ -9638,7 +9677,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p241",
+   "id": "p242",
    "firstSeen": "2026-10-23"
   },
   {
@@ -9677,7 +9716,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p242",
+   "id": "p243",
    "firstSeen": "2026-10-23"
   },
   {
@@ -9718,7 +9757,7 @@
    "schoolZh": "比勒费尔德大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p243",
+   "id": "p244",
    "firstSeen": "2026-10-23"
   },
   {
@@ -9759,7 +9798,7 @@
    "schoolZh": "比勒费尔德大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p244",
+   "id": "p245",
    "firstSeen": "2026-10-23"
   },
   {
@@ -9800,7 +9839,7 @@
    "schoolZh": "比勒费尔德大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p245",
+   "id": "p246",
    "firstSeen": "2026-10-23"
   },
   {
@@ -9841,7 +9880,7 @@
    "schoolZh": "比勒费尔德大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p246",
+   "id": "p247",
    "firstSeen": "2026-10-23"
   },
   {
@@ -9882,7 +9921,7 @@
    "schoolZh": "勃兰登堡工业大学",
    "schoolAbbr": "BTU",
    "lastCycle": false,
-   "id": "p247",
+   "id": "p248",
    "firstSeen": "2026-10-23"
   },
   {
@@ -9923,7 +9962,7 @@
    "schoolZh": "勃兰登堡工业大学",
    "schoolAbbr": "BTU",
    "lastCycle": false,
-   "id": "p248",
+   "id": "p249",
    "firstSeen": "2026-10-23"
   },
   {
@@ -9964,7 +10003,7 @@
    "schoolZh": "勃兰登堡工业大学",
    "schoolAbbr": "BTU",
    "lastCycle": false,
-   "id": "p249",
+   "id": "p250",
    "firstSeen": "2026-10-23"
   },
   {
@@ -10005,7 +10044,7 @@
    "schoolZh": "勃兰登堡工业大学",
    "schoolAbbr": "BTU",
    "lastCycle": false,
-   "id": "p250",
+   "id": "p251",
    "firstSeen": "2026-10-23"
   },
   {
@@ -10046,7 +10085,7 @@
    "schoolZh": "柏林夏里特医学院",
    "schoolAbbr": "Charité",
    "lastCycle": false,
-   "id": "p251",
+   "id": "p252",
    "firstSeen": "2026-10-23"
   },
   {
@@ -10087,7 +10126,7 @@
    "schoolZh": "开姆尼茨工业大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p252",
+   "id": "p253",
    "firstSeen": "2026-10-23"
   },
   {
@@ -10128,7 +10167,7 @@
    "schoolZh": "开姆尼茨工业大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p253",
+   "id": "p254",
    "firstSeen": "2026-10-23"
   },
   {
@@ -10167,7 +10206,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p254",
+   "id": "p255",
    "firstSeen": "2026-10-23"
   },
   {
@@ -10206,7 +10245,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p255",
+   "id": "p256",
    "firstSeen": "2026-10-23"
   },
   {
@@ -10247,7 +10286,7 @@
    "schoolZh": "德累斯顿工业大学",
    "schoolAbbr": "TUD",
    "lastCycle": false,
-   "id": "p256",
+   "id": "p257",
    "firstSeen": "2026-10-23"
   },
   {
@@ -10288,7 +10327,7 @@
    "schoolZh": "德累斯顿工业大学",
    "schoolAbbr": "TUD",
    "lastCycle": false,
-   "id": "p257",
+   "id": "p258",
    "firstSeen": "2026-10-23"
   },
   {
@@ -10329,7 +10368,7 @@
    "schoolZh": "德累斯顿工业大学",
    "schoolAbbr": "TUD",
    "lastCycle": false,
-   "id": "p258",
+   "id": "p259",
    "firstSeen": "2026-10-23"
   },
   {
@@ -10370,7 +10409,7 @@
    "schoolZh": "德累斯顿工业大学",
    "schoolAbbr": "TUD",
    "lastCycle": false,
-   "id": "p259",
+   "id": "p260",
    "firstSeen": "2026-10-23"
   },
   {
@@ -10413,7 +10452,7 @@
    "schoolZh": "德累斯顿工业大学",
    "schoolAbbr": "TUD",
    "lastCycle": false,
-   "id": "p260",
+   "id": "p261",
    "firstSeen": "2026-10-23"
   },
   {
@@ -10452,7 +10491,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p261",
+   "id": "p262",
    "firstSeen": "2026-10-23"
   },
   {
@@ -10493,7 +10532,7 @@
    "schoolZh": "埃尔朗根-纽伦堡大学",
    "schoolAbbr": "FAU",
    "lastCycle": false,
-   "id": "p262",
+   "id": "p263",
    "firstSeen": "2026-10-23"
   },
   {
@@ -10534,7 +10573,7 @@
    "schoolZh": "埃尔朗根-纽伦堡大学",
    "schoolAbbr": "FAU",
    "lastCycle": false,
-   "id": "p263",
+   "id": "p264",
    "firstSeen": "2026-10-23"
   },
   {
@@ -10575,7 +10614,7 @@
    "schoolZh": "埃尔朗根-纽伦堡大学",
    "schoolAbbr": "FAU",
    "lastCycle": false,
-   "id": "p264",
+   "id": "p265",
    "firstSeen": "2026-10-23"
   },
   {
@@ -10616,7 +10655,7 @@
    "schoolZh": "埃尔朗根-纽伦堡大学",
    "schoolAbbr": "FAU",
    "lastCycle": false,
-   "id": "p265",
+   "id": "p266",
    "firstSeen": "2026-10-23"
   },
   {
@@ -10657,7 +10696,7 @@
    "schoolZh": "埃尔朗根-纽伦堡大学",
    "schoolAbbr": "FAU",
    "lastCycle": false,
-   "id": "p266",
+   "id": "p267",
    "firstSeen": "2026-10-23"
   },
   {
@@ -10698,7 +10737,7 @@
    "schoolZh": "埃尔朗根-纽伦堡大学",
    "schoolAbbr": "FAU",
    "lastCycle": false,
-   "id": "p267",
+   "id": "p268",
    "firstSeen": "2026-10-23"
   },
   {
@@ -10739,7 +10778,7 @@
    "schoolZh": "埃尔朗根-纽伦堡大学",
    "schoolAbbr": "FAU",
    "lastCycle": false,
-   "id": "p268",
+   "id": "p269",
    "firstSeen": "2026-10-23"
   },
   {
@@ -10782,7 +10821,7 @@
    "schoolZh": "埃尔朗根-纽伦堡大学",
    "schoolAbbr": "FAU",
    "lastCycle": false,
-   "id": "p269",
+   "id": "p270",
    "firstSeen": "2026-10-23"
   },
   {
@@ -10823,7 +10862,7 @@
    "schoolZh": "柏林自由大学",
    "schoolAbbr": "FU Berlin",
    "lastCycle": false,
-   "id": "p270",
+   "id": "p271",
    "firstSeen": "2026-10-23"
   },
   {
@@ -10866,7 +10905,7 @@
    "schoolZh": "柏林自由大学",
    "schoolAbbr": "FU Berlin",
    "lastCycle": false,
-   "id": "p271",
+   "id": "p272",
    "firstSeen": "2026-10-23"
   },
   {
@@ -10909,7 +10948,7 @@
    "schoolZh": "柏林自由大学",
    "schoolAbbr": "FU Berlin",
    "lastCycle": false,
-   "id": "p272",
+   "id": "p273",
    "firstSeen": "2026-10-23"
   },
   {
@@ -10950,7 +10989,7 @@
    "schoolZh": "柏林自由大学",
    "schoolAbbr": "FU Berlin",
    "lastCycle": false,
-   "id": "p273",
+   "id": "p274",
    "firstSeen": "2026-10-23"
   },
   {
@@ -10991,7 +11030,7 @@
    "schoolZh": "柏林自由大学",
    "schoolAbbr": "FU Berlin",
    "lastCycle": false,
-   "id": "p274",
+   "id": "p275",
    "firstSeen": "2026-10-23"
   },
   {
@@ -11032,7 +11071,7 @@
    "schoolZh": "柏林自由大学",
    "schoolAbbr": "FU Berlin",
    "lastCycle": false,
-   "id": "p275",
+   "id": "p276",
    "firstSeen": "2026-10-23"
   },
   {
@@ -11073,7 +11112,7 @@
    "schoolZh": "柏林自由大学",
    "schoolAbbr": "FU Berlin",
    "lastCycle": false,
-   "id": "p276",
+   "id": "p277",
    "firstSeen": "2026-10-23"
   },
   {
@@ -11114,7 +11153,7 @@
    "schoolZh": "耶拿大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p277",
+   "id": "p278",
    "firstSeen": "2026-10-23"
   },
   {
@@ -11155,7 +11194,7 @@
    "schoolZh": "耶拿大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p278",
+   "id": "p279",
    "firstSeen": "2026-10-23"
   },
   {
@@ -11196,7 +11235,7 @@
    "schoolZh": "耶拿大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p279",
+   "id": "p280",
    "firstSeen": "2026-10-23"
   },
   {
@@ -11237,7 +11276,7 @@
    "schoolZh": "耶拿大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p280",
+   "id": "p281",
    "firstSeen": "2026-10-23"
   },
   {
@@ -11278,7 +11317,7 @@
    "schoolZh": "耶拿大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p281",
+   "id": "p282",
    "firstSeen": "2026-10-23"
   },
   {
@@ -11319,7 +11358,7 @@
    "schoolZh": "耶拿大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p282",
+   "id": "p283",
    "firstSeen": "2026-10-23"
   },
   {
@@ -11360,7 +11399,7 @@
    "schoolZh": "耶拿大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p283",
+   "id": "p284",
    "firstSeen": "2026-10-23"
   },
   {
@@ -11401,7 +11440,7 @@
    "schoolZh": "耶拿大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p284",
+   "id": "p285",
    "firstSeen": "2026-10-23"
   },
   {
@@ -11442,7 +11481,7 @@
    "schoolZh": "耶拿大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p285",
+   "id": "p286",
    "firstSeen": "2026-10-23"
   },
   {
@@ -11481,7 +11520,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p286",
+   "id": "p287",
    "firstSeen": "2026-10-23"
   },
   {
@@ -11520,7 +11559,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p287",
+   "id": "p288",
    "firstSeen": "2026-10-23"
   },
   {
@@ -11559,7 +11598,7 @@
    "field": "计科软工",
    "hub": null,
    "lastCycle": false,
-   "id": "p288",
+   "id": "p289",
    "firstSeen": "2026-10-23"
   },
   {
@@ -11600,7 +11639,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p289",
+   "id": "p290",
    "firstSeen": "2026-10-23"
   },
   {
@@ -11639,7 +11678,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p290",
+   "id": "p291",
    "firstSeen": "2026-10-23"
   },
   {
@@ -11680,7 +11719,7 @@
    "schoolZh": "法兰克福大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p291",
+   "id": "p292",
    "firstSeen": "2026-10-23"
   },
   {
@@ -11721,7 +11760,7 @@
    "schoolZh": "法兰克福大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p292",
+   "id": "p293",
    "firstSeen": "2026-10-23"
   },
   {
@@ -11762,7 +11801,7 @@
    "schoolZh": "法兰克福大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p293",
+   "id": "p294",
    "firstSeen": "2026-10-23"
   },
   {
@@ -11803,7 +11842,7 @@
    "schoolZh": "汉堡工业大学",
    "schoolAbbr": "TUHH",
    "lastCycle": false,
-   "id": "p294",
+   "id": "p295",
    "firstSeen": "2026-10-23"
   },
   {
@@ -11844,7 +11883,7 @@
    "schoolZh": "汉堡工业大学",
    "schoolAbbr": "TUHH",
    "lastCycle": false,
-   "id": "p295",
+   "id": "p296",
    "firstSeen": "2026-10-23"
   },
   {
@@ -11885,7 +11924,7 @@
    "schoolZh": "汉堡工业大学",
    "schoolAbbr": "TUHH",
    "lastCycle": false,
-   "id": "p296",
+   "id": "p297",
    "firstSeen": "2026-10-23"
   },
   {
@@ -11926,7 +11965,7 @@
    "schoolZh": "汉诺威医学院",
    "schoolAbbr": "MHH",
    "lastCycle": false,
-   "id": "p297",
+   "id": "p298",
    "firstSeen": "2026-10-23"
   },
   {
@@ -11967,7 +12006,7 @@
    "schoolZh": "汉诺威医学院",
    "schoolAbbr": "MHH",
    "lastCycle": false,
-   "id": "p298",
+   "id": "p299",
    "firstSeen": "2026-10-23"
   },
   {
@@ -12008,7 +12047,7 @@
    "schoolZh": "汉诺威医学院",
    "schoolAbbr": "MHH",
    "lastCycle": false,
-   "id": "p299",
+   "id": "p300",
    "firstSeen": "2026-10-23"
   },
   {
@@ -12049,7 +12088,7 @@
    "schoolZh": "汉诺威医学院",
    "schoolAbbr": "MHH",
    "lastCycle": false,
-   "id": "p300",
+   "id": "p301",
    "firstSeen": "2026-10-23"
   },
   {
@@ -12090,7 +12129,7 @@
    "schoolZh": "汉诺威医学院",
    "schoolAbbr": "MHH",
    "lastCycle": false,
-   "id": "p301",
+   "id": "p302",
    "firstSeen": "2026-10-23"
   },
   {
@@ -12131,7 +12170,7 @@
    "schoolZh": "汉诺威医学院",
    "schoolAbbr": "MHH",
    "lastCycle": false,
-   "id": "p302",
+   "id": "p303",
    "firstSeen": "2026-10-23"
   },
   {
@@ -12172,7 +12211,7 @@
    "schoolZh": "汉诺威医学院",
    "schoolAbbr": "MHH",
    "lastCycle": false,
-   "id": "p303",
+   "id": "p304",
    "firstSeen": "2026-10-23"
   },
   {
@@ -12213,7 +12252,7 @@
    "schoolZh": "汉诺威医学院",
    "schoolAbbr": "MHH",
    "lastCycle": false,
-   "id": "p304",
+   "id": "p305",
    "firstSeen": "2026-10-23"
   },
   {
@@ -12254,7 +12293,7 @@
    "schoolZh": "杜塞尔多夫大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p305",
+   "id": "p306",
    "firstSeen": "2026-10-23"
   },
   {
@@ -12295,7 +12334,7 @@
    "schoolZh": "杜塞尔多夫大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p306",
+   "id": "p307",
    "firstSeen": "2026-10-23"
   },
   {
@@ -12334,7 +12373,7 @@
    "field": "化学材料",
    "hub": null,
    "lastCycle": false,
-   "id": "p307",
+   "id": "p308",
    "firstSeen": "2026-10-23"
   },
   {
@@ -12373,7 +12412,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p308",
+   "id": "p309",
    "firstSeen": "2026-10-23"
   },
   {
@@ -12412,7 +12451,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p309",
+   "id": "p310",
    "firstSeen": "2026-10-23"
   },
   {
@@ -12453,7 +12492,7 @@
    "schoolZh": "柏林洪堡大学",
    "schoolAbbr": "HU Berlin",
    "lastCycle": false,
-   "id": "p310",
+   "id": "p311",
    "firstSeen": "2026-10-23"
   },
   {
@@ -12494,7 +12533,7 @@
    "schoolZh": "柏林洪堡大学",
    "schoolAbbr": "HU Berlin",
    "lastCycle": false,
-   "id": "p311",
+   "id": "p312",
    "firstSeen": "2026-10-23"
   },
   {
@@ -12533,7 +12572,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p312",
+   "id": "p313",
    "firstSeen": "2026-10-23"
   },
   {
@@ -12574,7 +12613,7 @@
    "schoolZh": "美因茨大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p313",
+   "id": "p314",
    "firstSeen": "2026-10-23"
   },
   {
@@ -12615,7 +12654,7 @@
    "schoolZh": "美因茨大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p314",
+   "id": "p315",
    "firstSeen": "2026-10-23"
   },
   {
@@ -12656,7 +12695,7 @@
    "schoolZh": "维尔茨堡大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p315",
+   "id": "p316",
    "firstSeen": "2026-10-23"
   },
   {
@@ -12697,7 +12736,7 @@
    "schoolZh": "维尔茨堡大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p316",
+   "id": "p317",
    "firstSeen": "2026-10-23"
   },
   {
@@ -12738,7 +12777,7 @@
    "schoolZh": "维尔茨堡大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p317",
+   "id": "p318",
    "firstSeen": "2026-10-23"
   },
   {
@@ -12779,7 +12818,7 @@
    "schoolZh": "维尔茨堡大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p318",
+   "id": "p319",
    "firstSeen": "2026-10-23"
   },
   {
@@ -12820,7 +12859,7 @@
    "schoolZh": "维尔茨堡大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p319",
+   "id": "p320",
    "firstSeen": "2026-10-23"
   },
   {
@@ -12861,7 +12900,7 @@
    "schoolZh": "维尔茨堡大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p320",
+   "id": "p321",
    "firstSeen": "2026-10-23"
   },
   {
@@ -12902,7 +12941,7 @@
    "schoolZh": "维尔茨堡大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p321",
+   "id": "p322",
    "firstSeen": "2026-10-23"
   },
   {
@@ -12943,7 +12982,7 @@
    "schoolZh": "维尔茨堡大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p322",
+   "id": "p323",
    "firstSeen": "2026-10-23"
   },
   {
@@ -12984,7 +13023,7 @@
    "schoolZh": "维尔茨堡大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p323",
+   "id": "p324",
    "firstSeen": "2026-10-23"
   },
   {
@@ -13025,7 +13064,7 @@
    "schoolZh": "维尔茨堡大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p324",
+   "id": "p325",
    "firstSeen": "2026-10-23"
   },
   {
@@ -13066,7 +13105,7 @@
    "schoolZh": "维尔茨堡大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p325",
+   "id": "p326",
    "firstSeen": "2026-10-23"
   },
   {
@@ -13107,7 +13146,7 @@
    "schoolZh": "维尔茨堡大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p326",
+   "id": "p327",
    "firstSeen": "2026-10-23"
   },
   {
@@ -13148,7 +13187,7 @@
    "schoolZh": "维尔茨堡大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p327",
+   "id": "p328",
    "firstSeen": "2026-10-23"
   },
   {
@@ -13189,7 +13228,7 @@
    "schoolZh": "吉森大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p328",
+   "id": "p329",
    "firstSeen": "2026-10-23"
   },
   {
@@ -13230,7 +13269,7 @@
    "schoolZh": "吉森大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p329",
+   "id": "p330",
    "firstSeen": "2026-10-23"
   },
   {
@@ -13271,7 +13310,7 @@
    "schoolZh": "吉森大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p330",
+   "id": "p331",
    "firstSeen": "2026-10-23"
   },
   {
@@ -13312,7 +13351,7 @@
    "schoolZh": "吉森大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p331",
+   "id": "p332",
    "firstSeen": "2026-10-23"
   },
   {
@@ -13353,7 +13392,7 @@
    "schoolZh": "吉森大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p332",
+   "id": "p333",
    "firstSeen": "2026-10-23"
   },
   {
@@ -13394,7 +13433,7 @@
    "schoolZh": "吉森大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p333",
+   "id": "p334",
    "firstSeen": "2026-10-23"
   },
   {
@@ -13435,7 +13474,7 @@
    "schoolZh": "吉森大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p334",
+   "id": "p335",
    "firstSeen": "2026-10-23"
   },
   {
@@ -13476,7 +13515,7 @@
    "schoolZh": "吉森大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p335",
+   "id": "p336",
    "firstSeen": "2026-10-23"
   },
   {
@@ -13517,7 +13556,7 @@
    "schoolZh": "吉森大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p336",
+   "id": "p337",
    "firstSeen": "2026-10-23"
   },
   {
@@ -13558,7 +13597,7 @@
    "schoolZh": "吉森大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p337",
+   "id": "p338",
    "firstSeen": "2026-10-23"
   },
   {
@@ -13599,7 +13638,7 @@
    "schoolZh": "基尔大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p338",
+   "id": "p339",
    "firstSeen": "2026-10-23"
   },
   {
@@ -13640,7 +13679,7 @@
    "schoolZh": "基尔大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p339",
+   "id": "p340",
    "firstSeen": "2026-10-23"
   },
   {
@@ -13681,7 +13720,7 @@
    "schoolZh": "基尔大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p340",
+   "id": "p341",
    "firstSeen": "2026-10-23"
   },
   {
@@ -13722,7 +13761,7 @@
    "schoolZh": "基尔大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p341",
+   "id": "p342",
    "firstSeen": "2026-10-23"
   },
   {
@@ -13761,7 +13800,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p342",
+   "id": "p343",
    "firstSeen": "2026-10-23"
   },
   {
@@ -13802,7 +13841,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p343",
+   "id": "p344",
    "firstSeen": "2026-10-23"
   },
   {
@@ -13843,7 +13882,7 @@
    "schoolZh": "莱比锡大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p344",
+   "id": "p345",
    "firstSeen": "2026-10-23"
   },
   {
@@ -13884,7 +13923,7 @@
    "schoolZh": "莱比锡大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p345",
+   "id": "p346",
    "firstSeen": "2026-10-23"
   },
   {
@@ -13925,7 +13964,7 @@
    "schoolZh": "莱比锡大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p346",
+   "id": "p347",
    "firstSeen": "2026-10-23"
   },
   {
@@ -13966,7 +14005,7 @@
    "schoolZh": "马尔堡大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p347",
+   "id": "p348",
    "firstSeen": "2026-10-23"
   },
   {
@@ -14009,7 +14048,7 @@
    "schoolZh": "马尔堡大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p348",
+   "id": "p349",
    "firstSeen": "2026-10-23"
   },
   {
@@ -14050,7 +14089,7 @@
    "schoolZh": "马尔堡大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p349",
+   "id": "p350",
    "firstSeen": "2026-10-23"
   },
   {
@@ -14089,7 +14128,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p350",
+   "id": "p351",
    "firstSeen": "2026-10-23"
   },
   {
@@ -14128,7 +14167,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p351",
+   "id": "p352",
    "firstSeen": "2026-10-23"
   },
   {
@@ -14167,7 +14206,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p352",
+   "id": "p353",
    "firstSeen": "2026-10-23"
   },
   {
@@ -14208,7 +14247,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p353",
+   "id": "p354",
    "firstSeen": "2026-10-23"
   },
   {
@@ -14247,7 +14286,7 @@
    "field": "计科软工",
    "hub": null,
    "lastCycle": false,
-   "id": "p354",
+   "id": "p355",
    "firstSeen": "2026-10-23"
   },
   {
@@ -14286,7 +14325,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p355",
+   "id": "p356",
    "firstSeen": "2026-10-23"
   },
   {
@@ -14325,7 +14364,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p356",
+   "id": "p357",
    "firstSeen": "2026-10-23"
   },
   {
@@ -14364,7 +14403,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p357",
+   "id": "p358",
    "firstSeen": "2026-10-23"
   },
   {
@@ -14403,7 +14442,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p358",
+   "id": "p359",
    "firstSeen": "2026-10-23"
   },
   {
@@ -14444,7 +14483,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p359",
+   "id": "p360",
    "firstSeen": "2026-10-23"
   },
   {
@@ -14483,7 +14522,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p360",
+   "id": "p361",
    "firstSeen": "2026-10-23"
   },
   {
@@ -14522,7 +14561,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p361",
+   "id": "p362",
    "firstSeen": "2026-10-23"
   },
   {
@@ -14561,7 +14600,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p362",
+   "id": "p363",
    "firstSeen": "2026-10-23"
   },
   {
@@ -14600,7 +14639,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p363",
+   "id": "p364",
    "firstSeen": "2026-10-23"
   },
   {
@@ -14641,7 +14680,7 @@
    "schoolZh": "马普物理与医学中心",
    "schoolAbbr": "MPZ.PM",
    "lastCycle": false,
-   "id": "p364",
+   "id": "p365",
    "firstSeen": "2026-10-23"
   },
   {
@@ -14682,7 +14721,7 @@
    "schoolZh": "马普物理与医学中心",
    "schoolAbbr": "MPZ.PM",
    "lastCycle": false,
-   "id": "p365",
+   "id": "p366",
    "firstSeen": "2026-10-23"
   },
   {
@@ -14723,7 +14762,7 @@
    "schoolZh": "奥斯纳布吕克大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p366",
+   "id": "p367",
    "firstSeen": "2026-10-23"
   },
   {
@@ -14764,7 +14803,7 @@
    "schoolZh": "奥斯纳布吕克大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p367",
+   "id": "p368",
    "firstSeen": "2026-10-23"
   },
   {
@@ -14805,7 +14844,7 @@
    "schoolZh": "奥斯纳布吕克大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p368",
+   "id": "p369",
    "firstSeen": "2026-10-23"
   },
   {
@@ -14846,7 +14885,7 @@
    "schoolZh": "马格德堡大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p369",
+   "id": "p370",
    "firstSeen": "2026-10-23"
   },
   {
@@ -14887,7 +14926,7 @@
    "schoolZh": "马格德堡大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p370",
+   "id": "p371",
    "firstSeen": "2026-10-23"
   },
   {
@@ -14928,7 +14967,7 @@
    "schoolZh": "马格德堡大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p371",
+   "id": "p372",
    "firstSeen": "2026-10-23"
   },
   {
@@ -14969,7 +15008,7 @@
    "schoolZh": "帕德博恩大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p372",
+   "id": "p373",
    "firstSeen": "2026-10-23"
   },
   {
@@ -15010,7 +15049,7 @@
    "schoolZh": "帕德博恩大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p373",
+   "id": "p374",
    "firstSeen": "2026-10-23"
   },
   {
@@ -15051,7 +15090,7 @@
    "schoolZh": "帕德博恩大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p374",
+   "id": "p375",
    "firstSeen": "2026-10-23"
   },
   {
@@ -15092,7 +15131,7 @@
    "schoolZh": "凯泽斯劳滕-兰道大学",
    "schoolAbbr": "RPTU",
    "lastCycle": false,
-   "id": "p375",
+   "id": "p376",
    "firstSeen": "2026-10-23"
   },
   {
@@ -15133,7 +15172,7 @@
    "schoolZh": "凯泽斯劳滕-兰道大学",
    "schoolAbbr": "RPTU",
    "lastCycle": false,
-   "id": "p376",
+   "id": "p377",
    "firstSeen": "2026-10-23"
   },
   {
@@ -15174,7 +15213,7 @@
    "schoolZh": "凯泽斯劳滕-兰道大学",
    "schoolAbbr": "RPTU",
    "lastCycle": false,
-   "id": "p377",
+   "id": "p378",
    "firstSeen": "2026-10-23"
   },
   {
@@ -15215,7 +15254,7 @@
    "schoolZh": "凯泽斯劳滕-兰道大学",
    "schoolAbbr": "RPTU",
    "lastCycle": false,
-   "id": "p378",
+   "id": "p379",
    "firstSeen": "2026-10-23"
   },
   {
@@ -15256,7 +15295,7 @@
    "schoolZh": "凯泽斯劳滕-兰道大学",
    "schoolAbbr": "RPTU",
    "lastCycle": false,
-   "id": "p379",
+   "id": "p380",
    "firstSeen": "2026-10-23"
   },
   {
@@ -15297,7 +15336,7 @@
    "schoolZh": "凯泽斯劳滕-兰道大学",
    "schoolAbbr": "RPTU",
    "lastCycle": false,
-   "id": "p380",
+   "id": "p381",
    "firstSeen": "2026-10-23"
   },
   {
@@ -15338,7 +15377,7 @@
    "schoolZh": "凯泽斯劳滕-兰道大学",
    "schoolAbbr": "RPTU",
    "lastCycle": false,
-   "id": "p381",
+   "id": "p382",
    "firstSeen": "2026-10-23"
   },
   {
@@ -15379,7 +15418,7 @@
    "schoolZh": "亚琛工业大学",
    "schoolAbbr": "RWTH",
    "lastCycle": false,
-   "id": "p382",
+   "id": "p383",
    "firstSeen": "2026-10-23"
   },
   {
@@ -15420,7 +15459,7 @@
    "schoolZh": "亚琛工业大学",
    "schoolAbbr": "RWTH",
    "lastCycle": false,
-   "id": "p383",
+   "id": "p384",
    "firstSeen": "2026-10-23"
   },
   {
@@ -15463,7 +15502,7 @@
    "schoolZh": "亚琛工业大学",
    "schoolAbbr": "RWTH",
    "lastCycle": false,
-   "id": "p384",
+   "id": "p385",
    "firstSeen": "2026-10-23"
   },
   {
@@ -15504,7 +15543,7 @@
    "schoolZh": "亚琛工业大学",
    "schoolAbbr": "RWTH",
    "lastCycle": false,
-   "id": "p385",
+   "id": "p386",
    "firstSeen": "2026-10-23"
   },
   {
@@ -15545,7 +15584,7 @@
    "schoolZh": "亚琛工业大学",
    "schoolAbbr": "RWTH",
    "lastCycle": false,
-   "id": "p386",
+   "id": "p387",
    "firstSeen": "2026-10-23"
   },
   {
@@ -15586,7 +15625,7 @@
    "schoolZh": "亚琛工业大学",
    "schoolAbbr": "RWTH",
    "lastCycle": false,
-   "id": "p387",
+   "id": "p388",
    "firstSeen": "2026-10-23"
   },
   {
@@ -15627,7 +15666,7 @@
    "schoolZh": "亚琛工业大学",
    "schoolAbbr": "RWTH",
    "lastCycle": false,
-   "id": "p388",
+   "id": "p389",
    "firstSeen": "2026-10-23"
   },
   {
@@ -15668,7 +15707,7 @@
    "schoolZh": "波鸿大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p389",
+   "id": "p390",
    "firstSeen": "2026-10-23"
   },
   {
@@ -15709,7 +15748,7 @@
    "schoolZh": "波鸿大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p390",
+   "id": "p391",
    "firstSeen": "2026-10-23"
   },
   {
@@ -15752,7 +15791,7 @@
    "schoolZh": "波鸿大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p391",
+   "id": "p392",
    "firstSeen": "2026-10-23"
   },
   {
@@ -15793,7 +15832,7 @@
    "schoolZh": "波鸿大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p392",
+   "id": "p393",
    "firstSeen": "2026-10-23"
   },
   {
@@ -15832,7 +15871,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p393",
+   "id": "p394",
    "firstSeen": "2026-10-23"
   },
   {
@@ -15871,7 +15910,7 @@
    "field": "计科软工",
    "hub": null,
    "lastCycle": false,
-   "id": "p394",
+   "id": "p395",
    "firstSeen": "2026-10-23"
   },
   {
@@ -15910,7 +15949,7 @@
    "field": "计科软工",
    "hub": null,
    "lastCycle": false,
-   "id": "p395",
+   "id": "p396",
    "firstSeen": "2026-10-23"
   },
   {
@@ -15951,7 +15990,7 @@
    "schoolZh": "萨尔大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p396",
+   "id": "p397",
    "firstSeen": "2026-10-23"
   },
   {
@@ -15992,7 +16031,7 @@
    "schoolZh": "萨尔大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p397",
+   "id": "p398",
    "firstSeen": "2026-10-23"
   },
   {
@@ -16035,7 +16074,7 @@
    "schoolZh": "萨尔大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p398",
+   "id": "p399",
    "firstSeen": "2026-10-23"
   },
   {
@@ -16076,7 +16115,7 @@
    "schoolZh": "萨尔大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p399",
+   "id": "p400",
    "firstSeen": "2026-10-23"
   },
   {
@@ -16117,7 +16156,7 @@
    "schoolZh": "萨尔大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p400",
+   "id": "p401",
    "firstSeen": "2026-10-23"
   },
   {
@@ -16158,7 +16197,7 @@
    "schoolZh": "弗莱贝格矿业工业大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p401",
+   "id": "p402",
    "firstSeen": "2026-10-23"
   },
   {
@@ -16199,7 +16238,7 @@
    "schoolZh": "弗莱贝格矿业工业大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p402",
+   "id": "p403",
    "firstSeen": "2026-10-23"
   },
   {
@@ -16240,7 +16279,7 @@
    "schoolZh": "弗莱贝格矿业工业大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p403",
+   "id": "p404",
    "firstSeen": "2026-10-23"
   },
   {
@@ -16281,7 +16320,7 @@
    "schoolZh": "多特蒙德工业大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p404",
+   "id": "p405",
    "firstSeen": "2026-10-23"
   },
   {
@@ -16322,7 +16361,7 @@
    "schoolZh": "多特蒙德工业大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p405",
+   "id": "p406",
    "firstSeen": "2026-10-23"
   },
   {
@@ -16363,7 +16402,7 @@
    "schoolZh": "达姆施塔特工业大学",
    "schoolAbbr": "TUDa",
    "lastCycle": false,
-   "id": "p406",
+   "id": "p407",
    "firstSeen": "2026-10-23"
   },
   {
@@ -16404,7 +16443,7 @@
    "schoolZh": "达姆施塔特工业大学",
    "schoolAbbr": "TUDa",
    "lastCycle": false,
-   "id": "p407",
+   "id": "p408",
    "firstSeen": "2026-10-23"
   },
   {
@@ -16445,7 +16484,7 @@
    "schoolZh": "柏林工业大学",
    "schoolAbbr": "TU Berlin",
    "lastCycle": false,
-   "id": "p408",
+   "id": "p409",
    "firstSeen": "2026-10-23"
   },
   {
@@ -16486,7 +16525,7 @@
    "schoolZh": "柏林工业大学",
    "schoolAbbr": "TU Berlin",
    "lastCycle": false,
-   "id": "p409",
+   "id": "p410",
    "firstSeen": "2026-10-23"
   },
   {
@@ -16527,7 +16566,7 @@
    "schoolZh": "柏林工业大学",
    "schoolAbbr": "TU Berlin",
    "lastCycle": false,
-   "id": "p410",
+   "id": "p411",
    "firstSeen": "2026-10-23"
   },
   {
@@ -16566,7 +16605,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p411",
+   "id": "p412",
    "firstSeen": "2026-10-23"
   },
   {
@@ -16607,7 +16646,7 @@
    "schoolZh": "伊尔梅瑙工业大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p412",
+   "id": "p413",
    "firstSeen": "2026-10-23"
   },
   {
@@ -16648,7 +16687,7 @@
    "schoolZh": "伊尔梅瑙工业大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p413",
+   "id": "p414",
    "firstSeen": "2026-10-23"
   },
   {
@@ -16687,7 +16726,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p414",
+   "id": "p415",
    "firstSeen": "2026-10-23"
   },
   {
@@ -16728,7 +16767,7 @@
    "schoolZh": "乌尔姆大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p415",
+   "id": "p416",
    "firstSeen": "2026-10-23"
   },
   {
@@ -16769,7 +16808,7 @@
    "schoolZh": "乌尔姆大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p416",
+   "id": "p417",
    "firstSeen": "2026-10-23"
   },
   {
@@ -16810,7 +16849,7 @@
    "schoolZh": "乌尔姆大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p417",
+   "id": "p418",
    "firstSeen": "2026-10-23"
   },
   {
@@ -16851,7 +16890,7 @@
    "schoolZh": "乌尔姆大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p418",
+   "id": "p419",
    "firstSeen": "2026-10-23"
   },
   {
@@ -16894,7 +16933,7 @@
    "schoolZh": "乌尔姆大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p419",
+   "id": "p420",
    "firstSeen": "2026-10-23"
   },
   {
@@ -16933,7 +16972,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p420",
+   "id": "p421",
    "firstSeen": "2026-10-23"
   },
   {
@@ -16972,7 +17011,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p421",
+   "id": "p422",
    "firstSeen": "2026-10-23"
   },
   {
@@ -17013,7 +17052,7 @@
    "schoolZh": "拜罗伊特大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p422",
+   "id": "p423",
    "firstSeen": "2026-10-23"
   },
   {
@@ -17054,7 +17093,7 @@
    "schoolZh": "拜罗伊特大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p423",
+   "id": "p424",
    "firstSeen": "2026-10-23"
   },
   {
@@ -17095,7 +17134,7 @@
    "schoolZh": "波恩大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p424",
+   "id": "p425",
    "firstSeen": "2026-10-23"
   },
   {
@@ -17136,7 +17175,7 @@
    "schoolZh": "波恩大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p425",
+   "id": "p426",
    "firstSeen": "2026-10-23"
   },
   {
@@ -17177,7 +17216,7 @@
    "schoolZh": "波恩大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p426",
+   "id": "p427",
    "firstSeen": "2026-10-23"
   },
   {
@@ -17220,7 +17259,7 @@
    "schoolZh": "波恩大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p427",
+   "id": "p428",
    "firstSeen": "2026-10-23"
   },
   {
@@ -17261,7 +17300,7 @@
    "schoolZh": "波恩大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p428",
+   "id": "p429",
    "firstSeen": "2026-10-23"
   },
   {
@@ -17302,7 +17341,7 @@
    "schoolZh": "波恩大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p429",
+   "id": "p430",
    "firstSeen": "2026-10-23"
   },
   {
@@ -17343,7 +17382,7 @@
    "schoolZh": "波恩大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p430",
+   "id": "p431",
    "firstSeen": "2026-10-23"
   },
   {
@@ -17384,7 +17423,7 @@
    "schoolZh": "波恩大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p431",
+   "id": "p432",
    "firstSeen": "2026-10-23"
   },
   {
@@ -17425,7 +17464,7 @@
    "schoolZh": "波恩大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p432",
+   "id": "p433",
    "firstSeen": "2026-10-23"
   },
   {
@@ -17466,7 +17505,7 @@
    "schoolZh": "波恩大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p433",
+   "id": "p434",
    "firstSeen": "2026-10-23"
   },
   {
@@ -17507,7 +17546,7 @@
    "schoolZh": "波恩大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p434",
+   "id": "p435",
    "firstSeen": "2026-10-23"
   },
   {
@@ -17548,7 +17587,7 @@
    "schoolZh": "波恩大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p435",
+   "id": "p436",
    "firstSeen": "2026-10-23"
   },
   {
@@ -17589,7 +17628,7 @@
    "schoolZh": "波恩大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p436",
+   "id": "p437",
    "firstSeen": "2026-10-23"
   },
   {
@@ -17630,7 +17669,7 @@
    "schoolZh": "波恩大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p437",
+   "id": "p438",
    "firstSeen": "2026-10-23"
   },
   {
@@ -17671,7 +17710,7 @@
    "schoolZh": "不来梅大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p438",
+   "id": "p439",
    "firstSeen": "2026-10-23"
   },
   {
@@ -17712,7 +17751,7 @@
    "schoolZh": "不来梅大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p439",
+   "id": "p440",
    "firstSeen": "2026-10-23"
   },
   {
@@ -17753,7 +17792,7 @@
    "schoolZh": "不来梅大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p440",
+   "id": "p441",
    "firstSeen": "2026-10-23"
   },
   {
@@ -17794,7 +17833,7 @@
    "schoolZh": "科隆大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p441",
+   "id": "p442",
    "firstSeen": "2026-10-23"
   },
   {
@@ -17835,7 +17874,7 @@
    "schoolZh": "科隆大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p442",
+   "id": "p443",
    "firstSeen": "2026-10-23"
   },
   {
@@ -17876,7 +17915,7 @@
    "schoolZh": "科隆大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p443",
+   "id": "p444",
    "firstSeen": "2026-10-23"
   },
   {
@@ -17917,7 +17956,7 @@
    "schoolZh": "科隆大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p444",
+   "id": "p445",
    "firstSeen": "2026-10-23"
   },
   {
@@ -17958,7 +17997,7 @@
    "schoolZh": "科隆大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p445",
+   "id": "p446",
    "firstSeen": "2026-10-23"
   },
   {
@@ -17999,7 +18038,7 @@
    "schoolZh": "杜伊斯堡-埃森大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p446",
+   "id": "p447",
    "firstSeen": "2026-10-23"
   },
   {
@@ -18042,7 +18081,7 @@
    "schoolZh": "杜伊斯堡-埃森大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p447",
+   "id": "p448",
    "firstSeen": "2026-10-23"
   },
   {
@@ -18083,7 +18122,7 @@
    "schoolZh": "弗莱堡大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p448",
+   "id": "p449",
    "firstSeen": "2026-10-23"
   },
   {
@@ -18126,7 +18165,7 @@
    "schoolZh": "弗莱堡大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p449",
+   "id": "p450",
    "firstSeen": "2026-10-23"
   },
   {
@@ -18167,7 +18206,7 @@
    "schoolZh": "弗莱堡大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p450",
+   "id": "p451",
    "firstSeen": "2026-10-23"
   },
   {
@@ -18208,7 +18247,7 @@
    "schoolZh": "弗莱堡大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p451",
+   "id": "p452",
    "firstSeen": "2026-10-23"
   },
   {
@@ -18249,7 +18288,7 @@
    "schoolZh": "弗莱堡大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p452",
+   "id": "p453",
    "firstSeen": "2026-10-23"
   },
   {
@@ -18290,7 +18329,7 @@
    "schoolZh": "弗莱堡大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p453",
+   "id": "p454",
    "firstSeen": "2026-10-23"
   },
   {
@@ -18329,7 +18368,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p454",
+   "id": "p455",
    "firstSeen": "2026-10-23"
   },
   {
@@ -18370,7 +18409,7 @@
    "schoolZh": "哥廷根大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p455",
+   "id": "p456",
    "firstSeen": "2026-10-23"
   },
   {
@@ -18411,7 +18450,7 @@
    "schoolZh": "哥廷根大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p456",
+   "id": "p457",
    "firstSeen": "2026-10-23"
   },
   {
@@ -18452,7 +18491,7 @@
    "schoolZh": "哥廷根大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p457",
+   "id": "p458",
    "firstSeen": "2026-10-23"
   },
   {
@@ -18493,7 +18532,7 @@
    "schoolZh": "哥廷根大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p458",
+   "id": "p459",
    "firstSeen": "2026-10-23"
   },
   {
@@ -18534,7 +18573,7 @@
    "schoolZh": "哥廷根大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p459",
+   "id": "p460",
    "firstSeen": "2026-10-23"
   },
   {
@@ -18575,7 +18614,7 @@
    "schoolZh": "哥廷根大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p460",
+   "id": "p461",
    "firstSeen": "2026-10-23"
   },
   {
@@ -18616,7 +18655,7 @@
    "schoolZh": "哥廷根大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p461",
+   "id": "p462",
    "firstSeen": "2026-10-23"
   },
   {
@@ -18657,7 +18696,7 @@
    "schoolZh": "哥廷根大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p462",
+   "id": "p463",
    "firstSeen": "2026-10-23"
   },
   {
@@ -18698,7 +18737,7 @@
    "schoolZh": "哥廷根大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p463",
+   "id": "p464",
    "firstSeen": "2026-10-23"
   },
   {
@@ -18739,7 +18778,7 @@
    "schoolZh": "哥廷根大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p464",
+   "id": "p465",
    "firstSeen": "2026-10-23"
   },
   {
@@ -18780,7 +18819,7 @@
    "schoolZh": "哥廷根大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p465",
+   "id": "p466",
    "firstSeen": "2026-10-23"
   },
   {
@@ -18821,7 +18860,7 @@
    "schoolZh": "哥廷根大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p466",
+   "id": "p467",
    "firstSeen": "2026-10-23"
   },
   {
@@ -18862,7 +18901,7 @@
    "schoolZh": "哥廷根大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p467",
+   "id": "p468",
    "firstSeen": "2026-10-23"
   },
   {
@@ -18905,7 +18944,7 @@
    "schoolZh": "哥廷根大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p468",
+   "id": "p469",
    "firstSeen": "2026-10-23"
   },
   {
@@ -18948,7 +18987,7 @@
    "schoolZh": "哥廷根大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p469",
+   "id": "p470",
    "firstSeen": "2026-10-23"
   },
   {
@@ -18989,7 +19028,7 @@
    "schoolZh": "汉堡大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p470",
+   "id": "p471",
    "firstSeen": "2026-10-23"
   },
   {
@@ -19030,7 +19069,7 @@
    "schoolZh": "汉堡大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p471",
+   "id": "p472",
    "firstSeen": "2026-10-23"
   },
   {
@@ -19071,7 +19110,7 @@
    "schoolZh": "汉堡大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p472",
+   "id": "p473",
    "firstSeen": "2026-10-23"
   },
   {
@@ -19112,7 +19151,7 @@
    "schoolZh": "汉堡大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p473",
+   "id": "p474",
    "firstSeen": "2026-10-23"
   },
   {
@@ -19153,7 +19192,7 @@
    "schoolZh": "汉堡大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p474",
+   "id": "p475",
    "firstSeen": "2026-10-23"
   },
   {
@@ -19194,7 +19233,7 @@
    "schoolZh": "汉堡大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p475",
+   "id": "p476",
    "firstSeen": "2026-10-23"
   },
   {
@@ -19235,7 +19274,7 @@
    "schoolZh": "霍恩海姆大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p476",
+   "id": "p477",
    "firstSeen": "2026-10-23"
   },
   {
@@ -19276,7 +19315,7 @@
    "schoolZh": "霍恩海姆大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p477",
+   "id": "p478",
    "firstSeen": "2026-10-23"
   },
   {
@@ -19317,7 +19356,7 @@
    "schoolZh": "霍恩海姆大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p478",
+   "id": "p479",
    "firstSeen": "2026-10-23"
   },
   {
@@ -19358,7 +19397,7 @@
    "schoolZh": "霍恩海姆大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p479",
+   "id": "p480",
    "firstSeen": "2026-10-23"
   },
   {
@@ -19399,7 +19438,7 @@
    "schoolZh": "霍恩海姆大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p480",
+   "id": "p481",
    "firstSeen": "2026-10-23"
   },
   {
@@ -19440,7 +19479,7 @@
    "schoolZh": "霍恩海姆大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p481",
+   "id": "p482",
    "firstSeen": "2026-10-23"
   },
   {
@@ -19481,7 +19520,7 @@
    "schoolZh": "霍恩海姆大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p482",
+   "id": "p483",
    "firstSeen": "2026-10-23"
   },
   {
@@ -19522,7 +19561,7 @@
    "schoolZh": "卡塞尔大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p483",
+   "id": "p484",
    "firstSeen": "2026-10-23"
   },
   {
@@ -19563,7 +19602,7 @@
    "schoolZh": "卡塞尔大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p484",
+   "id": "p485",
    "firstSeen": "2026-10-23"
   },
   {
@@ -19602,7 +19641,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p485",
+   "id": "p486",
    "firstSeen": "2026-10-23"
   },
   {
@@ -19641,7 +19680,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p486",
+   "id": "p487",
    "firstSeen": "2026-10-23"
   },
   {
@@ -19682,7 +19721,7 @@
    "schoolZh": "康斯坦茨大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p487",
+   "id": "p488",
    "firstSeen": "2026-10-23"
   },
   {
@@ -19723,7 +19762,7 @@
    "schoolZh": "康斯坦茨大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p488",
+   "id": "p489",
    "firstSeen": "2026-10-23"
   },
   {
@@ -19764,7 +19803,7 @@
    "schoolZh": "康斯坦茨大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p489",
+   "id": "p490",
    "firstSeen": "2026-10-23"
   },
   {
@@ -19805,7 +19844,7 @@
    "schoolZh": "康斯坦茨大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p490",
+   "id": "p491",
    "firstSeen": "2026-10-23"
   },
   {
@@ -19846,7 +19885,7 @@
    "schoolZh": "康斯坦茨大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p491",
+   "id": "p492",
    "firstSeen": "2026-10-23"
   },
   {
@@ -19885,7 +19924,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p492",
+   "id": "p493",
    "firstSeen": "2026-10-23"
   },
   {
@@ -19926,7 +19965,7 @@
    "schoolZh": "明斯特大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p493",
+   "id": "p494",
    "firstSeen": "2026-10-23"
   },
   {
@@ -19967,7 +20006,7 @@
    "schoolZh": "明斯特大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p494",
+   "id": "p495",
    "firstSeen": "2026-10-23"
   },
   {
@@ -20008,7 +20047,7 @@
    "schoolZh": "奥尔登堡大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p495",
+   "id": "p496",
    "firstSeen": "2026-10-23"
   },
   {
@@ -20049,7 +20088,7 @@
    "schoolZh": "奥尔登堡大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p496",
+   "id": "p497",
    "firstSeen": "2026-10-23"
   },
   {
@@ -20090,7 +20129,7 @@
    "schoolZh": "奥尔登堡大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p497",
+   "id": "p498",
    "firstSeen": "2026-10-23"
   },
   {
@@ -20131,7 +20170,7 @@
    "schoolZh": "奥尔登堡大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p498",
+   "id": "p499",
    "firstSeen": "2026-10-23"
   },
   {
@@ -20172,7 +20211,7 @@
    "schoolZh": "奥尔登堡大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p499",
+   "id": "p500",
    "firstSeen": "2026-10-23"
   },
   {
@@ -20213,7 +20252,7 @@
    "schoolZh": "奥尔登堡大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p500",
+   "id": "p501",
    "firstSeen": "2026-10-23"
   },
   {
@@ -20252,7 +20291,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p501",
+   "id": "p502",
    "firstSeen": "2026-10-23"
   },
   {
@@ -20293,7 +20332,7 @@
    "schoolZh": "波茨坦大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p502",
+   "id": "p503",
    "firstSeen": "2026-10-23"
   },
   {
@@ -20334,7 +20373,7 @@
    "schoolZh": "波茨坦大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p503",
+   "id": "p504",
    "firstSeen": "2026-10-23"
   },
   {
@@ -20375,7 +20414,7 @@
    "schoolZh": "波茨坦大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p504",
+   "id": "p505",
    "firstSeen": "2026-10-23"
   },
   {
@@ -20416,7 +20455,7 @@
    "schoolZh": "波茨坦大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p505",
+   "id": "p506",
    "firstSeen": "2026-10-23"
   },
   {
@@ -20459,7 +20498,7 @@
    "schoolZh": "波茨坦大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p506",
+   "id": "p507",
    "firstSeen": "2026-10-23"
   },
   {
@@ -20500,7 +20539,7 @@
    "schoolZh": "波茨坦大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p507",
+   "id": "p508",
    "firstSeen": "2026-10-23"
   },
   {
@@ -20541,7 +20580,7 @@
    "schoolZh": "波茨坦大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p508",
+   "id": "p509",
    "firstSeen": "2026-10-23"
   },
   {
@@ -20582,7 +20621,7 @@
    "schoolZh": "波茨坦大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p509",
+   "id": "p510",
    "firstSeen": "2026-10-23"
   },
   {
@@ -20625,7 +20664,7 @@
    "schoolZh": "波茨坦大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p510",
+   "id": "p511",
    "firstSeen": "2026-10-23"
   },
   {
@@ -20666,7 +20705,7 @@
    "schoolZh": "雷根斯堡大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p511",
+   "id": "p512",
    "firstSeen": "2026-10-23"
   },
   {
@@ -20707,7 +20746,7 @@
    "schoolZh": "雷根斯堡大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p512",
+   "id": "p513",
    "firstSeen": "2026-10-23"
   },
   {
@@ -20748,7 +20787,7 @@
    "schoolZh": "雷根斯堡大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p513",
+   "id": "p514",
    "firstSeen": "2026-10-23"
   },
   {
@@ -20789,7 +20828,7 @@
    "schoolZh": "斯图加特大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p514",
+   "id": "p515",
    "firstSeen": "2026-10-23"
   },
   {
@@ -20830,7 +20869,7 @@
    "schoolZh": "斯图加特大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p515",
+   "id": "p516",
    "firstSeen": "2026-10-23"
   },
   {
@@ -20871,7 +20910,7 @@
    "schoolZh": "斯图加特大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p516",
+   "id": "p517",
    "firstSeen": "2026-10-23"
   },
   {
@@ -20910,7 +20949,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p517",
+   "id": "p518",
    "firstSeen": "2026-10-23"
   },
   {
@@ -20951,7 +20990,7 @@
    "schoolZh": "图宾根大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p518",
+   "id": "p519",
    "firstSeen": "2026-10-23"
   },
   {
@@ -20992,7 +21031,7 @@
    "schoolZh": "图宾根大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p519",
+   "id": "p520",
    "firstSeen": "2026-10-23"
   },
   {
@@ -21033,7 +21072,7 @@
    "schoolZh": "图宾根大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p520",
+   "id": "p521",
    "firstSeen": "2026-10-23"
   },
   {
@@ -21074,7 +21113,7 @@
    "schoolZh": "图宾根大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p521",
+   "id": "p522",
    "firstSeen": "2026-10-23"
   },
   {
@@ -21115,7 +21154,7 @@
    "schoolZh": "图宾根大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p522",
+   "id": "p523",
    "firstSeen": "2026-10-23"
   },
   {
@@ -21156,7 +21195,7 @@
    "schoolZh": "图宾根大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p523",
+   "id": "p524",
    "firstSeen": "2026-10-23"
   },
   {
@@ -21197,7 +21236,7 @@
    "schoolZh": "图宾根大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p524",
+   "id": "p525",
    "firstSeen": "2026-10-23"
   },
   {
@@ -21240,7 +21279,7 @@
    "schoolZh": "图宾根大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p525",
+   "id": "p526",
    "firstSeen": "2026-10-23"
   },
   {
@@ -21281,7 +21320,7 @@
    "schoolZh": "图宾根大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p526",
+   "id": "p527",
    "firstSeen": "2026-10-23"
   },
   {
@@ -21324,7 +21363,7 @@
    "schoolZh": "图宾根大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p527",
+   "id": "p528",
    "firstSeen": "2026-10-23"
   },
   {
@@ -21365,7 +21404,7 @@
    "schoolZh": "图宾根大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p528",
+   "id": "p529",
    "firstSeen": "2026-10-23"
   },
   {
@@ -21406,7 +21445,7 @@
    "schoolZh": "图宾根大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p529",
+   "id": "p530",
    "firstSeen": "2026-10-23"
   },
   {
@@ -21447,7 +21486,7 @@
    "schoolZh": "图宾根大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p530",
+   "id": "p531",
    "firstSeen": "2026-10-23"
   },
   {
@@ -21488,7 +21527,7 @@
    "schoolZh": "图宾根大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p531",
+   "id": "p532",
    "firstSeen": "2026-10-23"
   },
   {
@@ -21529,7 +21568,7 @@
    "schoolZh": "图宾根大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p532",
+   "id": "p533",
    "firstSeen": "2026-10-23"
   },
   {
@@ -21570,7 +21609,7 @@
    "schoolZh": "图宾根大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p533",
+   "id": "p534",
    "firstSeen": "2026-10-23"
   },
   {
@@ -21611,7 +21650,7 @@
    "schoolZh": "图宾根大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p534",
+   "id": "p535",
    "firstSeen": "2026-10-23"
   },
   {
@@ -21650,7 +21689,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p535",
+   "id": "p536",
    "firstSeen": "2026-10-23"
   },
   {
@@ -21689,7 +21728,7 @@
    "field": "计科软工",
    "hub": null,
    "lastCycle": false,
-   "id": "p536",
+   "id": "p537",
    "firstSeen": "2026-10-23"
   },
   {
@@ -21728,7 +21767,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p537",
+   "id": "p538",
    "firstSeen": "2026-10-23"
   },
   {
@@ -21767,7 +21806,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p538",
+   "id": "p539",
    "firstSeen": "2026-10-23"
   },
   {
@@ -21806,7 +21845,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p539",
+   "id": "p540",
    "firstSeen": "2026-10-23"
   },
   {
@@ -21845,7 +21884,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p540",
+   "id": "p541",
    "firstSeen": "2026-10-23"
   },
   {
@@ -21884,7 +21923,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p541",
+   "id": "p542",
    "firstSeen": "2026-10-23"
   },
   {
@@ -21923,7 +21962,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p542",
+   "id": "p543",
    "firstSeen": "2026-10-23"
   },
   {
@@ -21962,7 +22001,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p543",
+   "id": "p544",
    "firstSeen": "2026-10-23"
   },
   {
@@ -22001,7 +22040,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p544",
+   "id": "p545",
    "firstSeen": "2026-10-23"
   },
   {
@@ -22040,7 +22079,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p545",
+   "id": "p546",
    "firstSeen": "2026-10-23"
   },
   {
@@ -22081,7 +22120,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p546",
+   "id": "p547",
    "firstSeen": "2026-10-23"
   },
   {
@@ -22120,7 +22159,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p547",
+   "id": "p548",
    "firstSeen": "2026-10-23"
   },
   {
@@ -22159,7 +22198,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p548",
+   "id": "p549",
    "firstSeen": "2026-10-23"
   },
   {
@@ -22198,7 +22237,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p549",
+   "id": "p550",
    "firstSeen": "2026-10-23"
   },
   {
@@ -22237,7 +22276,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p550",
+   "id": "p551",
    "firstSeen": "2026-10-23"
   },
   {
@@ -22276,7 +22315,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p551",
+   "id": "p552",
    "firstSeen": "2026-10-23"
   },
   {
@@ -22315,7 +22354,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p552",
+   "id": "p553",
    "firstSeen": "2026-10-23"
   },
   {
@@ -22354,7 +22393,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p553",
+   "id": "p554",
    "firstSeen": "2026-10-23"
   },
   {
@@ -22393,7 +22432,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p554",
+   "id": "p555",
    "firstSeen": "2026-10-23"
   },
   {
@@ -22432,7 +22471,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p555",
+   "id": "p556",
    "firstSeen": "2026-10-23"
   },
   {
@@ -22471,7 +22510,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p556",
+   "id": "p557",
    "firstSeen": "2026-10-23"
   },
   {
@@ -22510,7 +22549,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p557",
+   "id": "p558",
    "firstSeen": "2026-10-23"
   },
   {
@@ -22549,7 +22588,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p558",
+   "id": "p559",
    "firstSeen": "2026-10-23"
   },
   {
@@ -22588,7 +22627,7 @@
    "field": "计科软工",
    "hub": null,
    "lastCycle": false,
-   "id": "p559",
+   "id": "p560",
    "firstSeen": "2026-10-23"
   },
   {
@@ -22627,7 +22666,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p560",
+   "id": "p561",
    "firstSeen": "2026-10-23"
   },
   {
@@ -22666,7 +22705,7 @@
    "field": "计科软工",
    "hub": null,
    "lastCycle": false,
-   "id": "p561",
+   "id": "p562",
    "firstSeen": "2026-10-23"
   },
   {
@@ -22705,7 +22744,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p562",
+   "id": "p563",
    "firstSeen": "2026-10-23"
   },
   {
@@ -22744,7 +22783,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p563",
+   "id": "p564",
    "firstSeen": "2026-10-23"
   },
   {
@@ -22783,7 +22822,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p564",
+   "id": "p565",
    "firstSeen": "2026-10-23"
   },
   {
@@ -22822,7 +22861,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p565",
+   "id": "p566",
    "firstSeen": "2026-10-23"
   },
   {
@@ -22861,7 +22900,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p566",
+   "id": "p567",
    "firstSeen": "2026-10-23"
   },
   {
@@ -22900,7 +22939,7 @@
    "field": "计科软工",
    "hub": null,
    "lastCycle": false,
-   "id": "p567",
+   "id": "p568",
    "firstSeen": "2026-10-23"
   },
   {
@@ -22939,7 +22978,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p568",
+   "id": "p569",
    "firstSeen": "2026-10-23"
   },
   {
@@ -22978,7 +23017,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p569",
+   "id": "p570",
    "firstSeen": "2026-10-23"
   },
   {
@@ -23017,7 +23056,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p570",
+   "id": "p571",
    "firstSeen": "2026-10-23"
   },
   {
@@ -23056,7 +23095,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p571",
+   "id": "p572",
    "firstSeen": "2026-10-23"
   },
   {
@@ -23095,7 +23134,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p572",
+   "id": "p573",
    "firstSeen": "2026-10-23"
   },
   {
@@ -23134,7 +23173,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p573",
+   "id": "p574",
    "firstSeen": "2026-10-23"
   },
   {
@@ -23173,7 +23212,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p574",
+   "id": "p575",
    "firstSeen": "2026-10-23"
   },
   {
@@ -23212,7 +23251,7 @@
    "field": "计科软工",
    "hub": null,
    "lastCycle": false,
-   "id": "p575",
+   "id": "p576",
    "firstSeen": "2026-10-23"
   },
   {
@@ -23251,7 +23290,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p576",
+   "id": "p577",
    "firstSeen": "2026-10-23"
   },
   {
@@ -23290,7 +23329,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p577",
+   "id": "p578",
    "firstSeen": "2026-10-23"
   },
   {
@@ -23329,7 +23368,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p578",
+   "id": "p579",
    "firstSeen": "2026-10-23"
   },
   {
@@ -23368,7 +23407,7 @@
    "field": "计科软工",
    "hub": null,
    "lastCycle": false,
-   "id": "p579",
+   "id": "p580",
    "firstSeen": "2026-10-23"
   },
   {
@@ -23407,7 +23446,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p580",
+   "id": "p581",
    "firstSeen": "2026-10-23"
   },
   {
@@ -23446,7 +23485,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p581",
+   "id": "p582",
    "firstSeen": "2026-10-23"
   },
   {
@@ -23485,7 +23524,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p582",
+   "id": "p583",
    "firstSeen": "2026-10-23"
   },
   {
@@ -23524,7 +23563,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p583",
+   "id": "p584",
    "firstSeen": "2026-10-23"
   },
   {
@@ -23565,7 +23604,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p584",
+   "id": "p585",
    "firstSeen": "2026-10-23"
   },
   {
@@ -23604,7 +23643,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p585",
+   "id": "p586",
    "firstSeen": "2026-10-23"
   },
   {
@@ -23645,7 +23684,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p586",
+   "id": "p587",
    "firstSeen": "2026-10-23"
   },
   {
@@ -23686,7 +23725,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p587",
+   "id": "p588",
    "firstSeen": "2026-10-23"
   },
   {
@@ -23727,7 +23766,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p588",
+   "id": "p589",
    "firstSeen": "2026-10-23"
   },
   {
@@ -23766,7 +23805,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p589",
+   "id": "p590",
    "firstSeen": "2026-10-23"
   },
   {
@@ -23805,7 +23844,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p590",
+   "id": "p591",
    "firstSeen": "2026-10-23"
   },
   {
@@ -23848,7 +23887,7 @@
    "schoolZh": "苏黎世联邦理工学院·生命科学研究生院",
    "schoolAbbr": "ETH",
    "lastCycle": false,
-   "id": "p591",
+   "id": "p592",
    "firstSeen": "2026-10-23"
   },
   {
@@ -23889,7 +23928,7 @@
    "schoolZh": "洛桑联邦理工学院",
    "schoolAbbr": "EPFL",
    "lastCycle": false,
-   "id": "p592",
+   "id": "p593",
    "firstSeen": "2026-10-23"
   },
   {
@@ -23930,7 +23969,7 @@
    "schoolZh": "弗里德里希·米歇尔研究所",
    "schoolAbbr": "FMI",
    "lastCycle": false,
-   "id": "p593",
+   "id": "p594",
    "firstSeen": "2026-10-23"
   },
   {
@@ -23973,7 +24012,7 @@
    "schoolZh": "巴塞尔大学·Biozentrum",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p594",
+   "id": "p595",
    "firstSeen": "2026-10-23"
   },
   {
@@ -24016,7 +24055,7 @@
    "schoolZh": "巴斯德研究所",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p595",
+   "id": "p596",
    "firstSeen": "2026-10-23"
   },
   {
@@ -24057,7 +24096,7 @@
    "schoolZh": "居里研究所",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p596",
+   "id": "p597",
    "firstSeen": "2026-10-23"
   },
   {
@@ -24098,7 +24137,7 @@
    "schoolZh": "维也纳生物中心",
    "schoolAbbr": "VBC",
    "lastCycle": false,
-   "id": "p597",
+   "id": "p598",
    "firstSeen": "2026-10-23"
   },
   {
@@ -24139,7 +24178,7 @@
    "schoolZh": "奥地利科学技术研究所",
    "schoolAbbr": "ISTA",
    "lastCycle": false,
-   "id": "p598",
+   "id": "p599",
    "firstSeen": "2026-10-23"
   },
   {
@@ -24182,7 +24221,7 @@
    "schoolZh": "胡布雷希特研究所",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p599",
+   "id": "p600",
    "firstSeen": "2026-10-23"
   },
   {
@@ -24223,7 +24262,7 @@
    "schoolZh": "荷兰癌症研究所",
    "schoolAbbr": "NKI",
    "lastCycle": false,
-   "id": "p600",
+   "id": "p601",
    "firstSeen": "2026-10-23"
   },
   {
@@ -24266,7 +24305,7 @@
    "schoolZh": "VIB-鲁汶大学神经科学中心",
    "schoolAbbr": "VIB",
    "lastCycle": false,
-   "id": "p601",
+   "id": "p602",
    "firstSeen": "2026-10-23"
   },
   {
@@ -24307,7 +24346,7 @@
    "schoolZh": "卡罗林斯卡医学院",
    "schoolAbbr": "KI",
    "lastCycle": false,
-   "id": "p602",
+   "id": "p603",
    "firstSeen": "2026-10-23"
   },
   {
@@ -24348,7 +24387,7 @@
    "schoolZh": "瑞典生命科学实验室",
    "schoolAbbr": "SciLifeLab",
    "lastCycle": false,
-   "id": "p603",
+   "id": "p604",
    "firstSeen": "2026-10-23"
   },
   {
@@ -24391,7 +24430,7 @@
    "schoolZh": "诺和诺德基金会研究中心",
    "schoolAbbr": "NNF",
    "lastCycle": false,
-   "id": "p604",
+   "id": "p605",
    "firstSeen": "2026-10-23"
   },
   {
@@ -24432,7 +24471,7 @@
    "schoolZh": "挪威科技大学",
    "schoolAbbr": "NTNU",
    "lastCycle": false,
-   "id": "p605",
+   "id": "p606",
    "firstSeen": "2026-10-23"
   },
   {
@@ -24473,7 +24512,7 @@
    "schoolZh": "奥斯陆大学·分子生物科学中心",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p606",
+   "id": "p607",
    "firstSeen": "2026-10-23"
   },
   {
@@ -24514,7 +24553,7 @@
    "schoolZh": "人类技术园",
    "schoolAbbr": "Human Technopole",
    "lastCycle": false,
-   "id": "p607",
+   "id": "p608",
    "firstSeen": "2026-10-23"
   },
   {
@@ -24557,7 +24596,7 @@
    "schoolZh": "TIGEM 遗传学与医学研究所",
    "schoolAbbr": "TIGEM",
    "lastCycle": false,
-   "id": "p608",
+   "id": "p609",
    "firstSeen": "2026-10-23"
   },
   {
@@ -24598,7 +24637,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p609",
+   "id": "p610",
    "firstSeen": "2026-10-23"
   },
   {
@@ -24641,7 +24680,7 @@
    "schoolZh": "尚帕利莫基金会",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p610",
+   "id": "p611",
    "firstSeen": "2026-10-23"
   },
   {
@@ -24682,7 +24721,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p611",
+   "id": "p612",
    "firstSeen": "2026-10-23"
   },
   {
@@ -24723,7 +24762,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p612",
+   "id": "p613",
    "firstSeen": "2026-10-23"
   },
   {
@@ -24762,7 +24801,7 @@
    "field": "计科软工",
    "hub": null,
    "lastCycle": false,
-   "id": "p613",
+   "id": "p614",
    "firstSeen": "2026-10-23"
   },
   {
@@ -24801,7 +24840,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p614",
+   "id": "p615",
    "firstSeen": "2026-10-23"
   },
   {
@@ -24840,7 +24879,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p615",
+   "id": "p616",
    "firstSeen": "2026-10-23"
   },
   {
@@ -24879,7 +24918,7 @@
    "field": "化学材料",
    "hub": null,
    "lastCycle": false,
-   "id": "p616",
+   "id": "p617",
    "firstSeen": "2026-10-23"
   },
   {
@@ -24920,7 +24959,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p617",
+   "id": "p618",
    "firstSeen": "2026-10-23"
   },
   {
@@ -24959,7 +24998,7 @@
    "field": "其他交叉",
    "hub": null,
    "lastCycle": false,
-   "id": "p618",
+   "id": "p619",
    "firstSeen": "2026-10-23"
   },
   {
@@ -25000,7 +25039,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p619",
+   "id": "p620",
    "firstSeen": "2026-10-23"
   },
   {
@@ -25039,7 +25078,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p620",
+   "id": "p621",
    "firstSeen": "2026-10-23"
   },
   {
@@ -25078,7 +25117,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p621",
+   "id": "p622",
    "firstSeen": "2026-10-23"
   },
   {
@@ -25117,7 +25156,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p622",
+   "id": "p623",
    "firstSeen": "2026-10-23"
   },
   {
@@ -25156,7 +25195,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p623",
+   "id": "p624",
    "firstSeen": "2026-10-23"
   },
   {
@@ -25197,7 +25236,7 @@
    "schoolZh": "韩国科学技术院",
    "schoolAbbr": "KAIST",
    "lastCycle": false,
-   "id": "p624",
+   "id": "p625",
    "firstSeen": "2026-10-23"
   },
   {
@@ -25240,7 +25279,7 @@
    "schoolZh": "浦项科技大学",
    "schoolAbbr": "POSTECH",
    "lastCycle": false,
-   "id": "p625",
+   "id": "p626",
    "firstSeen": "2026-10-23"
   },
   {
@@ -25283,7 +25322,7 @@
    "schoolZh": "光州科学技术院",
    "schoolAbbr": "GIST",
    "lastCycle": false,
-   "id": "p626",
+   "id": "p627",
    "firstSeen": "2026-10-23"
   },
   {
@@ -25326,7 +25365,7 @@
    "schoolZh": "蔚山科学技术院",
    "schoolAbbr": "UNIST",
    "lastCycle": false,
-   "id": "p627",
+   "id": "p628",
    "firstSeen": "2026-10-23"
   },
   {
@@ -25365,7 +25404,7 @@
    "field": "其他交叉",
    "hub": null,
    "lastCycle": false,
-   "id": "p628",
+   "id": "p629",
    "firstSeen": "2026-10-23"
   },
   {
@@ -25404,7 +25443,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p629",
+   "id": "p630",
    "firstSeen": "2026-10-23"
   },
   {
@@ -25443,7 +25482,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p630",
+   "id": "p631",
    "firstSeen": "2026-10-23"
   },
   {
@@ -25482,7 +25521,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p631",
+   "id": "p632",
    "firstSeen": "2026-10-23"
   },
   {
@@ -25521,7 +25560,7 @@
    "field": "其他交叉",
    "hub": null,
    "lastCycle": false,
-   "id": "p632",
+   "id": "p633",
    "firstSeen": "2026-10-23"
   },
   {
@@ -25562,7 +25601,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p633",
+   "id": "p634",
    "firstSeen": "2026-10-23"
   },
   {
@@ -25603,7 +25642,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p634",
+   "id": "p635",
    "firstSeen": "2026-10-23"
   },
   {
@@ -25642,7 +25681,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p635",
+   "id": "p636",
    "firstSeen": "2026-10-23"
   },
   {
@@ -25683,7 +25722,7 @@
    "schoolZh": "牛津大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p636",
+   "id": "p637",
    "firstSeen": "2026-10-23"
   },
   {
@@ -25724,7 +25763,7 @@
    "schoolZh": "剑桥大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p637",
+   "id": "p638",
    "firstSeen": "2026-10-23"
   },
   {
@@ -25765,7 +25804,7 @@
    "schoolZh": "剑桥大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p638",
+   "id": "p639",
    "firstSeen": "2026-10-23"
   },
   {
@@ -25808,7 +25847,7 @@
    "schoolZh": "帝国理工学院",
    "schoolAbbr": "Imperial",
    "lastCycle": false,
-   "id": "p639",
+   "id": "p640",
    "firstSeen": "2026-10-23"
   },
   {
@@ -25851,7 +25890,7 @@
    "schoolZh": "伦敦大学学院·SWC 神经中心",
    "schoolAbbr": "UCL",
    "lastCycle": false,
-   "id": "p640",
+   "id": "p641",
    "firstSeen": "2026-10-23"
   },
   {
@@ -25894,7 +25933,7 @@
    "schoolZh": "爱丁堡大学（EASTBIO）",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p641",
+   "id": "p642",
    "firstSeen": "2026-10-23"
   },
   {
@@ -25935,7 +25974,7 @@
    "schoolZh": "伦敦国王学院",
    "schoolAbbr": "KCL",
    "lastCycle": false,
-   "id": "p642",
+   "id": "p643",
    "firstSeen": "2026-10-23"
   },
   {
@@ -25978,7 +26017,7 @@
    "schoolZh": "弗朗西斯·克里克研究所",
    "schoolAbbr": "Crick",
    "lastCycle": false,
-   "id": "p643",
+   "id": "p644",
    "firstSeen": "2026-10-23"
   },
   {
@@ -26019,7 +26058,7 @@
    "schoolZh": "威康桑格研究所",
    "schoolAbbr": "Sanger",
    "lastCycle": false,
-   "id": "p644",
+   "id": "p645",
    "firstSeen": "2026-10-23"
   },
   {
@@ -26060,7 +26099,7 @@
    "schoolZh": "曼彻斯特大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p645",
+   "id": "p646",
    "firstSeen": "2026-10-23"
   },
   {
@@ -26101,7 +26140,7 @@
    "schoolZh": "谢菲尔德大学（约克郡 DTP）",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p646",
+   "id": "p647",
    "firstSeen": "2026-10-23"
   },
   {
@@ -26142,7 +26181,7 @@
    "schoolZh": "冷泉港实验室",
    "schoolAbbr": "CSHL",
    "lastCycle": false,
-   "id": "p647",
+   "id": "p648",
    "firstSeen": "2026-10-23"
   },
   {
@@ -26183,7 +26222,7 @@
    "schoolZh": "洛克菲勒大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p648",
+   "id": "p649",
    "firstSeen": "2026-10-23"
   },
   {
@@ -26224,7 +26263,7 @@
    "schoolZh": "麻省理工学院",
    "schoolAbbr": "MIT",
    "lastCycle": false,
-   "id": "p649",
+   "id": "p650",
    "firstSeen": "2026-10-23"
   },
   {
@@ -26265,7 +26304,7 @@
    "schoolZh": "哈佛大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p650",
+   "id": "p651",
    "firstSeen": "2026-10-23"
   },
   {
@@ -26306,7 +26345,7 @@
    "schoolZh": "斯坦福大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p651",
+   "id": "p652",
    "firstSeen": "2026-10-23"
   },
   {
@@ -26347,7 +26386,7 @@
    "schoolZh": "斯坦福大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p652",
+   "id": "p653",
    "firstSeen": "2026-10-23"
   },
   {
@@ -26388,7 +26427,7 @@
    "schoolZh": "加州大学旧金山分校",
    "schoolAbbr": "UCSF",
    "lastCycle": false,
-   "id": "p653",
+   "id": "p654",
    "firstSeen": "2026-10-23"
   },
   {
@@ -26431,7 +26470,7 @@
    "schoolZh": "加州大学伯克利分校",
    "schoolAbbr": "Berkeley",
    "lastCycle": false,
-   "id": "p654",
+   "id": "p655",
    "firstSeen": "2026-10-23"
   },
   {
@@ -26472,7 +26511,7 @@
    "schoolZh": "加州理工学院",
    "schoolAbbr": "Caltech",
    "lastCycle": false,
-   "id": "p655",
+   "id": "p656",
    "firstSeen": "2026-10-23"
   },
   {
@@ -26513,7 +26552,7 @@
    "schoolZh": "约翰斯·霍普金斯大学",
    "schoolAbbr": "JHU",
    "lastCycle": false,
-   "id": "p656",
+   "id": "p657",
    "firstSeen": "2026-10-23"
   },
   {
@@ -26554,7 +26593,7 @@
    "schoolZh": "耶鲁大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p657",
+   "id": "p658",
    "firstSeen": "2026-10-23"
   },
   {
@@ -26595,7 +26634,7 @@
    "schoolZh": "普林斯顿大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p658",
+   "id": "p659",
    "firstSeen": "2026-10-23"
   },
   {
@@ -26636,7 +26675,7 @@
    "schoolZh": "斯克里普斯研究所",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p659",
+   "id": "p660",
    "firstSeen": "2026-10-23"
   },
   {
@@ -26679,7 +26718,7 @@
    "schoolZh": "圣路易斯华盛顿大学",
    "schoolAbbr": "WashU",
    "lastCycle": false,
-   "id": "p660",
+   "id": "p661",
    "firstSeen": "2026-10-23"
   },
   {
@@ -26720,7 +26759,7 @@
    "schoolZh": "密歇根大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p661",
+   "id": "p662",
    "firstSeen": "2026-10-23"
   },
   {
@@ -26761,7 +26800,7 @@
    "schoolZh": "杜克大学",
    "schoolAbbr": "",
    "lastCycle": false,
-   "id": "p662",
+   "id": "p663",
    "firstSeen": "2026-10-23"
   },
   {
@@ -26806,7 +26845,7 @@
    "field": "生物医学",
    "hub": "北大",
    "lastCycle": false,
-   "id": "p663",
+   "id": "p664",
    "firstSeen": "2026-11-23"
   },
   {
@@ -26848,7 +26887,7 @@
    "field": "计科软工",
    "hub": null,
    "lastCycle": false,
-   "id": "p664",
+   "id": "p665",
    "firstSeen": "2026-11-23"
   },
   {
@@ -26892,7 +26931,7 @@
    "field": "电子信息",
    "hub": null,
    "lastCycle": false,
-   "id": "p665",
+   "id": "p666",
    "firstSeen": "2026-11-23"
   },
   {
@@ -26934,7 +26973,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p666",
+   "id": "p667",
    "firstSeen": "2026-11-23"
   },
   {
@@ -26975,7 +27014,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p667",
+   "id": "p668",
    "firstSeen": "2026-11-23"
   },
   {
@@ -27018,7 +27057,7 @@
    "field": "其他交叉",
    "hub": "南科大",
    "lastCycle": false,
-   "id": "p668",
+   "id": "p669",
    "firstSeen": "2026-11-23"
   },
   {
@@ -27069,7 +27108,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p669",
+   "id": "p670",
    "firstSeen": "2026-11-23"
   },
   {
@@ -27116,7 +27155,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p670",
+   "id": "p671",
    "firstSeen": "2026-10-21"
   },
   {
@@ -27163,7 +27202,7 @@
    "field": "计科软工",
    "hub": null,
    "lastCycle": false,
-   "id": "p671",
+   "id": "p672",
    "firstSeen": "2026-10-21"
   },
   {
@@ -27205,7 +27244,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p672",
+   "id": "p673",
    "firstSeen": "2026-11-23"
   },
   {
@@ -27252,7 +27291,7 @@
    "field": "电子信息",
    "hub": null,
    "lastCycle": false,
-   "id": "p673",
+   "id": "p674",
    "firstSeen": "2026-11-23"
   },
   {
@@ -27300,7 +27339,7 @@
    "field": "化学材料",
    "hub": "同济",
    "lastCycle": false,
-   "id": "p674",
+   "id": "p675",
    "firstSeen": "2026-10-23"
   },
   {
@@ -27347,7 +27386,7 @@
    "field": "化学材料",
    "hub": "南大",
    "lastCycle": false,
-   "id": "p675",
+   "id": "p676",
    "firstSeen": "2026-10-23"
   },
   {
@@ -27395,7 +27434,7 @@
    "field": "电子信息",
    "hub": null,
    "lastCycle": false,
-   "id": "p676",
+   "id": "p677",
    "firstSeen": "2026-10-21"
   },
   {
@@ -27442,7 +27481,7 @@
    "field": "计科软工",
    "hub": null,
    "lastCycle": false,
-   "id": "p677",
+   "id": "p678",
    "firstSeen": "2026-10-21"
   },
   {
@@ -27488,7 +27527,7 @@
    "field": "其他交叉",
    "hub": null,
    "lastCycle": false,
-   "id": "p678",
+   "id": "p679",
    "firstSeen": "2026-10-21"
   },
   {
@@ -27533,7 +27572,7 @@
    "field": "化学材料",
    "hub": null,
    "lastCycle": false,
-   "id": "p679",
+   "id": "p680",
    "firstSeen": "2026-10-21"
   },
   {
@@ -27582,7 +27621,7 @@
    "field": "电子信息",
    "hub": "浙大",
    "lastCycle": false,
-   "id": "p680",
+   "id": "p681",
    "firstSeen": "2026-10-21"
   },
   {
@@ -27631,7 +27670,7 @@
    "hub": null,
    "lastCycle": false,
    "srcTitle": "港中大（深圳）数据科学学院2027年度秋季招生（数据科学/计算机科学/计算生物与医学信息学/流行病学和生物统计学哲学硕士-博士）",
-   "id": "p681",
+   "id": "p682",
    "firstSeen": "2026-10-20"
   },
   {
@@ -27678,7 +27717,7 @@
    "hub": null,
    "lastCycle": false,
    "srcTitle": "港中大（深圳）收费标准：研究型硕士/博士2027年及之后入学学费上调至16.2万元/学年",
-   "id": "p682",
+   "id": "p683",
    "firstSeen": "2026-10-20"
   },
   {
@@ -27727,7 +27766,7 @@
    "hub": null,
    "lastCycle": false,
    "srcTitle": "北京大学2027年博士研究生招生简章（校本部）",
-   "id": "p683",
+   "id": "p684",
    "firstSeen": "2026-10-20"
   },
   {
@@ -27772,7 +27811,7 @@
    "hub": null,
    "lastCycle": false,
    "srcTitle": "北京大学2027年\"申请-考核制\"博士研究生网上报名公告",
-   "id": "p684",
+   "id": "p685",
    "firstSeen": "2026-10-20"
   },
   {
@@ -27821,7 +27860,7 @@
    "hub": null,
    "lastCycle": false,
    "srcTitle": "北京大学医学部2027年博士研究生招生简章",
-   "id": "p685",
+   "id": "p686",
    "firstSeen": "2026-10-20"
   },
   {
@@ -27871,7 +27910,7 @@
    "field": "计科软工",
    "hub": null,
    "lastCycle": false,
-   "id": "p688",
+   "id": "p689",
    "firstSeen": "2026-11-23"
   },
   {
@@ -27919,7 +27958,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p689",
+   "id": "p690",
    "firstSeen": "2026-11-23"
   },
   {
@@ -27967,7 +28006,7 @@
    "field": "其他交叉",
    "hub": null,
    "lastCycle": false,
-   "id": "p690",
+   "id": "p691",
    "firstSeen": "2026-11-23"
   },
   {
@@ -28010,7 +28049,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p691",
+   "id": "p692",
    "firstSeen": "2026-10-21"
   },
   {
@@ -28052,7 +28091,7 @@
    "hub": null,
    "lastCycle": false,
    "srcTitle": "微电子研究所2027年春季入学博士招生网上报名公告",
-   "id": "p692",
+   "id": "p693",
    "firstSeen": "2026-10-20"
   },
   {
@@ -28099,7 +28138,7 @@
    "hub": null,
    "lastCycle": false,
    "srcTitle": "微电子研究所2027年招收攻读硕士学位研究生章程",
-   "id": "p693",
+   "id": "p694",
    "firstSeen": "2026-10-20"
   },
   {
@@ -28150,7 +28189,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p694",
+   "id": "p695",
    "firstSeen": "2026-10-23"
   },
   {
@@ -28199,7 +28238,7 @@
    "field": "生物医学",
    "hub": "厦大",
    "lastCycle": false,
-   "id": "p695",
+   "id": "p696",
    "firstSeen": "2026-10-23"
   },
   {
@@ -28245,7 +28284,7 @@
    "field": "电子信息",
    "hub": null,
    "lastCycle": false,
-   "id": "p696",
+   "id": "p697",
    "firstSeen": "2026-10-21"
   },
   {
@@ -28291,7 +28330,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p697",
+   "id": "p698",
    "firstSeen": "2026-10-21"
   },
   {
@@ -28336,7 +28375,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p698",
+   "id": "p699",
    "firstSeen": "2026-10-21"
   },
   {
@@ -28384,7 +28423,7 @@
    "field": "计科软工",
    "hub": null,
    "lastCycle": false,
-   "id": "p699",
+   "id": "p700",
    "firstSeen": "2026-10-21"
   },
   {
@@ -28432,7 +28471,7 @@
    "field": "其他交叉",
    "hub": null,
    "lastCycle": false,
-   "id": "p700",
+   "id": "p701",
    "firstSeen": "2026-11-23"
   },
   {
@@ -28478,7 +28517,7 @@
    "hub": "国科大",
    "lastCycle": false,
    "srcTitle": "中国科学院大学人工智能学院2027年硕士研究生招生章程",
-   "id": "p701",
+   "id": "p702",
    "firstSeen": "2026-10-20"
   },
   {
@@ -28525,7 +28564,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p702",
+   "id": "p703",
    "firstSeen": "2026-10-21"
   },
   {
@@ -28567,7 +28606,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p703",
+   "id": "p704",
    "firstSeen": "2026-10-21"
   },
   {
@@ -28614,7 +28653,7 @@
    "hub": null,
    "lastCycle": false,
    "srcTitle": "中国科学院大学2027年博士研究生招生章程",
-   "id": "p704",
+   "id": "p705",
    "firstSeen": "2026-10-20"
   },
   {
@@ -28658,7 +28697,7 @@
    "hub": null,
    "lastCycle": false,
    "srcTitle": "中国科学院大学2027年春季入学博士招生网上报名公告",
-   "id": "p705",
+   "id": "p706",
    "firstSeen": "2026-10-20"
   },
   {
@@ -28701,7 +28740,7 @@
    "field": "其他交叉",
    "hub": null,
    "lastCycle": false,
-   "id": "p706",
+   "id": "p707",
    "firstSeen": "2026-11-23"
   },
   {
@@ -28744,7 +28783,7 @@
    "field": "电子信息",
    "hub": null,
    "lastCycle": false,
-   "id": "p707",
+   "id": "p708",
    "firstSeen": "2026-11-23"
   },
   {
@@ -28793,7 +28832,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p708",
+   "id": "p709",
    "firstSeen": "2026-11-23"
   },
   {
@@ -28841,7 +28880,7 @@
    "hub": null,
    "lastCycle": false,
    "srcTitle": "2027年浙江大学博士研究生招生简章发布",
-   "id": "p709",
+   "id": "p710",
    "firstSeen": "2026-10-20"
   },
   {
@@ -28884,7 +28923,7 @@
    "hub": null,
    "lastCycle": false,
    "srcTitle": "西湖大学2027年各学院学科招生简章",
-   "id": "p710",
+   "id": "p711",
    "firstSeen": "2026-10-20"
   },
   {
@@ -28935,7 +28974,7 @@
    "field": "其他交叉",
    "hub": null,
    "lastCycle": false,
-   "id": "p711",
+   "id": "p712",
    "firstSeen": "2026-10-23"
   },
   {
@@ -28981,7 +29020,7 @@
    "field": "化学材料",
    "hub": "上交",
    "lastCycle": false,
-   "id": "p712",
+   "id": "p713",
    "firstSeen": "2026-10-21"
   },
   {
@@ -29027,7 +29066,7 @@
    "field": "其他交叉",
    "hub": null,
    "lastCycle": false,
-   "id": "p713",
+   "id": "p714",
    "firstSeen": "2026-10-21"
   },
   {
@@ -29074,7 +29113,7 @@
    "field": "化学材料",
    "hub": null,
    "lastCycle": false,
-   "id": "p714",
+   "id": "p715",
    "firstSeen": "2026-10-21"
   },
   {
@@ -29122,7 +29161,7 @@
    "field": "数学物理",
    "hub": "西湖大学",
    "lastCycle": false,
-   "id": "p715",
+   "id": "p716",
    "firstSeen": "2026-10-21"
   },
   {
@@ -29170,7 +29209,7 @@
    "field": "数学物理",
    "hub": null,
    "lastCycle": false,
-   "id": "p716",
+   "id": "p717",
    "firstSeen": "2026-10-21"
   },
   {
@@ -29220,7 +29259,7 @@
    "field": "化学材料",
    "hub": null,
    "lastCycle": false,
-   "id": "p717",
+   "id": "p718",
    "firstSeen": "2026-10-21"
   },
   {
@@ -29268,7 +29307,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p718",
+   "id": "p719",
    "firstSeen": "2026-10-21"
   },
   {
@@ -29317,7 +29356,7 @@
    "field": "数学物理",
    "hub": null,
    "lastCycle": false,
-   "id": "p719",
+   "id": "p720",
    "firstSeen": "2026-10-21"
   },
   {
@@ -29360,7 +29399,7 @@
    "field": "其他交叉",
    "hub": null,
    "lastCycle": false,
-   "id": "p720",
+   "id": "p721",
    "firstSeen": "2026-10-21"
   },
   {
@@ -29408,7 +29447,7 @@
    "field": "生物医学",
    "hub": "天大",
    "lastCycle": false,
-   "id": "p721",
+   "id": "p722",
    "firstSeen": "2026-10-23"
   },
   {
@@ -29450,7 +29489,7 @@
    "hub": "上交",
    "lastCycle": false,
    "srcTitle": "上海交通大学2027年专业学位硕士研究生联培基地招生简章",
-   "id": "p722",
+   "id": "p723",
    "firstSeen": "2026-10-20"
   },
   {
@@ -29494,7 +29533,7 @@
    "hub": null,
    "lastCycle": false,
    "srcTitle": "上海科技大学2027年硕士研究生招生公告（统考名额汇总）",
-   "id": "p723",
+   "id": "p724",
    "firstSeen": "2026-10-20"
   },
   {
@@ -29543,7 +29582,7 @@
    "hub": null,
    "lastCycle": false,
    "srcTitle": "浙江大学海洋学院2027年博士生招生简章",
-   "id": "p724",
+   "id": "p725",
    "firstSeen": "2026-10-20"
   },
   {
@@ -29587,7 +29626,7 @@
    "field": "其他交叉",
    "hub": null,
    "lastCycle": false,
-   "id": "p725",
+   "id": "p726",
    "firstSeen": "2026-10-21"
   },
   {
@@ -29633,7 +29672,7 @@
    "field": "其他交叉",
    "hub": null,
    "lastCycle": false,
-   "id": "p726",
+   "id": "p727",
    "firstSeen": "2026-10-21"
   },
   {
@@ -29684,7 +29723,7 @@
    "hub": "深圳医学科学院",
    "lastCycle": false,
    "srcTitle": "西湖大学-深圳医学科学院联合培养博士研究生项目2027年招生简章",
-   "id": "p727",
+   "id": "p728",
    "firstSeen": "2026-10-20"
   },
   {
@@ -29728,7 +29767,7 @@
    "field": "化学材料",
    "hub": null,
    "lastCycle": false,
-   "id": "p728",
+   "id": "p729",
    "firstSeen": "2026-10-21"
   },
   {
@@ -29771,7 +29810,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p729",
+   "id": "p730",
    "firstSeen": "2026-10-21"
   },
   {
@@ -29818,7 +29857,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p730",
+   "id": "p731",
    "firstSeen": "2026-10-21"
   },
   {
@@ -29865,7 +29904,7 @@
    "field": "其他交叉",
    "hub": null,
    "lastCycle": false,
-   "id": "p731",
+   "id": "p732",
    "firstSeen": "2026-10-20"
   },
   {
@@ -29913,7 +29952,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p732",
+   "id": "p733",
    "firstSeen": "2026-10-21"
   },
   {
@@ -29959,7 +29998,7 @@
    "field": "电子信息",
    "hub": null,
    "lastCycle": false,
-   "id": "p733",
+   "id": "p734",
    "firstSeen": "2026-10-21"
   },
   {
@@ -30005,7 +30044,7 @@
    "field": "其他交叉",
    "hub": null,
    "lastCycle": false,
-   "id": "p734",
+   "id": "p735",
    "firstSeen": "2026-10-21"
   },
   {
@@ -30051,7 +30090,7 @@
    "field": "电子信息",
    "hub": null,
    "lastCycle": false,
-   "id": "p735",
+   "id": "p736",
    "firstSeen": "2026-10-21"
   },
   {
@@ -30100,7 +30139,7 @@
    "hub": null,
    "lastCycle": false,
    "srcTitle": "浙江大学2027年博士研究生招生简章",
-   "id": "p736",
+   "id": "p737",
    "firstSeen": "2026-10-20"
   },
   {
@@ -30143,7 +30182,7 @@
    "field": "数学物理",
    "hub": null,
    "lastCycle": false,
-   "id": "p737",
+   "id": "p738",
    "firstSeen": "2026-10-21"
   },
   {
@@ -30186,7 +30225,7 @@
    "field": "计科软工",
    "hub": "深圳理工大学",
    "lastCycle": false,
-   "id": "p738",
+   "id": "p739",
    "firstSeen": "2026-10-21"
   },
   {
@@ -30230,7 +30269,7 @@
    "field": "生物医学",
    "hub": "深圳理工大学",
    "lastCycle": false,
-   "id": "p739",
+   "id": "p740",
    "firstSeen": "2026-10-21"
   },
   {
@@ -30273,7 +30312,7 @@
    "field": "其他交叉",
    "hub": "深圳理工大学",
    "lastCycle": false,
-   "id": "p740",
+   "id": "p741",
    "firstSeen": "2026-10-21"
   },
   {
@@ -30319,7 +30358,7 @@
    "field": "化学材料",
    "hub": null,
    "lastCycle": false,
-   "id": "p741",
+   "id": "p742",
    "firstSeen": "2026-10-21"
   },
   {
@@ -30366,7 +30405,7 @@
    "field": "其他交叉",
    "hub": null,
    "lastCycle": false,
-   "id": "p742",
+   "id": "p743",
    "firstSeen": "2026-10-21"
   },
   {
@@ -30412,7 +30451,7 @@
    "field": "化学材料",
    "hub": "宁波材料所",
    "lastCycle": false,
-   "id": "p743",
+   "id": "p744",
    "firstSeen": "2026-10-21"
   },
   {
@@ -30460,7 +30499,7 @@
    "field": "化学材料",
    "hub": "东南",
    "lastCycle": false,
-   "id": "p744",
+   "id": "p745",
    "firstSeen": "2026-10-23"
   },
   {
@@ -30508,7 +30547,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p745",
+   "id": "p746",
    "firstSeen": "2026-10-21"
   },
   {
@@ -30559,7 +30598,7 @@
    "hub": null,
    "lastCycle": false,
    "srcTitle": "西湖大学2027年博士研究生招生简章",
-   "id": "p747",
+   "id": "p748",
    "firstSeen": "2026-10-20"
   },
   {
@@ -30605,7 +30644,7 @@
    "hub": "西湖大学",
    "lastCycle": false,
    "srcTitle": "西湖大学-复旦大学联培项目（数学一级学科，2027年招生）",
-   "id": "p748",
+   "id": "p749",
    "firstSeen": "2026-10-20"
   },
   {
@@ -30654,7 +30693,7 @@
    "hub": null,
    "lastCycle": false,
    "srcTitle": "西湖大学工学院2027年博士研究生招生简章",
-   "id": "p749",
+   "id": "p750",
    "firstSeen": "2026-10-20"
   },
   {
@@ -30698,7 +30737,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p750",
+   "id": "p751",
    "firstSeen": "2026-10-21"
   },
   {
@@ -30744,7 +30783,7 @@
    "field": "计科软工",
    "hub": null,
    "lastCycle": false,
-   "id": "p751",
+   "id": "p752",
    "firstSeen": "2026-10-21"
   },
   {
@@ -30790,7 +30829,7 @@
    "field": "其他交叉",
    "hub": null,
    "lastCycle": false,
-   "id": "p752",
+   "id": "p753",
    "firstSeen": "2026-10-21"
   },
   {
@@ -30836,7 +30875,7 @@
    "field": "其他交叉",
    "hub": null,
    "lastCycle": false,
-   "id": "p753",
+   "id": "p754",
    "firstSeen": "2026-10-21"
   },
   {
@@ -30881,7 +30920,7 @@
    "hub": null,
    "lastCycle": false,
    "srcTitle": "中国科学院物理研究所2027年硕士研究生招生简章",
-   "id": "p754",
+   "id": "p755",
    "firstSeen": "2026-10-20"
   },
   {
@@ -30925,7 +30964,7 @@
    "hub": null,
    "lastCycle": false,
    "srcTitle": "复旦大学2027年少数民族高层次骨干人才计划硕士研究生招生说明",
-   "id": "p755",
+   "id": "p756",
    "firstSeen": "2026-10-20"
   },
   {
@@ -30964,7 +31003,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p756",
+   "id": "p757",
    "firstSeen": "2026-10-23"
   },
   {
@@ -31014,7 +31053,7 @@
    "field": "生物医学",
    "hub": "大湾区大学",
    "lastCycle": false,
-   "id": "p757",
+   "id": "p758",
    "firstSeen": "2026-10-21"
   },
   {
@@ -31059,7 +31098,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p758",
+   "id": "p759",
    "firstSeen": "2026-11-23"
   },
   {
@@ -31111,7 +31150,7 @@
    "field": "生物医学",
    "hub": "深圳理工大学",
    "lastCycle": false,
-   "id": "p759",
+   "id": "p760",
    "firstSeen": "2026-10-21"
   },
   {
@@ -31154,7 +31193,7 @@
    "field": "其他交叉",
    "hub": null,
    "lastCycle": false,
-   "id": "p760",
+   "id": "p761",
    "firstSeen": "2026-11-23"
   },
   {
@@ -31198,7 +31237,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p761",
+   "id": "p762",
    "firstSeen": "2026-11-23"
   },
   {
@@ -31241,7 +31280,7 @@
    "field": "化学材料",
    "hub": null,
    "lastCycle": false,
-   "id": "p762",
+   "id": "p763",
    "firstSeen": "2026-10-21"
   },
   {
@@ -31288,7 +31327,7 @@
    "field": "生物医学",
    "hub": "同济",
    "lastCycle": false,
-   "id": "p763",
+   "id": "p764",
    "firstSeen": "2026-10-23"
   },
   {
@@ -31331,7 +31370,7 @@
    "field": "计科软工",
    "hub": null,
    "lastCycle": false,
-   "id": "p764",
+   "id": "p765",
    "firstSeen": "2026-10-21"
   },
   {
@@ -31374,7 +31413,7 @@
    "hub": null,
    "lastCycle": false,
    "srcTitle": "上海交通大学2027年硕士研究生招生章程",
-   "id": "p765",
+   "id": "p766",
    "firstSeen": "2026-10-20"
   },
   {
@@ -31420,7 +31459,7 @@
    "field": "数学物理",
    "hub": null,
    "lastCycle": false,
-   "id": "p766",
+   "id": "p767",
    "firstSeen": "2026-10-21"
   },
   {
@@ -31468,7 +31507,7 @@
    "field": "其他交叉",
    "hub": "上科大",
    "lastCycle": false,
-   "id": "p767",
+   "id": "p768",
    "firstSeen": "2026-10-21"
   },
   {
@@ -31515,7 +31554,7 @@
    "hub": "上科大",
    "lastCycle": false,
    "srcTitle": "上海科技大学信息科学与技术学院2027年硕士研究生招生专业目录（统招，含招生人数）",
-   "id": "p768",
+   "id": "p769",
    "firstSeen": "2026-10-20"
   },
   {
@@ -31562,7 +31601,7 @@
    "hub": "大湾区大学",
    "lastCycle": false,
    "srcTitle": "大湾区大学与南方科技大学2027年联合培养硕士研究生招生通知",
-   "id": "p769",
+   "id": "p770",
    "firstSeen": "2026-10-20"
   },
   {
@@ -31606,7 +31645,7 @@
    "hub": null,
    "lastCycle": false,
    "srcTitle": "北京大学2027年硕士研究生招生简章（校本部）",
-   "id": "p770",
+   "id": "p771",
    "firstSeen": "2026-10-20"
   },
   {
@@ -31650,7 +31689,7 @@
    "hub": null,
    "lastCycle": false,
    "srcTitle": "北京大学医学部2027年硕士研究生招生简章",
-   "id": "p771",
+   "id": "p772",
    "firstSeen": "2026-10-20"
   },
   {
@@ -31695,7 +31734,7 @@
    "hub": null,
    "lastCycle": false,
    "srcTitle": "清华大学2027年硕士研究生招生简章",
-   "id": "p772",
+   "id": "p773",
    "firstSeen": "2026-10-20"
   },
   {
@@ -31740,7 +31779,7 @@
    "hub": null,
    "lastCycle": false,
    "srcTitle": "中国科学院大学2027年硕士研究生招生章程",
-   "id": "p773",
+   "id": "p774",
    "firstSeen": "2026-10-20"
   },
   {
@@ -31783,7 +31822,7 @@
    "hub": null,
    "lastCycle": false,
    "srcTitle": "中国科学技术大学2027年硕士研究生招生章程",
-   "id": "p774",
+   "id": "p775",
    "firstSeen": "2026-10-20"
   },
   {
@@ -31830,7 +31869,7 @@
    "hub": null,
    "lastCycle": false,
    "srcTitle": "南方科技大学2027年硕士研究生招生简章",
-   "id": "p775",
+   "id": "p776",
    "firstSeen": "2026-10-20"
   },
   {
@@ -31873,7 +31912,7 @@
    "field": "生物医学",
    "hub": "天津科大",
    "lastCycle": false,
-   "id": "p776",
+   "id": "p777",
    "firstSeen": "2026-10-21"
   },
   {
@@ -31916,7 +31955,7 @@
    "hub": null,
    "lastCycle": false,
    "srcTitle": "复旦大学2027年招收攻读硕士学位研究生章程",
-   "id": "p777",
+   "id": "p778",
    "firstSeen": "2026-10-20"
   },
   {
@@ -31961,7 +32000,7 @@
    "field": "其他交叉",
    "hub": null,
    "lastCycle": false,
-   "id": "p778",
+   "id": "p779",
    "firstSeen": "2026-10-22"
   },
   {
@@ -32002,7 +32041,7 @@
    "field": "其他交叉",
    "hub": null,
    "lastCycle": false,
-   "id": "p779",
+   "id": "p780",
    "firstSeen": "2026-10-23"
   },
   {
@@ -32043,7 +32082,7 @@
    "field": "其他交叉",
    "hub": null,
    "lastCycle": false,
-   "id": "p780",
+   "id": "p781",
    "firstSeen": "2026-10-23"
   },
   {
@@ -32084,7 +32123,7 @@
    "field": "其他交叉",
    "hub": null,
    "lastCycle": false,
-   "id": "p781",
+   "id": "p782",
    "firstSeen": "2026-10-23"
   },
   {
@@ -32123,7 +32162,7 @@
    "field": "化学材料",
    "hub": null,
    "lastCycle": false,
-   "id": "p782",
+   "id": "p783",
    "firstSeen": "2026-10-23"
   },
   {
@@ -32171,7 +32210,7 @@
    "hub": "上科大",
    "lastCycle": false,
    "srcTitle": "上海科技大学物质科学与技术学院2027年硕士研究生招生公告（研招统考）",
-   "id": "p783",
+   "id": "p784",
    "firstSeen": "2026-10-20"
   },
   {
@@ -32218,7 +32257,7 @@
    "field": "化学材料",
    "hub": null,
    "lastCycle": false,
-   "id": "p784",
+   "id": "p785",
    "firstSeen": "2026-10-21"
   },
   {
@@ -32263,7 +32302,7 @@
    "field": "其他交叉",
    "hub": null,
    "lastCycle": false,
-   "id": "p785",
+   "id": "p786",
    "firstSeen": "2026-10-22"
   },
   {
@@ -32312,7 +32351,7 @@
    "hub": "上科大",
    "lastCycle": false,
    "srcTitle": "上海科技大学生命科学与技术学院2027年硕士研究生招生公告（统考预计名额）",
-   "id": "p786",
+   "id": "p787",
    "firstSeen": "2026-10-20"
   },
   {
@@ -32356,7 +32395,7 @@
    "field": "其他交叉",
    "hub": "大湾区大学",
    "lastCycle": false,
-   "id": "p787",
+   "id": "p788",
    "firstSeen": "2026-11-23"
   },
   {
@@ -32400,7 +32439,7 @@
    "field": "电子信息",
    "hub": null,
    "lastCycle": false,
-   "id": "p788",
+   "id": "p789",
    "firstSeen": "2026-10-21"
   },
   {
@@ -32447,7 +32486,7 @@
    "hub": null,
    "lastCycle": false,
    "srcTitle": "清华大学2027年丘成桐数学科学领军人才培养计划招生简章",
-   "id": "p789",
+   "id": "p790",
    "firstSeen": "2026-10-20"
   },
   {
@@ -32494,7 +32533,7 @@
    "field": "生物医学",
    "hub": "张江实验室",
    "lastCycle": false,
-   "id": "p790",
+   "id": "p791",
    "firstSeen": "2026-11-23"
   },
   {
@@ -32543,7 +32582,7 @@
    "field": "化学材料",
    "hub": "深圳理工大学",
    "lastCycle": false,
-   "id": "p791",
+   "id": "p792",
    "firstSeen": "2026-10-21"
   },
   {
@@ -32587,7 +32626,7 @@
    "field": "其他交叉",
    "hub": null,
    "lastCycle": false,
-   "id": "p792",
+   "id": "p793",
    "firstSeen": "2026-10-21"
   },
   {
@@ -32632,7 +32671,7 @@
    "hub": null,
    "lastCycle": false,
    "srcTitle": "复旦大学部分院系2027年推免生招生报名通知（持续更新中）",
-   "id": "p793",
+   "id": "p794",
    "firstSeen": "2026-10-20"
   },
   {
@@ -32681,7 +32720,7 @@
    "field": "化学材料",
    "hub": "苏州实验室",
    "lastCycle": false,
-   "id": "p794",
+   "id": "p795",
    "firstSeen": "2026-10-22"
   },
   {
@@ -32726,7 +32765,7 @@
    "field": "其他交叉",
    "hub": null,
    "lastCycle": false,
-   "id": "p795",
+   "id": "p796",
    "firstSeen": "2026-10-22"
   },
   {
@@ -32771,7 +32810,7 @@
    "hub": null,
    "lastCycle": false,
    "srcTitle": "中国科学院大学2027年接收推荐免试生章程",
-   "id": "p796",
+   "id": "p797",
    "firstSeen": "2026-10-20"
   },
   {
@@ -32816,7 +32855,7 @@
    "field": "其他交叉",
    "hub": null,
    "lastCycle": false,
-   "id": "p797",
+   "id": "p798",
    "firstSeen": "2026-10-21"
   },
   {
@@ -32862,7 +32901,7 @@
    "field": "化学材料",
    "hub": null,
    "lastCycle": false,
-   "id": "p798",
+   "id": "p799",
    "firstSeen": "2026-10-21"
   },
   {
@@ -32910,7 +32949,7 @@
    "hub": null,
    "lastCycle": false,
    "srcTitle": "浦江国际学院2027年招收推免生综合考核实施细则",
-   "id": "p799",
+   "id": "p800",
    "firstSeen": "2026-10-20"
   },
   {
@@ -32952,7 +32991,7 @@
    "hub": null,
    "lastCycle": false,
    "srcTitle": "2027年推荐免试直硕、直博生履行正式报名手续的通知及资格复审要求",
-   "id": "p800",
+   "id": "p801",
    "firstSeen": "2026-10-20"
   },
   {
@@ -32994,7 +33033,7 @@
    "field": "其他交叉",
    "hub": null,
    "lastCycle": false,
-   "id": "p801",
+   "id": "p802",
    "firstSeen": "2026-11-23"
   },
   {
@@ -33044,7 +33083,7 @@
    "field": "数学物理",
    "hub": "鹏城实验室",
    "lastCycle": false,
-   "id": "p802",
+   "id": "p803",
    "firstSeen": "2026-10-22"
   },
   {
@@ -33091,7 +33130,7 @@
    "hub": "大湾区大学",
    "lastCycle": false,
    "srcTitle": "大湾区大学-哈尔滨工业大学2027年联合培养博士研究生秋季招生简介",
-   "id": "p803",
+   "id": "p804",
    "firstSeen": "2026-10-20"
   },
   {
@@ -33140,7 +33179,7 @@
    "hub": null,
    "lastCycle": false,
    "srcTitle": "南方科技大学2027级博士研究生招生优秀生源快响计划报考通知",
-   "id": "p804",
+   "id": "p805",
    "firstSeen": "2026-10-20"
   },
   {
@@ -33187,7 +33226,7 @@
    "field": "其他交叉",
    "hub": null,
    "lastCycle": false,
-   "id": "p805",
+   "id": "p806",
    "firstSeen": "2026-10-23"
   },
   {
@@ -33234,7 +33273,7 @@
    "hub": null,
    "lastCycle": false,
    "srcTitle": "南方科技大学接收2027级推荐免试研究生（含直博生）招生简章",
-   "id": "p806",
+   "id": "p807",
    "firstSeen": "2026-10-20"
   },
   {
@@ -33277,7 +33316,7 @@
    "hub": null,
    "lastCycle": false,
    "srcTitle": "中国科学院自动化研究所2026年推免面试（工程硕博士培养改革专项）通知",
-   "id": "p807",
+   "id": "p808",
    "firstSeen": "2026-10-20"
   },
   {
@@ -33327,7 +33366,7 @@
    "field": "其他交叉",
    "hub": "苏州实验室",
    "lastCycle": false,
-   "id": "p808",
+   "id": "p809",
    "firstSeen": "2026-10-23"
   },
   {
@@ -33372,7 +33411,7 @@
    "hub": "北大",
    "lastCycle": false,
    "srcTitle": "前沿交叉学科研究院-北京脑科学与类脑研究所联合培养项目2027年推荐免试研究生复试安排及复试名单",
-   "id": "p809",
+   "id": "p810",
    "firstSeen": "2026-10-20"
   },
   {
@@ -33421,7 +33460,7 @@
    "hub": null,
    "lastCycle": false,
    "srcTitle": "2027年浙江大学爱丁堡大学联合学院招收推免生综合考核实施细则",
-   "id": "p810",
+   "id": "p811",
    "firstSeen": "2026-10-20"
   },
   {
@@ -33469,7 +33508,7 @@
    "field": "电子信息",
    "hub": null,
    "lastCycle": false,
-   "id": "p811",
+   "id": "p812",
    "firstSeen": "2026-10-21"
   },
   {
@@ -33517,7 +33556,7 @@
    "field": "其他交叉",
    "hub": null,
    "lastCycle": false,
-   "id": "p812",
+   "id": "p813",
    "firstSeen": "2026-10-21"
   },
   {
@@ -33562,7 +33601,7 @@
    "hub": null,
    "lastCycle": false,
    "srcTitle": "2027年浙江大学伊利诺伊大学厄巴纳香槟校区联合学院招收推免生综合考核实施细则",
-   "id": "p813",
+   "id": "p814",
    "firstSeen": "2026-10-20"
   },
   {
@@ -33606,7 +33645,7 @@
    "hub": "中科大",
    "lastCycle": false,
    "srcTitle": "中国科学技术大学天文与空间科学学院（紫金山天文台）关于接收2027年推免生（含直博生）的通知",
-   "id": "p814",
+   "id": "p815",
    "firstSeen": "2026-10-20"
   },
   {
@@ -33655,7 +33694,7 @@
    "field": "电子信息",
    "hub": "川大",
    "lastCycle": false,
-   "id": "p815",
+   "id": "p816",
    "firstSeen": "2026-10-23"
   },
   {
@@ -33702,7 +33741,7 @@
    "field": "其他交叉",
    "hub": "军事科学院",
    "lastCycle": false,
-   "id": "p816",
+   "id": "p817",
    "firstSeen": "2026-10-22"
   },
   {
@@ -33746,7 +33785,7 @@
    "field": "计科软工",
    "hub": "川大",
    "lastCycle": false,
-   "id": "p817",
+   "id": "p818",
    "firstSeen": "2026-11-23"
   },
   {
@@ -33791,7 +33830,7 @@
    "field": "电子信息",
    "hub": null,
    "lastCycle": false,
-   "id": "p818",
+   "id": "p819",
    "firstSeen": "2026-10-21"
   },
   {
@@ -33838,7 +33877,7 @@
    "field": "其他交叉",
    "hub": "中国星网",
    "lastCycle": false,
-   "id": "p819",
+   "id": "p820",
    "firstSeen": "2026-10-23"
   },
   {
@@ -33885,7 +33924,7 @@
    "field": "其他交叉",
    "hub": null,
    "lastCycle": false,
-   "id": "p820",
+   "id": "p821",
    "firstSeen": "2026-10-21"
   },
   {
@@ -33933,7 +33972,7 @@
    "field": "计科软工",
    "hub": "启元实验室",
    "lastCycle": false,
-   "id": "p821",
+   "id": "p822",
    "firstSeen": "2026-10-22"
   },
   {
@@ -33984,7 +34023,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p823",
+   "id": "p824",
    "firstSeen": "2026-11-23"
   },
   {
@@ -34033,7 +34072,7 @@
    "field": "化学材料",
    "hub": null,
    "lastCycle": false,
-   "id": "p824",
+   "id": "p825",
    "firstSeen": "2026-10-21"
   },
   {
@@ -34083,7 +34122,7 @@
    "field": "其他交叉",
    "hub": null,
    "lastCycle": false,
-   "id": "p825",
+   "id": "p826",
    "firstSeen": "2026-10-21"
   },
   {
@@ -34131,7 +34170,7 @@
    "field": "电子信息",
    "hub": null,
    "lastCycle": false,
-   "id": "p826",
+   "id": "p827",
    "firstSeen": "2026-10-21"
   },
   {
@@ -34178,7 +34217,7 @@
    "hub": null,
    "lastCycle": false,
    "srcTitle": "上海交通大学人工智能学院2027年接收推荐免试研究生（含直博生）预推免办法",
-   "id": "p827",
+   "id": "p828",
    "firstSeen": "2026-10-20"
   },
   {
@@ -34226,7 +34265,7 @@
    "field": "其他交叉",
    "hub": "崖州湾实验室",
    "lastCycle": false,
-   "id": "p828",
+   "id": "p829",
    "firstSeen": "2026-10-22"
   },
   {
@@ -34273,7 +34312,7 @@
    "field": "化学材料",
    "hub": "辽宁材料实验室",
    "lastCycle": false,
-   "id": "p829",
+   "id": "p830",
    "firstSeen": "2026-10-22"
   },
   {
@@ -34324,7 +34363,7 @@
    "field": "计科软工",
    "hub": "北京通研院",
    "lastCycle": false,
-   "id": "p830",
+   "id": "p831",
    "firstSeen": "2026-11-23"
   },
   {
@@ -34367,7 +34406,7 @@
    "field": "计科软工",
    "hub": null,
    "lastCycle": false,
-   "id": "p831",
+   "id": "p832",
    "firstSeen": "2026-11-23"
   },
   {
@@ -34411,7 +34450,7 @@
    "hub": "国科大",
    "lastCycle": false,
    "srcTitle": "中国科学院大学2027年工程硕博士培养改革专项全日制工程硕博士研究生招生简章",
-   "id": "p832",
+   "id": "p833",
    "firstSeen": "2026-10-20"
   },
   {
@@ -34459,7 +34498,7 @@
    "hub": "北京通研院",
    "lastCycle": false,
    "srcTitle": "中国科学技术大学-北京通用人工智能研究院2027年联合培养博士生专项计划（“通计划”）招生简章",
-   "id": "p833",
+   "id": "p834",
    "firstSeen": "2026-10-20"
   },
   {
@@ -34501,7 +34540,7 @@
    "field": "化学材料",
    "hub": null,
    "lastCycle": false,
-   "id": "p834",
+   "id": "p835",
    "firstSeen": "2026-10-21"
   },
   {
@@ -34549,7 +34588,7 @@
    "field": "其他交叉",
    "hub": null,
    "lastCycle": false,
-   "id": "p835",
+   "id": "p836",
    "firstSeen": "2026-10-23"
   },
   {
@@ -34597,7 +34636,7 @@
    "field": "其他交叉",
    "hub": "东方理工",
    "lastCycle": false,
-   "id": "p836",
+   "id": "p837",
    "firstSeen": "2026-10-23"
   },
   {
@@ -34646,7 +34685,7 @@
    "field": "计科软工",
    "hub": null,
    "lastCycle": false,
-   "id": "p837",
+   "id": "p838",
    "firstSeen": "2026-10-21"
   },
   {
@@ -34694,7 +34733,7 @@
    "field": "电子信息",
    "hub": null,
    "lastCycle": false,
-   "id": "p838",
+   "id": "p839",
    "firstSeen": "2026-10-21"
   },
   {
@@ -34744,7 +34783,7 @@
    "field": "其他交叉",
    "hub": null,
    "lastCycle": false,
-   "id": "p839",
+   "id": "p840",
    "firstSeen": "2026-10-21"
   },
   {
@@ -34792,7 +34831,7 @@
    "hub": null,
    "lastCycle": false,
    "srcTitle": "上海交通大学2027年\"医工交叉平台\"博士研究生招生简章",
-   "id": "p840",
+   "id": "p841",
    "firstSeen": "2026-10-20"
   },
   {
@@ -34837,7 +34876,7 @@
    "field": "化学材料",
    "hub": null,
    "lastCycle": false,
-   "id": "p841",
+   "id": "p842",
    "firstSeen": "2026-10-21"
   },
   {
@@ -34879,7 +34918,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p842",
+   "id": "p843",
    "firstSeen": "2026-10-21"
   },
   {
@@ -34929,7 +34968,7 @@
    "field": "化学材料",
    "hub": "深圳理工大学",
    "lastCycle": false,
-   "id": "p843",
+   "id": "p844",
    "firstSeen": "2026-10-21"
   },
   {
@@ -34979,7 +35018,7 @@
    "field": "生物医学",
    "hub": "深圳理工大学",
    "lastCycle": false,
-   "id": "p844",
+   "id": "p845",
    "firstSeen": "2026-10-21"
   },
   {
@@ -35023,7 +35062,7 @@
    "hub": null,
    "lastCycle": false,
    "srcTitle": "中国科学技术大学2027年推免生接收办法",
-   "id": "p845",
+   "id": "p846",
    "firstSeen": "2026-10-20"
   },
   {
@@ -35069,7 +35108,7 @@
    "hub": null,
    "lastCycle": false,
    "srcTitle": "北京大学碳中和研究院关于接收2027年推荐免试（直博）研究生的说明",
-   "id": "p846",
+   "id": "p847",
    "firstSeen": "2026-10-20"
   },
   {
@@ -35117,7 +35156,7 @@
    "field": "计科软工",
    "hub": "深圳理工大学",
    "lastCycle": false,
-   "id": "p848",
+   "id": "p849",
    "firstSeen": "2026-10-21"
   },
   {
@@ -35165,7 +35204,7 @@
    "field": "其他交叉",
    "hub": null,
    "lastCycle": false,
-   "id": "p849",
+   "id": "p850",
    "firstSeen": "2026-10-23"
   },
   {
@@ -35212,7 +35251,7 @@
    "field": "电子信息",
    "hub": null,
    "lastCycle": false,
-   "id": "p850",
+   "id": "p851",
    "firstSeen": "2026-10-21"
   },
   {
@@ -35254,7 +35293,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p851",
+   "id": "p852",
    "firstSeen": "2026-10-21"
   },
   {
@@ -35297,7 +35336,7 @@
    "field": "数学物理",
    "hub": null,
    "lastCycle": false,
-   "id": "p852",
+   "id": "p853",
    "firstSeen": "2026-10-21"
   },
   {
@@ -35345,7 +35384,7 @@
    "hub": "复旦",
    "lastCycle": false,
    "srcTitle": "复旦大学2027年工程硕博士培养改革专项推免研究生招生报名通知",
-   "id": "p853",
+   "id": "p854",
    "firstSeen": "2026-10-20"
   },
   {
@@ -35391,7 +35430,7 @@
    "field": "其他交叉",
    "hub": "张江实验室",
    "lastCycle": false,
-   "id": "p854",
+   "id": "p855",
    "firstSeen": "2026-10-21"
   },
   {
@@ -35438,7 +35477,7 @@
    "hub": "东方理工",
    "lastCycle": false,
    "srcTitle": "中国科学技术大学与宁波东方理工大学2027年招收免试直博生预推免办法",
-   "id": "p855",
+   "id": "p856",
    "firstSeen": "2026-10-20"
   },
   {
@@ -35485,7 +35524,7 @@
    "hub": null,
    "lastCycle": false,
    "srcTitle": "未来技术学院2027年工程硕博士培养改革专项博士研究生招生说明",
-   "id": "p856",
+   "id": "p857",
    "firstSeen": "2026-10-20"
   },
   {
@@ -35532,7 +35571,7 @@
    "hub": null,
    "lastCycle": false,
    "srcTitle": "中国科学院大学密码学院2027年接收推荐免试研究生报名通知（第二轮）",
-   "id": "p857",
+   "id": "p858",
    "firstSeen": "2026-10-20"
   },
   {
@@ -35575,7 +35614,7 @@
    "field": "其他交叉",
    "hub": null,
    "lastCycle": false,
-   "id": "p858",
+   "id": "p859",
    "firstSeen": "2026-10-21"
   },
   {
@@ -35620,7 +35659,7 @@
    "field": "其他交叉",
    "hub": null,
    "lastCycle": false,
-   "id": "p859",
+   "id": "p860",
    "firstSeen": "2026-10-21"
   },
   {
@@ -35665,7 +35704,7 @@
    "hub": "中科大",
    "lastCycle": false,
    "srcTitle": "2027年中国科大应用化学与工程学院（长春应化所）接收推荐免试研究生预报名通知",
-   "id": "p860",
+   "id": "p861",
    "firstSeen": "2026-10-20"
   },
   {
@@ -35710,7 +35749,7 @@
    "hub": null,
    "lastCycle": false,
    "srcTitle": "清华大学交叉信息研究院2027年博士研究生招生综合考核及录取办法",
-   "id": "p861",
+   "id": "p862",
    "firstSeen": "2026-10-20"
   },
   {
@@ -35760,7 +35799,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p862",
+   "id": "p863",
    "firstSeen": "2026-10-21"
   },
   {
@@ -35807,7 +35846,7 @@
    "field": "其他交叉",
    "hub": "甬江实验室",
    "lastCycle": false,
-   "id": "p864",
+   "id": "p865",
    "firstSeen": "2026-10-21"
   },
   {
@@ -35850,7 +35889,7 @@
    "hub": null,
    "lastCycle": false,
    "srcTitle": "中国科学院自动化研究所2027年接收推荐免试生简章及第二批推免面试通知",
-   "id": "p865",
+   "id": "p866",
    "firstSeen": "2026-10-20"
   },
   {
@@ -35894,7 +35933,7 @@
    "hub": null,
    "lastCycle": false,
    "srcTitle": "类脑智能科学与技术研究院2027级推免研究生复试入围名单",
-   "id": "p866",
+   "id": "p867",
    "firstSeen": "2026-10-20"
   },
   {
@@ -35943,7 +35982,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p867",
+   "id": "p868",
    "firstSeen": "2026-10-21"
   },
   {
@@ -35993,7 +36032,7 @@
    "hub": "深圳医学科学院",
    "lastCycle": false,
    "srcTitle": "西湖大学-深圳医学科学院联合培养博士研究生项目2027年普博生招生第一批报名通知（9月批）",
-   "id": "p868",
+   "id": "p869",
    "firstSeen": "2026-10-20"
   },
   {
@@ -36039,7 +36078,7 @@
    "hub": null,
    "lastCycle": false,
    "srcTitle": "西湖大学2027年博士研究生招生普博生第一批报名通知（9月批）",
-   "id": "p869",
+   "id": "p870",
    "firstSeen": "2026-10-20"
   },
   {
@@ -36082,7 +36121,7 @@
    "field": "计科软工",
    "hub": null,
    "lastCycle": false,
-   "id": "p870",
+   "id": "p871",
    "firstSeen": "2026-10-21"
   },
   {
@@ -36125,7 +36164,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p871",
+   "id": "p872",
    "firstSeen": "2026-10-21"
   },
   {
@@ -36168,7 +36207,7 @@
    "hub": null,
    "lastCycle": false,
    "srcTitle": "中国科学院上海药物研究所2027年接收推荐免试研究生公告",
-   "id": "p872",
+   "id": "p873",
    "firstSeen": "2026-10-20"
   },
   {
@@ -36216,7 +36255,7 @@
    "hub": null,
    "lastCycle": false,
    "srcTitle": "ZJUI学院关于2027年接收外校推荐免试研究生工作安排的通知",
-   "id": "p873",
+   "id": "p874",
    "firstSeen": "2026-10-20"
   },
   {
@@ -36262,7 +36301,7 @@
    "hub": null,
    "lastCycle": false,
    "srcTitle": "浙江大学关于2027年接收外校推荐免试研究生工作安排的通知",
-   "id": "p874",
+   "id": "p875",
    "firstSeen": "2026-10-20"
   },
   {
@@ -36306,7 +36345,7 @@
    "field": "生物医学",
    "hub": "广州实验室",
    "lastCycle": false,
-   "id": "p875",
+   "id": "p876",
    "firstSeen": "2026-10-20"
   },
   {
@@ -36355,7 +36394,7 @@
    "hub": null,
    "lastCycle": false,
    "srcTitle": "西湖大学2027年接收推荐免试直博生报名通知",
-   "id": "p876",
+   "id": "p877",
    "firstSeen": "2026-10-20"
   },
   {
@@ -36402,7 +36441,7 @@
    "field": "数学物理",
    "hub": null,
    "lastCycle": false,
-   "id": "p877",
+   "id": "p878",
    "firstSeen": "2026-10-21"
   },
   {
@@ -36444,7 +36483,7 @@
    "field": "其他交叉",
    "hub": null,
    "lastCycle": false,
-   "id": "p878",
+   "id": "p879",
    "firstSeen": "2026-10-21"
   },
   {
@@ -36492,7 +36531,7 @@
    "hub": null,
    "lastCycle": false,
    "srcTitle": "复旦大学生物技术学院2027级直博生招生报名通知",
-   "id": "p879",
+   "id": "p880",
    "firstSeen": "2026-10-20"
   },
   {
@@ -36538,7 +36577,7 @@
    "field": "数学物理",
    "hub": null,
    "lastCycle": false,
-   "id": "p880",
+   "id": "p881",
    "firstSeen": "2026-10-21"
   },
   {
@@ -36586,7 +36625,7 @@
    "field": "电子信息",
    "hub": "中关村实验室",
    "lastCycle": false,
-   "id": "p882",
+   "id": "p883",
    "firstSeen": "2026-10-22"
   },
   {
@@ -36636,7 +36675,7 @@
    "field": "计科软工",
    "hub": "北京通研院",
    "lastCycle": false,
-   "id": "p883",
+   "id": "p884",
    "firstSeen": "2026-10-22"
   },
   {
@@ -36682,7 +36721,7 @@
    "field": "生物医学",
    "hub": "东方理工",
    "lastCycle": false,
-   "id": "p884",
+   "id": "p885",
    "firstSeen": "2026-11-23"
   },
   {
@@ -36725,7 +36764,7 @@
    "field": "化学材料",
    "hub": null,
    "lastCycle": false,
-   "id": "p886",
+   "id": "p887",
    "firstSeen": "2026-11-23"
   },
   {
@@ -36769,7 +36808,7 @@
    "field": "生物医学",
    "hub": "复旦",
    "lastCycle": false,
-   "id": "p887",
+   "id": "p888",
    "firstSeen": "2026-10-21"
   },
   {
@@ -36816,7 +36855,7 @@
    "hub": null,
    "lastCycle": false,
    "srcTitle": "上海交通大学2027级\"明志荣誉博士生\"招生简章",
-   "id": "p888",
+   "id": "p889",
    "firstSeen": "2026-10-20"
   },
   {
@@ -36861,7 +36900,7 @@
    "field": "数学物理",
    "hub": "南科大",
    "lastCycle": false,
-   "id": "p889",
+   "id": "p890",
    "firstSeen": "2026-10-21"
   },
   {
@@ -36909,7 +36948,7 @@
    "hub": "NIBS/北生所",
    "lastCycle": false,
    "srcTitle": "北京生命科学研究所2027年推荐免试研究生招生简章（含清华大学的TIMBR项目）",
-   "id": "p890",
+   "id": "p891",
    "firstSeen": "2026-10-20"
   },
   {
@@ -36951,7 +36990,7 @@
    "field": "数学物理",
    "hub": null,
    "lastCycle": false,
-   "id": "p891",
+   "id": "p892",
    "firstSeen": "2026-10-21"
   },
   {
@@ -37001,7 +37040,7 @@
    "hub": "深圳医学科学院",
    "lastCycle": false,
    "srcTitle": "清华大学-深圳医学科学院联合培养专项计划2027年博士研究生招生简章",
-   "id": "p892",
+   "id": "p893",
    "firstSeen": "2026-10-20"
   },
   {
@@ -37044,7 +37083,7 @@
    "hub": null,
    "lastCycle": false,
    "srcTitle": "清华大学2027年工程硕博士培养改革专项（全日制）招生简章",
-   "id": "p894",
+   "id": "p895",
    "firstSeen": "2026-10-20"
   },
   {
@@ -37087,7 +37126,7 @@
    "field": "其他交叉",
    "hub": null,
    "lastCycle": false,
-   "id": "p895",
+   "id": "p896",
    "firstSeen": "2026-10-21"
   },
   {
@@ -37133,7 +37172,7 @@
    "hub": null,
    "lastCycle": false,
    "srcTitle": "人工智能学院2027年接收推荐免试硕士（含直博生）招生公告",
-   "id": "p896",
+   "id": "p897",
    "firstSeen": "2026-10-20"
   },
   {
@@ -37181,7 +37220,7 @@
    "hub": "南科大",
    "lastCycle": false,
    "srcTitle": "清华大学深圳国际研究生院-南方科技大学联合培养专项计划2027年博士研究生招生简章",
-   "id": "p897",
+   "id": "p898",
    "firstSeen": "2026-10-20"
   },
   {
@@ -37230,7 +37269,7 @@
    "hub": "鹏城实验室",
    "lastCycle": false,
    "srcTitle": "清华大学深圳国际研究生院-鹏城国家实验室联合培养专项计划2027年博士研究生招生简章",
-   "id": "p898",
+   "id": "p899",
    "firstSeen": "2026-10-20"
   },
   {
@@ -37278,7 +37317,7 @@
    "hub": "NIBS/北生所",
    "lastCycle": false,
    "srcTitle": "清华大学生命科学学院PTN项目2027年博士研究生招生简章",
-   "id": "p899",
+   "id": "p900",
    "firstSeen": "2026-10-20"
   },
   {
@@ -37322,7 +37361,7 @@
    "field": "其他交叉",
    "hub": null,
    "lastCycle": false,
-   "id": "p900",
+   "id": "p901",
    "firstSeen": "2026-10-21"
   },
   {
@@ -37368,7 +37407,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p901",
+   "id": "p902",
    "firstSeen": "2026-10-21"
   },
   {
@@ -37414,7 +37453,7 @@
    "field": "化学材料",
    "hub": "清华",
    "lastCycle": false,
-   "id": "p902",
+   "id": "p903",
    "firstSeen": "2026-10-21"
   },
   {
@@ -37461,7 +37500,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p903",
+   "id": "p904",
    "firstSeen": "2026-10-21"
   },
   {
@@ -37507,7 +37546,7 @@
    "field": "生物医学",
    "hub": "CLS/PTN项目",
    "lastCycle": false,
-   "id": "p904",
+   "id": "p905",
    "firstSeen": "2026-10-21"
   },
   {
@@ -37548,7 +37587,7 @@
    "field": "计科软工",
    "hub": null,
    "lastCycle": false,
-   "id": "p905",
+   "id": "p906",
    "firstSeen": "2026-10-21"
   },
   {
@@ -37589,7 +37628,7 @@
    "field": "其他交叉",
    "hub": null,
    "lastCycle": false,
-   "id": "p906",
+   "id": "p907",
    "firstSeen": "2026-10-21"
   },
   {
@@ -37630,7 +37669,7 @@
    "field": "其他交叉",
    "hub": null,
    "lastCycle": false,
-   "id": "p907",
+   "id": "p908",
    "firstSeen": "2026-10-21"
   },
   {
@@ -37675,7 +37714,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p908",
+   "id": "p909",
    "firstSeen": "2026-10-21"
   },
   {
@@ -37720,7 +37759,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p909",
+   "id": "p910",
    "firstSeen": "2026-10-21"
   },
   {
@@ -37762,7 +37801,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p910",
+   "id": "p911",
    "firstSeen": "2026-10-21"
   },
   {
@@ -37807,7 +37846,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p911",
+   "id": "p912",
    "firstSeen": "2026-10-21"
   },
   {
@@ -37849,7 +37888,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p912",
+   "id": "p913",
    "firstSeen": "2026-10-21"
   },
   {
@@ -37891,7 +37930,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p913",
+   "id": "p914",
    "firstSeen": "2026-10-21"
   },
   {
@@ -37932,7 +37971,7 @@
    "field": "其他交叉",
    "hub": null,
    "lastCycle": false,
-   "id": "p914",
+   "id": "p915",
    "firstSeen": "2026-10-21"
   },
   {
@@ -37973,7 +38012,7 @@
    "field": "计科软工",
    "hub": null,
    "lastCycle": false,
-   "id": "p915",
+   "id": "p916",
    "firstSeen": "2026-10-21"
   },
   {
@@ -38014,7 +38053,7 @@
    "field": "其他交叉",
    "hub": null,
    "lastCycle": false,
-   "id": "p916",
+   "id": "p917",
    "firstSeen": "2026-10-21"
   },
   {
@@ -38057,7 +38096,7 @@
    "field": "化学材料",
    "hub": null,
    "lastCycle": false,
-   "id": "p917",
+   "id": "p918",
    "firstSeen": "2026-10-21"
   },
   {
@@ -38098,7 +38137,7 @@
    "field": "计科软工",
    "hub": null,
    "lastCycle": false,
-   "id": "p918",
+   "id": "p919",
    "firstSeen": "2026-10-21"
   },
   {
@@ -38139,7 +38178,7 @@
    "field": "其他交叉",
    "hub": null,
    "lastCycle": false,
-   "id": "p919",
+   "id": "p920",
    "firstSeen": "2026-10-21"
   },
   {
@@ -38181,7 +38220,7 @@
    "field": "数学物理",
    "hub": null,
    "lastCycle": false,
-   "id": "p920",
+   "id": "p921",
    "firstSeen": "2026-10-21"
   },
   {
@@ -38228,7 +38267,7 @@
    "hub": null,
    "lastCycle": false,
    "srcTitle": "清华大学2027年博士研究生招生简章",
-   "id": "p921",
+   "id": "p922",
    "firstSeen": "2026-10-20"
   },
   {
@@ -38275,7 +38314,7 @@
    "hub": null,
    "lastCycle": false,
    "srcTitle": "清华大学人工智能学院2027年博士研究生招生简章",
-   "id": "p922",
+   "id": "p923",
    "firstSeen": "2026-10-20"
   },
   {
@@ -38321,7 +38360,7 @@
    "hub": "鹏城实验室",
    "lastCycle": false,
    "srcTitle": "鹏城国家实验室联合培养专项计划2027年博士研究生招生简章",
-   "id": "p923",
+   "id": "p924",
    "firstSeen": "2026-10-20"
   },
   {
@@ -38366,7 +38405,7 @@
    "field": "生物医学",
    "hub": "NIBS/北生所",
    "lastCycle": false,
-   "id": "p924",
+   "id": "p925",
    "firstSeen": "2026-11-23"
   },
   {
@@ -38407,7 +38446,7 @@
    "field": "其他交叉",
    "hub": null,
    "lastCycle": false,
-   "id": "p925",
+   "id": "p926",
    "firstSeen": "2026-11-23"
   },
   {
@@ -38451,7 +38490,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p926",
+   "id": "p927",
    "firstSeen": "2026-11-23"
   },
   {
@@ -38493,7 +38532,7 @@
    "hub": null,
    "lastCycle": false,
    "srcTitle": "智能学院2027年招生指南",
-   "id": "p933",
+   "id": "p934",
    "firstSeen": "2026-10-20"
   },
   {
@@ -38544,7 +38583,7 @@
    "field": "数学物理",
    "hub": null,
    "lastCycle": false,
-   "id": "p935",
+   "id": "p936",
    "firstSeen": "2026-10-23"
   },
   {
@@ -38593,7 +38632,7 @@
    "field": "生物医学",
    "hub": "上科大",
    "lastCycle": false,
-   "id": "p936",
+   "id": "p937",
    "firstSeen": "2026-10-23"
   },
   {
@@ -38641,7 +38680,7 @@
    "field": "生物医学",
    "hub": "川大",
    "lastCycle": false,
-   "id": "p939",
+   "id": "p940",
    "firstSeen": "2026-10-23"
   },
   {
@@ -38688,7 +38727,7 @@
    "field": "生物医学",
    "hub": "广州实验室",
    "lastCycle": false,
-   "id": "p940",
+   "id": "p941",
    "firstSeen": "2026-10-21"
   },
   {
@@ -38734,7 +38773,7 @@
    "field": "其他交叉",
    "hub": "天大",
    "lastCycle": false,
-   "id": "p943",
+   "id": "p944",
    "firstSeen": "2026-10-23"
   },
   {
@@ -38780,7 +38819,7 @@
    "field": "电子信息",
    "hub": "中关村实验室",
    "lastCycle": false,
-   "id": "p944",
+   "id": "p945",
    "firstSeen": "2026-10-20"
   },
   {
@@ -38829,7 +38868,7 @@
    "field": "数学物理",
    "hub": "上科大",
    "lastCycle": false,
-   "id": "p945",
+   "id": "p946",
    "firstSeen": "2026-10-23"
   },
   {
@@ -38879,7 +38918,7 @@
    "field": "电子信息",
    "hub": "中国商飞",
    "lastCycle": false,
-   "id": "p946",
+   "id": "p947",
    "firstSeen": "2026-10-22"
   },
   {
@@ -38928,7 +38967,7 @@
    "hub": null,
    "lastCycle": false,
    "srcTitle": "上海科技大学2026年全日制生物学专项普招博士招生简章",
-   "id": "p947",
+   "id": "p948",
    "firstSeen": "2026-10-20"
   },
   {
@@ -38971,7 +39010,7 @@
    "hub": "杭州医学所",
    "lastCycle": false,
    "srcTitle": "中国科学院杭州医学研究所—天津大学2026年联合培养博士研究生专项计划招生简章",
-   "id": "p950",
+   "id": "p951",
    "firstSeen": "2026-10-20"
   },
   {
@@ -39012,7 +39051,7 @@
    "field": "计科软工",
    "hub": null,
    "lastCycle": false,
-   "id": "p954",
+   "id": "p955",
    "firstSeen": "2026-10-20"
   },
   {
@@ -39058,7 +39097,7 @@
    "hub": "上海AI实验室",
    "lastCycle": false,
    "srcTitle": "上海人工智能实验室2027级联培博士招生启动",
-   "id": "p956",
+   "id": "p957",
    "firstSeen": "2026-10-20"
   },
   {
@@ -39104,7 +39143,7 @@
    "hub": "大湾区大学",
    "lastCycle": false,
    "srcTitle": "中山大学2026年联合培养博士研究生专项计划春季网上报名通知（大湾区大学联培专项）",
-   "id": "p958",
+   "id": "p959",
    "firstSeen": "2026-10-20"
   },
   {
@@ -39155,7 +39194,7 @@
    "field": "化学材料",
    "hub": "苏州实验室",
    "lastCycle": false,
-   "id": "p961",
+   "id": "p962",
    "firstSeen": "2026-10-23"
   },
   {
@@ -39201,7 +39240,7 @@
    "hub": "崂山实验室",
    "lastCycle": false,
    "srcTitle": "崂山国家实验室—中国科学技术大学2026年联合培养科研经费博士研究生专项计划招生简章",
-   "id": "p963",
+   "id": "p964",
    "firstSeen": "2026-10-20"
   },
   {
@@ -39245,7 +39284,7 @@
    "hub": "崂山实验室",
    "lastCycle": false,
    "srcTitle": "崂山国家实验室—中国科学技术大学2026年联合培养科研经费博士研究生专项计划招生简章",
-   "id": "p964",
+   "id": "p965",
    "firstSeen": "2026-10-20"
   },
   {
@@ -39295,7 +39334,7 @@
    "field": "生物医学",
    "hub": "深圳理工大学",
    "lastCycle": false,
-   "id": "p965",
+   "id": "p966",
    "firstSeen": "2026-10-20"
   },
   {
@@ -39341,7 +39380,7 @@
    "field": "其他交叉",
    "hub": "崂山实验室",
    "lastCycle": false,
-   "id": "p966",
+   "id": "p967",
    "firstSeen": "2026-10-21"
   },
   {
@@ -39387,7 +39426,7 @@
    "hub": "乾元实验室",
    "lastCycle": false,
    "srcTitle": "电子科技大学-乾元国家实验室2026年联合培养博士生专项计划招生报名通知",
-   "id": "p969",
+   "id": "p970",
    "firstSeen": "2026-10-20"
   },
   {
@@ -39438,7 +39477,7 @@
    "field": "其他交叉",
    "hub": "苏州实验室",
    "lastCycle": false,
-   "id": "p971",
+   "id": "p972",
    "firstSeen": "2026-10-23"
   },
   {
@@ -39486,7 +39525,7 @@
    "field": "电子信息",
    "hub": "乾元实验室",
    "lastCycle": false,
-   "id": "p976",
+   "id": "p977",
    "firstSeen": "2026-10-22"
   },
   {
@@ -39534,7 +39573,7 @@
    "field": "计科软工",
    "hub": "广州实验室",
    "lastCycle": false,
-   "id": "p977",
+   "id": "p978",
    "firstSeen": "2026-10-21"
   },
   {
@@ -39582,7 +39621,7 @@
    "field": "其他交叉",
    "hub": "太行实验室",
    "lastCycle": false,
-   "id": "p978",
+   "id": "p979",
    "firstSeen": "2026-10-22"
   },
   {
@@ -39630,7 +39669,7 @@
    "field": "计科软工",
    "hub": "中国星网",
    "lastCycle": false,
-   "id": "p979",
+   "id": "p980",
    "firstSeen": "2026-10-22"
   },
   {
@@ -39671,7 +39710,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p980",
+   "id": "p981",
    "firstSeen": "2026-10-23"
   },
   {
@@ -39722,7 +39761,7 @@
    "field": "化学材料",
    "hub": "苏州实验室",
    "lastCycle": false,
-   "id": "p981",
+   "id": "p982",
    "firstSeen": "2026-10-21"
   },
   {
@@ -39763,7 +39802,7 @@
    "field": "其他交叉",
    "hub": null,
    "lastCycle": false,
-   "id": "p984",
+   "id": "p985",
    "firstSeen": "2026-10-23"
   },
   {
@@ -39802,7 +39841,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p986",
+   "id": "p987",
    "firstSeen": "2026-10-23"
   },
   {
@@ -39853,7 +39892,7 @@
    "field": "化学材料",
    "hub": "鹏城实验室",
    "lastCycle": false,
-   "id": "p987",
+   "id": "p988",
    "firstSeen": "2026-10-21"
   },
   {
@@ -39894,7 +39933,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p989",
+   "id": "p990",
    "firstSeen": "2026-10-23"
   },
   {
@@ -39935,7 +39974,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p990",
+   "id": "p991",
    "firstSeen": "2026-10-23"
   },
   {
@@ -39983,7 +40022,7 @@
    "field": "其他交叉",
    "hub": "东方理工",
    "lastCycle": true,
-   "id": "p992",
+   "id": "p993",
    "firstSeen": "2026-10-21"
   },
   {
@@ -40030,7 +40069,7 @@
    "field": "其他交叉",
    "hub": "昌平实验室",
    "lastCycle": true,
-   "id": "p994",
+   "id": "p995",
    "firstSeen": "2026-10-21"
   },
   {
@@ -40076,7 +40115,7 @@
    "field": "生物医学",
    "hub": "昌平实验室",
    "lastCycle": true,
-   "id": "p995",
+   "id": "p996",
    "firstSeen": "2026-10-21"
   },
   {
@@ -40123,7 +40162,7 @@
    "field": "生物医学",
    "hub": "昌平实验室",
    "lastCycle": true,
-   "id": "p996",
+   "id": "p997",
    "firstSeen": "2026-10-21"
   },
   {
@@ -40172,7 +40211,7 @@
    "field": "生物医学",
    "hub": "深圳理工大学",
    "lastCycle": true,
-   "id": "p997",
+   "id": "p998",
    "firstSeen": "2026-10-21"
   },
   {
@@ -40221,7 +40260,7 @@
    "hub": "CLS/PTN项目",
    "lastCycle": true,
    "srcTitle": "生命科学联合中心（北大方面）与PTN项目（北大方面）2026级博士研究生第二批联合招生简章",
-   "id": "p998",
+   "id": "p999",
    "firstSeen": "2026-10-20"
   },
   {
@@ -40267,7 +40306,7 @@
    "field": "计科软工",
    "hub": null,
    "lastCycle": true,
-   "id": "p1001",
+   "id": "p1002",
    "firstSeen": "2026-10-21"
   },
   {
@@ -40314,7 +40353,7 @@
    "field": "生物医学",
    "hub": "临港实验室",
    "lastCycle": true,
-   "id": "p1003",
+   "id": "p1004",
    "firstSeen": "2026-10-20"
   },
   {
@@ -40364,7 +40403,7 @@
    "field": "其他交叉",
    "hub": null,
    "lastCycle": false,
-   "id": "p1004",
+   "id": "p1005",
    "firstSeen": "2026-10-22"
   },
   {
@@ -40415,7 +40454,7 @@
    "field": "化学材料",
    "hub": "东南",
    "lastCycle": true,
-   "id": "p1005",
+   "id": "p1006",
    "firstSeen": "2026-10-23"
   },
   {
@@ -40457,7 +40496,7 @@
    "field": "数学物理",
    "hub": null,
    "lastCycle": true,
-   "id": "p1006",
+   "id": "p1007",
    "firstSeen": "2026-10-21"
   },
   {
@@ -40503,7 +40542,7 @@
    "field": "其他交叉",
    "hub": "崖州湾实验室",
    "lastCycle": true,
-   "id": "p1007",
+   "id": "p1008",
    "firstSeen": "2026-10-21"
   },
   {
@@ -40551,7 +40590,7 @@
    "hub": "钱塘实验室",
    "lastCycle": true,
    "srcTitle": "钱塘实验室-浙大联培博士（2026版）",
-   "id": "p1008",
+   "id": "p1009",
    "firstSeen": "2026-10-20"
   },
   {
@@ -40600,7 +40639,7 @@
    "field": "其他交叉",
    "hub": "东方理工",
    "lastCycle": true,
-   "id": "p1009",
+   "id": "p1010",
    "firstSeen": "2026-10-21"
   },
   {
@@ -40650,7 +40689,7 @@
    "field": "化学材料",
    "hub": "同济",
    "lastCycle": true,
-   "id": "p1010",
+   "id": "p1011",
    "firstSeen": "2026-10-23"
   },
   {
@@ -40701,7 +40740,7 @@
    "field": "化学材料",
    "hub": "厦大",
    "lastCycle": true,
-   "id": "p1011",
+   "id": "p1012",
    "firstSeen": "2026-10-23"
   },
   {
@@ -40749,7 +40788,7 @@
    "field": "计科软工",
    "hub": null,
    "lastCycle": false,
-   "id": "p1012",
+   "id": "p1013",
    "firstSeen": "2026-10-20"
   },
   {
@@ -40797,7 +40836,7 @@
    "field": "其他交叉",
    "hub": null,
    "lastCycle": false,
-   "id": "p1013",
+   "id": "p1014",
    "firstSeen": "2026-10-20"
   },
   {
@@ -40843,7 +40882,7 @@
    "hub": "南科大",
    "lastCycle": true,
    "srcTitle": "2026年同济大学-南方科技大学联合培养博士研究生招生通知",
-   "id": "p1014",
+   "id": "p1015",
    "firstSeen": "2026-10-20"
   },
   {
@@ -40890,7 +40929,7 @@
    "field": "生物医学",
    "hub": "广州实验室",
    "lastCycle": true,
-   "id": "p1015",
+   "id": "p1016",
    "firstSeen": "2026-10-21"
   },
   {
@@ -40936,7 +40975,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": true,
-   "id": "p1016",
+   "id": "p1017",
    "firstSeen": "2026-10-21"
   },
   {
@@ -40978,7 +41017,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": true,
-   "id": "p1017",
+   "id": "p1018",
    "firstSeen": "2026-11-23"
   },
   {
@@ -41021,7 +41060,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": true,
-   "id": "p1018",
+   "id": "p1019",
    "firstSeen": "2026-11-23"
   },
   {
@@ -41070,7 +41109,7 @@
    "field": "其他交叉",
    "hub": "苏州实验室",
    "lastCycle": true,
-   "id": "p1019",
+   "id": "p1020",
    "firstSeen": "2026-10-20"
   },
   {
@@ -41119,7 +41158,7 @@
    "field": "生物医学",
    "hub": "深圳理工大学",
    "lastCycle": true,
-   "id": "p1020",
+   "id": "p1021",
    "firstSeen": "2026-10-21"
   },
   {
@@ -41168,7 +41207,7 @@
    "field": "其他交叉",
    "hub": null,
    "lastCycle": false,
-   "id": "p1021",
+   "id": "p1022",
    "firstSeen": "2026-10-20"
   },
   {
@@ -41219,7 +41258,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": true,
-   "id": "p1022",
+   "id": "p1023",
    "firstSeen": "2026-10-23"
   },
   {
@@ -41267,7 +41306,7 @@
    "field": "生物医学",
    "hub": "深圳理工大学",
    "lastCycle": true,
-   "id": "p1023",
+   "id": "p1024",
    "firstSeen": "2026-10-21"
   },
   {
@@ -41314,7 +41353,7 @@
    "field": "电子信息",
    "hub": null,
    "lastCycle": true,
-   "id": "p1024",
+   "id": "p1025",
    "firstSeen": "2026-10-21"
   },
   {
@@ -41358,7 +41397,7 @@
    "field": "计科软工",
    "hub": null,
    "lastCycle": true,
-   "id": "p1025",
+   "id": "p1026",
    "firstSeen": "2026-11-23"
   },
   {
@@ -41402,7 +41441,7 @@
    "field": "其他交叉",
    "hub": null,
    "lastCycle": true,
-   "id": "p1026",
+   "id": "p1027",
    "firstSeen": "2026-11-23"
   },
   {
@@ -41449,7 +41488,7 @@
    "field": "其他交叉",
    "hub": null,
    "lastCycle": false,
-   "id": "p1027",
+   "id": "p1028",
    "firstSeen": "2026-10-20"
   },
   {
@@ -41499,7 +41538,7 @@
    "hub": null,
    "lastCycle": true,
    "srcTitle": "港中大（深圳）理工学院2026-27学年研究型硕士-博士项目开放申请",
-   "id": "p1028",
+   "id": "p1029",
    "firstSeen": "2026-10-20"
   },
   {
@@ -41546,7 +41585,7 @@
    "hub": null,
    "lastCycle": true,
    "srcTitle": "中国科学院脑科学与智能技术卓越创新中心2026年博士学位研究生招生章程",
-   "id": "p1029",
+   "id": "p1030",
    "firstSeen": "2026-10-20"
   },
   {
@@ -41594,7 +41633,7 @@
    "field": "其他交叉",
    "hub": "川大",
    "lastCycle": true,
-   "id": "p1030",
+   "id": "p1031",
    "firstSeen": "2026-10-23"
   },
   {
@@ -41641,7 +41680,7 @@
    "field": "化学材料",
    "hub": null,
    "lastCycle": false,
-   "id": "p1031",
+   "id": "p1032",
    "firstSeen": "2026-10-20"
   },
   {
@@ -41688,7 +41727,7 @@
    "field": "其他交叉",
    "hub": null,
    "lastCycle": true,
-   "id": "p1032",
+   "id": "p1033",
    "firstSeen": "2026-10-23"
   },
   {
@@ -41727,7 +41766,7 @@
    "field": "其他交叉",
    "hub": null,
    "lastCycle": false,
-   "id": "p1033",
+   "id": "p1034",
    "firstSeen": "2026-10-23"
   },
   {
@@ -41771,7 +41810,7 @@
    "hub": "清华",
    "lastCycle": true,
    "srcTitle": "清华大学深圳国际研究生院2026年招收内地博士研究生目录（十一月份）",
-   "id": "p1034",
+   "id": "p1035",
    "firstSeen": "2026-10-20"
   },
   {
@@ -41820,7 +41859,7 @@
    "field": "其他交叉",
    "hub": null,
    "lastCycle": false,
-   "id": "p1035",
+   "id": "p1036",
    "firstSeen": "2026-10-22"
   },
   {
@@ -41866,7 +41905,7 @@
    "field": "其他交叉",
    "hub": "广州实验室",
    "lastCycle": true,
-   "id": "p1036",
+   "id": "p1037",
    "firstSeen": "2026-10-20"
   },
   {
@@ -41914,7 +41953,7 @@
    "field": "其他交叉",
    "hub": null,
    "lastCycle": false,
-   "id": "p1037",
+   "id": "p1038",
    "firstSeen": "2026-10-20"
   },
   {
@@ -41964,7 +42003,7 @@
    "hub": "鹏城实验室",
    "lastCycle": true,
    "srcTitle": "鹏城实验室-中大联培博士（2026版）",
-   "id": "p1038",
+   "id": "p1039",
    "firstSeen": "2026-10-20"
   },
   {
@@ -42011,7 +42050,7 @@
    "field": "生物医学",
    "hub": "广州实验室",
    "lastCycle": true,
-   "id": "p1039",
+   "id": "p1040",
    "firstSeen": "2026-10-20"
   },
   {
@@ -42055,7 +42094,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": true,
-   "id": "p1040",
+   "id": "p1041",
    "firstSeen": "2026-10-21"
   },
   {
@@ -42096,7 +42135,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p1041",
+   "id": "p1042",
    "firstSeen": "2026-10-23"
   },
   {
@@ -42138,7 +42177,7 @@
    "field": "其他交叉",
    "hub": null,
    "lastCycle": true,
-   "id": "p1042",
+   "id": "p1043",
    "firstSeen": "2026-10-21"
   },
   {
@@ -42185,7 +42224,7 @@
    "field": "生物医学",
    "hub": "深圳理工大学",
    "lastCycle": true,
-   "id": "p1043",
+   "id": "p1044",
    "firstSeen": "2026-10-21"
   },
   {
@@ -42232,7 +42271,7 @@
    "field": "其他交叉",
    "hub": "鹏城实验室",
    "lastCycle": true,
-   "id": "p1044",
+   "id": "p1045",
    "firstSeen": "2026-10-21"
   },
   {
@@ -42275,7 +42314,7 @@
    "field": "电子信息",
    "hub": null,
    "lastCycle": true,
-   "id": "p1045",
+   "id": "p1046",
    "firstSeen": "2026-10-21"
   },
   {
@@ -42318,7 +42357,7 @@
    "field": "其他交叉",
    "hub": null,
    "lastCycle": true,
-   "id": "p1046",
+   "id": "p1047",
    "firstSeen": "2026-10-21"
   },
   {
@@ -42363,7 +42402,7 @@
    "field": "其他交叉",
    "hub": null,
    "lastCycle": true,
-   "id": "p1047",
+   "id": "p1048",
    "firstSeen": "2026-10-21"
   },
   {
@@ -42409,7 +42448,7 @@
    "hub": null,
    "lastCycle": true,
    "srcTitle": "北京大学集成电路学院2026年\"申请-考核制\"博士研究生招生说明",
-   "id": "p1048",
+   "id": "p1049",
    "firstSeen": "2026-10-20"
   },
   {
@@ -42452,7 +42491,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": true,
-   "id": "p1050",
+   "id": "p1051",
    "firstSeen": "2026-10-21"
   },
   {
@@ -42503,7 +42542,7 @@
    "field": "化学材料",
    "hub": "深圳理工大学",
    "lastCycle": true,
-   "id": "p1051",
+   "id": "p1052",
    "firstSeen": "2026-10-21"
   },
   {
@@ -42548,7 +42587,7 @@
    "field": "其他交叉",
    "hub": "瓯江实验室",
    "lastCycle": true,
-   "id": "p1052",
+   "id": "p1053",
    "firstSeen": "2026-10-21"
   },
   {
@@ -42595,7 +42634,7 @@
    "field": "生物医学",
    "hub": "瓯江实验室",
    "lastCycle": true,
-   "id": "p1053",
+   "id": "p1054",
    "firstSeen": "2026-10-20"
   },
   {
@@ -42644,7 +42683,7 @@
    "field": "其他交叉",
    "hub": null,
    "lastCycle": true,
-   "id": "p1054",
+   "id": "p1055",
    "firstSeen": "2026-10-23"
   },
   {
@@ -42692,7 +42731,7 @@
    "hub": "北京通研院",
    "lastCycle": true,
    "srcTitle": "中国科学技术大学—北京通用人工智能研究院2026年联合培养博士生专项计划（\"通计划\"）招生简章",
-   "id": "p1055",
+   "id": "p1056",
    "firstSeen": "2026-10-20"
   },
   {
@@ -42736,7 +42775,7 @@
    "hub": null,
    "lastCycle": true,
    "srcTitle": "清华大学深圳国际研究生院2026年接收优秀应届本科毕业生免试攻读研究生报名通知",
-   "id": "p1056",
+   "id": "p1057",
    "firstSeen": "2026-10-20"
   },
   {
@@ -42786,7 +42825,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p1058",
+   "id": "p1059",
    "firstSeen": "2026-10-22"
   },
   {
@@ -42828,7 +42867,7 @@
    "field": "其他交叉",
    "hub": null,
    "lastCycle": true,
-   "id": "p1059",
+   "id": "p1060",
    "firstSeen": "2026-10-21"
   },
   {
@@ -42871,7 +42910,7 @@
    "field": "生物医学",
    "hub": "崖州湾实验室",
    "lastCycle": true,
-   "id": "p1060",
+   "id": "p1061",
    "firstSeen": "2026-10-20"
   },
   {
@@ -42920,7 +42959,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p1061",
+   "id": "p1062",
    "firstSeen": "2026-10-20"
   },
   {
@@ -42966,7 +43005,7 @@
    "field": "生物医学",
    "hub": "复旦",
    "lastCycle": true,
-   "id": "p1062",
+   "id": "p1063",
    "firstSeen": "2026-10-23"
   },
   {
@@ -43007,7 +43046,7 @@
    "field": "其他交叉",
    "hub": null,
    "lastCycle": false,
-   "id": "p1063",
+   "id": "p1064",
    "firstSeen": "2026-10-23"
   },
   {
@@ -43055,7 +43094,7 @@
    "field": "生物医学",
    "hub": "深圳医学科学院",
    "lastCycle": true,
-   "id": "p1064",
+   "id": "p1065",
    "firstSeen": "2026-10-21"
   },
   {
@@ -43103,7 +43142,7 @@
    "field": "生物医学",
    "hub": "深圳医学科学院",
    "lastCycle": true,
-   "id": "p1065",
+   "id": "p1066",
    "firstSeen": "2026-10-21"
   },
   {
@@ -43153,7 +43192,7 @@
    "field": "其他交叉",
    "hub": null,
    "lastCycle": false,
-   "id": "p1066",
+   "id": "p1067",
    "firstSeen": "2026-10-22"
   },
   {
@@ -43201,7 +43240,7 @@
    "field": "计科软工",
    "hub": "IDEA研究院",
    "lastCycle": false,
-   "id": "p1067",
+   "id": "p1068",
    "firstSeen": "2026-10-20"
   },
   {
@@ -43249,7 +43288,7 @@
    "field": "数学物理",
    "hub": "港中深",
    "lastCycle": false,
-   "id": "p1068",
+   "id": "p1069",
    "firstSeen": "2026-10-20"
   },
   {
@@ -43293,7 +43332,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "p1069",
+   "id": "p1070",
    "firstSeen": "2026-11-23"
   },
   {
@@ -43336,7 +43375,7 @@
    "field": "其他交叉",
    "hub": "港中文",
    "lastCycle": false,
-   "id": "p1070",
+   "id": "p1071",
    "firstSeen": "2026-10-20"
   },
   {
@@ -43383,7 +43422,7 @@
    "field": "其他交叉",
    "hub": "崂山实验室",
    "lastCycle": false,
-   "id": "p1071",
+   "id": "p1072",
    "firstSeen": "2026-10-21"
   },
   {
@@ -43430,7 +43469,7 @@
    "field": "其他交叉",
    "hub": "张江实验室",
    "lastCycle": false,
-   "id": "p1072",
+   "id": "p1073",
    "firstSeen": "2026-10-20"
   }
  ],
@@ -43478,7 +43517,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "c129",
+   "id": "c130",
    "firstSeen": "2026-11-23"
   },
   {
@@ -43523,7 +43562,7 @@
    "field": "其他交叉",
    "hub": null,
    "lastCycle": false,
-   "id": "c130",
+   "id": "c131",
    "firstSeen": "2026-11-23"
   },
   {
@@ -43570,7 +43609,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "c147",
+   "id": "c148",
    "firstSeen": "2026-11-23"
   },
   {
@@ -43618,7 +43657,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "c153",
+   "id": "c154",
    "firstSeen": "2026-11-23"
   },
   {
@@ -43663,7 +43702,7 @@
    "hub": null,
    "lastCycle": false,
    "srcTitle": "北上暑校2026（Beijing-Shanghai Summer School in Mathematics）",
-   "id": "c686",
+   "id": "c687",
    "firstSeen": "2026-10-20"
   },
   {
@@ -43709,7 +43748,7 @@
    "field": "计科软工",
    "hub": null,
    "lastCycle": false,
-   "id": "c687",
+   "id": "c688",
    "firstSeen": "2026-11-23"
   },
   {
@@ -43754,7 +43793,7 @@
    "field": "数学物理",
    "hub": null,
    "lastCycle": false,
-   "id": "c746",
+   "id": "c747",
    "firstSeen": "2026-11-23"
   },
   {
@@ -43799,7 +43838,7 @@
    "hub": null,
    "lastCycle": false,
    "srcTitle": "2026年微分几何暑期学校",
-   "id": "c822",
+   "id": "c823",
    "firstSeen": "2026-10-20"
   },
   {
@@ -43842,7 +43881,7 @@
    "hub": "北大",
    "lastCycle": false,
    "srcTitle": "2026年生命科学学院与前沿交叉学科研究院\"大生命科学交叉\"联合夏令营优秀营员名单",
-   "id": "c847",
+   "id": "c848",
    "firstSeen": "2026-10-20"
   },
   {
@@ -43887,7 +43926,7 @@
    "hub": null,
    "lastCycle": false,
    "srcTitle": "2027年校园宇宙线观测暑期学校（承办单位已确定）",
-   "id": "c863",
+   "id": "c864",
    "firstSeen": "2026-10-20"
   },
   {
@@ -43931,7 +43970,7 @@
    "hub": null,
    "lastCycle": false,
    "srcTitle": "复旦深圳河套学院直博夏令营报名开启",
-   "id": "c881",
+   "id": "c882",
    "firstSeen": "2026-10-20"
   },
   {
@@ -43976,7 +44015,7 @@
    "hub": null,
    "lastCycle": false,
    "srcTitle": "上海创芯学院2026年优秀大学生夏令营活动报名通知",
-   "id": "c885",
+   "id": "c886",
    "firstSeen": "2026-10-20"
   },
   {
@@ -44022,7 +44061,7 @@
    "hub": "科学岛",
    "lastCycle": false,
    "srcTitle": "2026年科学岛夏季科研训练营报名通知（第三批）",
-   "id": "c893",
+   "id": "c894",
    "firstSeen": "2026-10-20"
   },
   {
@@ -44068,7 +44107,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "c927",
+   "id": "c928",
    "firstSeen": "2026-10-21"
   },
   {
@@ -44115,7 +44154,7 @@
    "hub": null,
    "lastCycle": false,
    "srcTitle": "2026年物理基础学科国际暑期学校",
-   "id": "c928",
+   "id": "c929",
    "firstSeen": "2026-10-20"
   },
   {
@@ -44162,7 +44201,7 @@
    "hub": null,
    "lastCycle": false,
    "srcTitle": "上海交通大学海洋学院2027年研究生优才夏令营通知",
-   "id": "c929",
+   "id": "c930",
    "firstSeen": "2026-10-20"
   },
   {
@@ -44208,7 +44247,7 @@
    "field": "化学材料",
    "hub": null,
    "lastCycle": false,
-   "id": "c930",
+   "id": "c931",
    "firstSeen": "2026-10-21"
   },
   {
@@ -44255,7 +44294,7 @@
    "hub": null,
    "lastCycle": false,
    "srcTitle": "中国科学院深圳先进技术研究院2026年优秀大学生夏令营",
-   "id": "c931",
+   "id": "c932",
    "firstSeen": "2026-10-20"
   },
   {
@@ -44305,7 +44344,7 @@
    "hub": null,
    "lastCycle": false,
    "srcTitle": "2026年“科技历史与文化”大学生夏令营（第九届）",
-   "id": "c932",
+   "id": "c933",
    "firstSeen": "2026-10-20"
   },
   {
@@ -44349,7 +44388,7 @@
    "hub": null,
    "lastCycle": false,
    "srcTitle": "中国科学技术大学国家卓越工程师学院（先进技术研究院）2026年创新应用科学营报名公告",
-   "id": "c934",
+   "id": "c935",
    "firstSeen": "2026-10-20"
   },
   {
@@ -44397,7 +44436,7 @@
    "hub": null,
    "lastCycle": false,
    "srcTitle": "北京量子信息科学研究院2026年全国优秀大学生夏令营及暑期实践活动",
-   "id": "c937",
+   "id": "c938",
    "firstSeen": "2026-10-20"
   },
   {
@@ -44445,7 +44484,7 @@
    "hub": null,
    "lastCycle": false,
    "srcTitle": "2026年北京大学化学学院和深研院化生学院联合举办“全国优秀大学生夏令营”",
-   "id": "c938",
+   "id": "c939",
    "firstSeen": "2026-10-20"
   },
   {
@@ -44489,7 +44528,7 @@
    "field": "其他交叉",
    "hub": null,
    "lastCycle": false,
-   "id": "c941",
+   "id": "c942",
    "firstSeen": "2026-10-21"
   },
   {
@@ -44532,7 +44571,7 @@
    "hub": null,
    "lastCycle": false,
    "srcTitle": "北京大学现代农学院2026年全国优秀大学生夏令营活动通知",
-   "id": "c942",
+   "id": "c943",
    "firstSeen": "2026-10-20"
   },
   {
@@ -44580,7 +44619,7 @@
    "hub": null,
    "lastCycle": false,
    "srcTitle": "中国科学院长春光机所2026年\"溯光明理\"夏令营邀请函",
-   "id": "c948",
+   "id": "c949",
    "firstSeen": "2026-10-20"
   },
   {
@@ -44626,7 +44665,7 @@
    "hub": null,
    "lastCycle": false,
    "srcTitle": "第八届“计算社会科学方法论”国际暑期学校",
-   "id": "c949",
+   "id": "c950",
    "firstSeen": "2026-10-20"
   },
   {
@@ -44674,7 +44713,7 @@
    "hub": null,
    "lastCycle": false,
    "srcTitle": "中国科学院生物物理研究所2026年生命科学希望之星夏令营报名通知",
-   "id": "c951",
+   "id": "c952",
    "firstSeen": "2026-10-20"
   },
   {
@@ -44721,7 +44760,7 @@
    "hub": "NIBS/北生所",
    "lastCycle": false,
    "srcTitle": "2026年清华大学生物医学交叉研究院（北京生命科学研究所）“暑期科研体验营”",
-   "id": "c952",
+   "id": "c953",
    "firstSeen": "2026-10-20"
   },
   {
@@ -44766,7 +44805,7 @@
    "hub": null,
    "lastCycle": false,
    "srcTitle": "大连化物所2026年大学生夏令营第一轮通知",
-   "id": "c953",
+   "id": "c954",
    "firstSeen": "2026-10-20"
   },
   {
@@ -44813,7 +44852,7 @@
    "hub": null,
    "lastCycle": false,
    "srcTitle": "2026清华大学脑与智能实验室音乐脑科学暑期训练营",
-   "id": "c955",
+   "id": "c956",
    "firstSeen": "2026-10-20"
   },
   {
@@ -44858,7 +44897,7 @@
    "hub": null,
    "lastCycle": false,
    "srcTitle": "2026年理论物理大学生夏令营",
-   "id": "c957",
+   "id": "c958",
    "firstSeen": "2026-10-20"
   },
   {
@@ -44905,7 +44944,7 @@
    "field": "化学材料",
    "hub": null,
    "lastCycle": false,
-   "id": "c959",
+   "id": "c960",
    "firstSeen": "2026-10-21"
   },
   {
@@ -44956,7 +44995,7 @@
    "hub": null,
    "lastCycle": false,
    "srcTitle": "中国科学院高能物理研究所2026年全国大学生夏令营及暑期学校",
-   "id": "c960",
+   "id": "c961",
    "firstSeen": "2026-10-20"
   },
   {
@@ -45004,7 +45043,7 @@
    "hub": null,
    "lastCycle": false,
    "srcTitle": "2026年清华大学人工智能学院大学生学术交流日",
-   "id": "c962",
+   "id": "c963",
    "firstSeen": "2026-10-20"
   },
   {
@@ -45051,7 +45090,7 @@
    "hub": null,
    "lastCycle": false,
    "srcTitle": "2026年\"探索生命的多样性\"暑期夏令营报名通知",
-   "id": "c967",
+   "id": "c968",
    "firstSeen": "2026-10-20"
   },
   {
@@ -45094,7 +45133,7 @@
    "hub": null,
    "lastCycle": false,
    "srcTitle": "ICTP-AP 2026年度\"大学生创新实践训练计划\"项目申请通知",
-   "id": "c968",
+   "id": "c969",
    "firstSeen": "2026-10-20"
   },
   {
@@ -45143,7 +45182,7 @@
    "hub": "深圳医学科学院",
    "lastCycle": false,
    "srcTitle": "深圳医学科学院2026年国际暑期学校",
-   "id": "c970",
+   "id": "c971",
    "firstSeen": "2026-10-20"
   },
   {
@@ -45186,7 +45225,7 @@
    "hub": "NIBS/北生所",
    "lastCycle": false,
    "srcTitle": "2026年NIBS学生暑期训练计划（第二十期）",
-   "id": "c972",
+   "id": "c973",
    "firstSeen": "2026-10-20"
   },
   {
@@ -45233,7 +45272,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "c973",
+   "id": "c974",
    "firstSeen": "2026-10-21"
   },
   {
@@ -45283,7 +45322,7 @@
    "hub": null,
    "lastCycle": false,
    "srcTitle": "2026年“代数与数论”暑期学校",
-   "id": "c974",
+   "id": "c975",
    "firstSeen": "2026-10-20"
   },
   {
@@ -45332,7 +45371,7 @@
    "hub": "CLS/PTN项目",
    "lastCycle": false,
    "srcTitle": "生命科学联合中心（北大方面）2026年暑期培训班",
-   "id": "c975",
+   "id": "c976",
    "firstSeen": "2026-10-20"
   },
   {
@@ -45377,7 +45416,7 @@
    "hub": null,
    "lastCycle": false,
    "srcTitle": "2026南京大学智能科学与技术学院具身智能本科生冬令营",
-   "id": "c982",
+   "id": "c983",
    "firstSeen": "2026-10-20"
   },
   {
@@ -45423,7 +45462,7 @@
    "hub": null,
    "lastCycle": false,
    "srcTitle": "近代物理所2026年度\"走进国家实验室，感受魅力核科学\"优秀大学生冬令营",
-   "id": "c983",
+   "id": "c984",
    "firstSeen": "2026-10-20"
   },
   {
@@ -45468,7 +45507,7 @@
    "hub": "科学岛",
    "lastCycle": false,
    "srcTitle": "第一届优秀大学生冬季科研训练营",
-   "id": "c985",
+   "id": "c986",
    "firstSeen": "2026-10-20"
   },
   {
@@ -45514,7 +45553,7 @@
    "hub": null,
    "lastCycle": false,
    "srcTitle": "2026年\"资源环境与宜居地球\"大学生冬令营",
-   "id": "c988",
+   "id": "c989",
    "firstSeen": "2026-10-20"
   },
   {
@@ -45562,7 +45601,7 @@
    "hub": null,
    "lastCycle": true,
    "srcTitle": "上海应物所2026年\"应用物理\"冬令营招募通知",
-   "id": "c991",
+   "id": "c992",
    "firstSeen": "2026-10-20"
   },
   {
@@ -45613,7 +45652,7 @@
    "hub": null,
    "lastCycle": true,
    "srcTitle": "关于举办2026年\"智慧赋能·创领未来\"优秀大学生冬令营通知",
-   "id": "c993",
+   "id": "c994",
    "firstSeen": "2026-10-20"
   },
   {
@@ -45659,7 +45698,7 @@
    "hub": null,
    "lastCycle": true,
    "srcTitle": "WINTER@AIR 2026冬令营报名",
-   "id": "c999",
+   "id": "c1000",
    "firstSeen": "2026-10-20"
   },
   {
@@ -45709,7 +45748,7 @@
    "hub": null,
    "lastCycle": true,
    "srcTitle": "2026年大学生\"菁英\"冬令营报名公告",
-   "id": "c1000",
+   "id": "c1001",
    "firstSeen": "2026-10-20"
   },
   {
@@ -45753,7 +45792,7 @@
    "field": "数学物理",
    "hub": null,
    "lastCycle": true,
-   "id": "c1002",
+   "id": "c1003",
    "firstSeen": "2026-11-23"
   },
   {
@@ -45799,7 +45838,7 @@
    "hub": null,
    "lastCycle": true,
    "srcTitle": "2025年\"蓝色海洋\"优秀研究生冬令营活动通知",
-   "id": "c1049",
+   "id": "c1050",
    "firstSeen": "2026-10-20"
   },
   {
@@ -45847,7 +45886,7 @@
    "field": "数学物理",
    "hub": null,
    "lastCycle": true,
-   "id": "c1057",
+   "id": "c1058",
    "firstSeen": "2026-10-21"
   },
   {
@@ -45892,7 +45931,7 @@
    "field": "其他交叉",
    "hub": null,
    "lastCycle": false,
-   "id": "c1073",
+   "id": "c1074",
    "firstSeen": "2026-11-23"
   },
   {
@@ -45937,7 +45976,7 @@
    "field": "生物医学",
    "hub": null,
    "lastCycle": false,
-   "id": "c1074",
+   "id": "c1075",
    "firstSeen": "2026-11-23"
   },
   {
@@ -45984,7 +46023,7 @@
    "schoolZh": "加州理工学院",
    "schoolAbbr": "Caltech",
    "lastCycle": false,
-   "id": "c1075",
+   "id": "c1076",
    "firstSeen": "2026-11-23"
   },
   {
@@ -46031,7 +46070,7 @@
    "schoolZh": "冷泉港实验室",
    "schoolAbbr": "CSHL",
    "lastCycle": false,
-   "id": "c1076",
+   "id": "c1077",
    "firstSeen": "2026-11-23"
   }
  ]
