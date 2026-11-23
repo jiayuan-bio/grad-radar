@@ -33,7 +33,25 @@
     "schoolDesc": "纽卡斯尔大学，罗素集团成员，QS2026世界第135。",
     "tier": 2,
     "publishedAt": "2026-11-23",
-    "note": "下次入学2027年9月、2028年1月、2028年4月，无统一申请截止（资助申请截止常更早，需先拿offer再申部分资助）；全日制博士36个月；课程页列Newcastle-Liverpool-Durham BBSRC DTP（最后一届为2025/26）与EPSRC MoSMed CDT为潜在资助通道；Home学费与UKRI对齐（2027-28费率2027年春公布），国际生学费按项目资源以区间计、需交押金，EU/国际生或有25%国际学费奖学金；IELTS 6.5单项不低于5.5"
+    "note": "下次入学2027年9月、2028年1月、2028年4月，无统一申请截止（资助申请截止常更早，需先拿offer再申部分资助）；全日制博士36个月；BBSRC NEEDL博士景观奖2027年10月入学轮由纽卡斯尔牵头并统一受理（另含Durham、Northumbria、Teesside）：2026-10-26开放、2026-11-24 17:00 GMT截止，最多20个四年制名额，含UKRI标准津贴（2027-28数额待定）+学费+科研经费，方向含工程生物与计算生物、结构生物与抗菌药发现、微生物组、农业与粮食安全、神经与衰老，国际生最多30%且签证与搬迁费自理，限报1个项目，面试拟2027-02-03至18；课程页另列Newcastle-Liverpool-Durham BBSRC DTP（其官网注明目前不招生）、DiMeN（已收）与EPSRC MoSMed CDT；Home学费与UKRI对齐（2027-28费率2027年春公布），国际生学费按项目资源以区间计、需交押金，EU/国际生或有25%国际学费奖学金；IELTS 6.5单项不低于5.5"
+  },
+  {
+    "title": "NWDP 西北生物科学博士训练计划（BBSRC DLA，利物浦方向）",
+    "school": "利物浦大学",
+    "country": "英国",
+    "region": "英国",
+    "degree": "博士",
+    "subfield": "生物综合",
+    "url": "https://www.liverpool.ac.uk/doctoral-training/bbsrc-nwdp/apply/",
+    "deadline": "2026-12-04",
+    "funding": "全奖",
+    "ielts": 6.5,
+    "gpa": null,
+    "desc": "利物浦与曼大合办BBSRC博士计划，15个项目在招。",
+    "schoolDesc": "利物浦大学，罗素集团成员，QS2026世界第146。",
+    "tier": 2,
+    "publishedAt": "2026-11-23",
+    "note": "2027/28入学轮已开放：2026-12-04 23:59（英国时间）截止，面试2027-03-08当周（项目页所示开学日2027-10-01）；利物浦方向在招15个项目，经专用Microsoft表单申请、不走学校常规申请系统，一份申请最多选2个利物浦项目，须先联系导师，证明材料发至bbsrcdtp@liverpool.ac.uk；4年制全奖含学费+UKRI标准津贴+科研训练经费，含3个月PIPS实习；面向英国与国际生，国际生全奖名额有限且须在申请前满足英语要求，搬迁费不包；同站Recruitment页仍写2026轮已关、2027项目待更新，以Apply页为准；原NLD DTP（Newcastle-Liverpool-Durham）官网注明不再招生，DiMeN已收于利兹条目；雅思6.5（单项5.5，取自利物浦Biological Sciences博士项目页）"
   },
   {
     "title": "BBSRC SWBio DTP 生物科学博士（西南生科DTP·埃克塞特通道）",
@@ -45,13 +63,13 @@
     "url": "https://www.exeter.ac.uk/study/pg-research/funding/phdfunding/fundedcentres/swbio/",
     "deadline": "2026-12-02",
     "funding": "全奖",
-    "ielts": null,
+    "ielts": 6.5,
     "gpa": null,
     "desc": "BBSRC西南DTP四年全奖，2027年9月入学。",
     "schoolDesc": "埃克塞特大学，罗素集团成员，QS2026世界第154。",
     "tier": 2,
     "publishedAt": "2026-11-23",
-    "note": "布里斯托牵头的BBSRC DTP（Bath/Cardiff/Exeter/Rothamsted联合）；2027轮已开放，截止2026-12-02正午GMT，经DTP中央系统Good Grants统一申请，每校池申请数有限制；4年全奖含UKRI标准津贴（2026-27为21,805镑/年）+学费+科研训练经费；国际生最多占30%全奖名额且无需补缴国际学费差价；首年两段轮转+授课、第2-4年做课题；英语须在1st June前按主修校要求达标（DTP页未列数值）；兼职仅限Home学生；埃克塞特另有NERC GW4+ DTP（截止2027-01-07）"
+    "note": "布里斯托牵头的BBSRC DTP（Bath/Cardiff/Exeter/Rothamsted联合）；2027轮已开放，截止2026-12-02正午GMT，经DTP中央系统Good Grants统一申请，同一主修校在3类奖学金中合计最多报2个项目；4年全奖含UKRI标准津贴（2026-27为21,805镑/年）+学费+科研训练经费；国际生最多占30%全奖名额且无需补缴国际学费差价；首年两段轮转+三门授课（统计、生信与编程、实验设计等），第2-4年做课题，首年结束可MRes出口；埃克塞特DTP面试2027-02-03至05；英语须在2027-06-01前按主修校要求达标（DTP资格页与布里斯托牵头页均指向Profile C：雅思6.5且单项6.5，巴斯页同）；兼职仅限Home学生；埃克塞特另有NERC GW4+ DTP（截止2027-01-07）"
   },
   {
     "title": "PhD in Biomedical Science（约克生物医学研究所YBRI）",
@@ -69,7 +87,7 @@
     "schoolDesc": "约克大学，罗素集团成员，QS2026世界第166。",
     "tier": 2,
     "publishedAt": "2026-11-23",
-    "note": "区别于已收的White Rose约克郡DTP联合条目，此为约克本校独立项目；全日制3-4年（可申3年或4年轨），1月或9月两季入学；自费全年可申，资助看页面funded项目列表及系里funding页（含White Rose Mechanistic Biology DTP等通道）；入学要求2:1或一等荣誉学位（或海外同等）；英语要求经校方课程页查询工具查看，页面未列数值"
+    "note": "区别于已收的Yorkshire Biosciences DTP（Sheffield牵头、约克为成员校）联合条目，此为约克本校独立项目；全日制3-4年（可申3年或4年轨），1月或9月两季入学；自费全年可申；入学要求2:1或一等荣誉学位（或海外同等）；资助：YBRI页funded项目一栏仍写2025 entry并指向DiMeN DTP（每年11至12月开放，已收于利兹条目），生物系funding页把White Rose DTP奖学金列为已关闭的往期项目，未见2027轮本校独立资助公告；英语按校方2027/28研究型分档：Biology档雅思6.5（单项6.0）、Health Sciences档7.0（单项6.5），本课程归哪一档未核到"
   },
   {
     "title": "BBSRC SWBio DTP 生物科学博士（卡迪夫通道）",
@@ -81,30 +99,30 @@
     "url": "https://www.cardiff.ac.uk/study/postgraduate/funding/additional-sources-of-income/research-councils-/UKRI-BBSRC-south-west-bioscience-doctoral-training-partnership",
     "deadline": "2026-12-02",
     "funding": "全奖",
-    "ielts": null,
+    "ielts": 6.5,
     "gpa": null,
     "desc": "SWBio DTP卡迪夫通道，四年全奖博士。",
     "schoolDesc": "卡迪夫大学，罗素集团成员，QS2026世界第178。",
     "tier": 2,
     "publishedAt": "2026-11-23",
-    "note": "截止2026-12-02正午（2027年9月入学，经swbio.ac.uk中央系统申请）；4年全奖含UKRI标准津贴（2026-27为21,805镑/年，兽医背景增强至30,488镑）、学费、科研训练费及3个月实习专项经费；首年两段轮转+三门授课（统计/生信/实验设计等）且可MRes出口，论文须4年内提交；CASE项目津贴上浮；国际生按DTP规则最多占30%名额、无需补学费差价"
+    "note": "截止2026-12-02正午（2027年9月入学，经swbio.ac.uk中央系统申请）；4年全奖含UKRI标准津贴（2026-27为21,805镑/年，兽医背景增强至30,488镑）、学费、科研训练费及3个月实习专项经费；首年两段轮转+三门授课（统计/生信/实验设计等）且可MRes出口，论文须4年内提交；CASE项目津贴上浮；国际生按DTP规则最多占30%名额、无需补学费差价；卡迪夫DTP面试2027-02-09至10；英语须2027-06-01前达标，DTP资格页指向Profile C（雅思6.5且单项6.5），卡迪夫本校Biosciences博士项目页为6.5（单项5.5），以主修校为准；另：卡迪夫牵头的MRC GW4 BioMed3 DLA 2027轮已于2026-10-21截止"
   },
   {
-    "title": "Biological Sciences PhD（生物科学学院）",
+    "title": "NorthWestBio DTP 生物科学博士训练计划（BBSRC，Queen's Belfast 为成员校）",
     "school": "贝尔法斯特女王大学",
     "country": "英国",
     "region": "英国",
     "degree": "博士",
     "subfield": "生物综合",
-    "url": "https://www.qub.ac.uk/courses/postgraduate-research/biological-sciences-phd.html",
-    "deadline": "2027-01-22",
-    "funding": null,
+    "url": "https://www.gla.ac.uk/postgraduate/doctoraltraining/northwestbio/howtoapply/",
+    "deadline": "2026-11-30",
+    "funding": "全奖",
     "ielts": 6.5,
     "gpa": null,
-    "desc": "QUB生物科学博士，按项目逐个招生。",
+    "desc": "格拉斯哥牵头四校BBSRC博士计划，女王大学在列。",
     "schoolDesc": "贝尔法斯特女王大学，罗素集团成员，QS2026世界第196。",
     "tier": 2,
     "publishedAt": "2026-11-23",
-    "note": "学院以单个导师项目制招生（BIO-PHD），课程页当前开放的funded项目（多位导师）截止2027-01-22，往期轮次集中在1-2月与10月；资助渠道含DfE、BBSRC FoodBioSystems DTP、QUARTILES DLA（BBSRC/NERC）等，无项目统一资助保证；IELTS 6.5单项不低于5.5（据官网课程条目）；页面另列开放自费项目（无固定截止）"
+    "note": "NorthWestBio由Glasgow牵头，Lancaster、Queen's Belfast、Strathclyde参与；2027轮国际生窗口2026-10-01至11-30，Home学生2026-11-02至2027-01-04；须先在Glasgow admissions portal提交申请、再填Recruitment Information Form（漏填不进入短名单），可跨校最多报3个项目；入围者约2027年2月底获面试邀请、面试约在2027年3月中；4年制，Home与国际生均获全额学费+UKRI标准津贴（2026-27为21,805镑）+实验经费，国际生最多占30%，签证与IHS自理；雅思最低6.5（Queen's项目页为6.5且单项5.5）；QUB生物科学学院承担该项目（如SBIO-2026-NWB7，2027-10-01开学，四年制）；另：QUB本校Biological Sciences PhD页上截止2027-01-22的funded项目为DfE/DfE CAST资助，明示仅限Home费率申请者"
   }
 ]
