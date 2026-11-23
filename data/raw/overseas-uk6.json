@@ -1,0 +1,40 @@
+[
+ {
+  "title": "University of Oxford DPhil in Statistics（统计系博士·2027-28 轮）",
+  "school": "University of Oxford",
+  "country": "英国",
+  "region": "英国",
+  "board": "overseas",
+  "degree": "博士",
+  "subfield": "计算生物学",
+  "url": "https://www.ox.ac.uk/admissions/graduate/courses/dphil-statistics",
+  "deadline": "2027-01-06",
+  "funding": "竞争制全奖",
+  "ielts": 7.0,
+  "gpa": null,
+  "desc": "牛津统计系DPhil，3-4年，生物统计与统计遗传方向可选。",
+  "schoolDesc": "牛津大学，世界最古老名校之一；统计系在概率论、生物信息、数学遗传与统计方法学居世界前列（系页自述）",
+  "tier": 0,
+  "publishedAt": "2026-11-23",
+  "note": "2027-28入学轮官网明示：奖学金考虑截止2027-01-06 12:00（英国时间）、预期最终截止2027-03-02 12:00，之后视余位决定是否重开；全日制3-4年、2027-10-04开学，2027-28届约19个名额（DPhil与MSc by Research合计，近三年年均约168份申请）；英语标准档IELTS 7.0（单项6.5）；学费2027-28为Home £10,940/年、Overseas £36,260/年；1月截止前提申自动进入牛津多数研究生奖学金评审（全校逾1,200个全/半奖），部分另需单独申请；研究方向含计算统计与机器学习、统计遗传与流行病学（含孟德尔随机化、因果推断）、生物信息与蛋白质信息学（药物发现）、概率论等；申请须先联系意向导师（可列至多3位），个人陈述上限500词；与已收DPhil in Neuroscience（1+3，overseas-uk）为同校不同方向，此为统计-生医交叉通道（牛津第二项目）"
+ },
+ {
+  "title": "University of Cambridge PhD in Medical Science（CRUK Cambridge Institute）",
+  "school": "University of Cambridge",
+  "country": "英国",
+  "region": "英国",
+  "board": "overseas",
+  "degree": "博士",
+  "subfield": "分子生物学",
+  "url": "https://www.postgraduate.study.cam.ac.uk/courses/directory/cvcrpdmsc",
+  "deadline": "2027-01-06",
+  "funding": "未知",
+  "ielts": null,
+  "gpa": null,
+  "desc": "CRUK剑桥研究所医学科学博士，癌症生物学方向直申通道。",
+  "schoolDesc": "剑桥大学，英国顶尖学府；CRUK Cambridge Institute为英国癌症研究旗舰研究所，聚焦癌症生物学基础问题",
+  "tier": 0,
+  "publishedAt": "2026-11-23",
+  "note": "课程页列多轮滚动：Michaelmas 2027入学（2027-10-01开学）2026-09-09开放申请、最终截止2027-05-13，课程资助评审截止2027-01-06（Gates剑桥美国公民轮2026-10-14已过）；另有Lent 2028（截止2027-09-30）与Easter 2028（截止2028-01-13）轮，Lent 2027轮已收口、页面提示部分课程可能提前关闭；3-4年全日制/4-7年兼职；课程页未列明资助条款与语言线（按剑桥研究生统一要求），课程咨询AcDev@cruk.cam.ac.uk；区别于已收Gates Cambridge（全学科奖学金）与Biosciences DTP（BBSRC DTP通道），此为CRUK剑桥研究所癌症方向本校直申通道（剑桥第三项目）；注意与同属Oncology系的CRUK Cambridge Centre MRes+PhD 1+3全奖项目（cvocpdcan，2027轮已于2026-11-17截止、预计2027年9月重开）为两个不同通道，勿混淆"
+ }
+]

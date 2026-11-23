@@ -33,6 +33,7 @@ BOARD_FILES_OVERSEAS = {
     "overseas-eu2.json", "overseas-uk2.json", "overseas-us2.json", "overseas-asia2.json",
     "overseas-eu3.json", "overseas-uk3.json", "overseas-us3.json", "overseas-asia3.json",
     "overseas-eu4.json", "overseas-uk4.json", "overseas-us4.json", "overseas-asia4.json", "overseas-eu5.json", "overseas-us5.json", "overseas-eu6.json", "overseas-asia5.json", "overseas-tw.json",
+    "overseas-jp3.json", "overseas-uk6.json", "overseas-misc2.json",
 }
 SPECIAL_DEADLINES = {"滚动": "滚动", "长期": "长期", "长期开放": "长期", "长期有效": "长期", "全年": "滚动"}
 # 资助口径归一化（机制细节保留在各条 note 里）
