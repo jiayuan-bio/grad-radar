@@ -1,7 +1,7 @@
 {
  "source": "toefl.koolearn.com 2026QS世界大学排名前200（2025-06 QS 官方发布）",
  "retrievedAt": "2026-10-23",
- "count": 200,
+ "count": 201,
  "entries": [
   {
    "rank": 1,
@@ -632,6 +632,13 @@
    "zh": "丹麦技术大学",
    "en": "Technical University of Denmark",
    "country": "丹麦"
+  },
+  {
+   "rank": 105,
+   "zh": "亚琛工业大学",
+   "en": "RWTH Aachen University",
+   "country": "德国",
+   "note": "并列105，维基+双源核实补录"
   },
   {
    "rank": 106,
